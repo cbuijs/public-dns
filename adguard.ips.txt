@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1788229304
+! Version: 1788316517
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -30,14 +30,15 @@
 3.140.31.159$network
 3.173.161.28$network
 3.173.161.37$network
+3.173.161.38$network
+3.173.161.48$network
 3.173.161.54$network
 3.173.161.61$network
-3.174.46.12$network
-3.174.46.41$network
-3.174.46.99$network
-3.174.46.123$network
+3.173.161.93$network
+3.173.161.126$network
 3.218.110.58$network
 3.221.40.56$network
+3.226.108.221$network
 3.226.174.138$network
 4.8.162.51$network
 4.79.132.219$network
@@ -46,7 +47,7 @@
 5.2.75.75$network
 5.11.11.5$network
 5.11.11.11$network
-5.15.64.234$network
+5.15.68.149$network
 5.23.96.239$network
 5.39.73.22$network
 5.39.78.78$network
@@ -92,11 +93,11 @@
 9.9.9.12$network
 9.9.9.13$network
 12.216.108.45$network
-13.40.187.204$network
 13.89.120.251$network
 13.113.212.161$network
 13.205.104.79$network
 13.211.90.38$network
+13.216.119.18$network
 13.223.25.84$network
 13.248.169.48$network
 14.171.94.63$network
@@ -130,19 +131,22 @@
 17.253.56.117$network
 17.253.56.241$network
 17.253.56.243$network
+17.253.56.245$network
+18.134.226.93$network
+18.136.178.243$network
 18.176.23.221$network
 18.200.70.220$network
 18.202.82.211$network
-18.209.204.68$network
-18.245.60.35$network
-18.245.60.44$network
-18.245.60.48$network
-18.245.60.70$network
+18.238.243.107$network
+18.238.243.108$network
+18.238.243.122$network
+18.238.243.129$network
 18.252.156.1$network
 18.254.96.167$network
 20.219.170.173$network
 20.239.160.119$network
 20.253.254.201$network
+23.21.219.159$network
 23.94.211.166$network
 23.95.11.50$network
 23.95.134.15$network
@@ -173,8 +177,6 @@
 31.70.73.6$network
 31.97.249.178$network
 31.130.200.100$network
-31.177.76.32$network
-31.177.80.32$network
 31.202.133.115$network
 34.75.163.154$network
 34.80.137.209$network
@@ -182,8 +184,6 @@
 34.146.42.208$network
 34.159.232.134$network
 34.193.8.96$network
-34.194.86.234$network
-34.202.65.9$network
 34.228.172.186$network
 35.174.79.169$network
 35.190.14.201$network
@@ -247,7 +247,6 @@
 40.83.97.172$network
 41.211.108.4$network
 41.211.125.242$network
-41.221.96.68$network
 42.51.13.218$network
 42.51.37.18$network
 42.51.37.204$network
@@ -266,7 +265,6 @@
 43.174.247.33$network
 43.224.180.137$network
 43.255.123.52$network
-44.193.107.179$network
 44.206.170.166$network
 44.232.93.239$network
 45.8.222.99$network
@@ -349,7 +347,6 @@
 46.36.36.172$network
 46.38.231.33$network
 46.38.234.60$network
-46.41.49.2$network
 46.101.106.33$network
 46.101.110.57$network
 46.161.54.34$network
@@ -373,6 +370,14 @@
 47.122.8.11$network
 47.243.86.248$network
 47.243.233.55$network
+47.246.48.178$network
+47.246.48.179$network
+47.246.48.180$network
+47.246.48.181$network
+47.246.48.182$network
+47.246.48.183$network
+47.246.48.184$network
+47.246.48.185$network
 49.0.2.184$network
 49.12.43.208$network
 49.12.67.122$network
@@ -390,7 +395,6 @@
 49.212.235.44$network
 49.235.74.116$network
 50.16.77.140$network
-50.17.9.206$network
 50.116.59.251$network
 51.15.122.250$network
 51.24.7.1$network
@@ -415,14 +419,16 @@
 51.178.136.114$network
 51.222.16.174$network
 52.3.100.184$network
-52.7.19.63$network
 52.29.2.17$network
+52.45.177.140$network
 52.63.91.105$network
 52.65.235.129$network
 52.80.248.44$network
 52.154.75.179$network
 52.199.8.149$network
+52.203.129.192$network
 52.246.182.50$network
+54.37.79.68$network
 54.37.137.4$network
 54.38.32.102$network
 54.38.55.250$network
@@ -432,7 +438,7 @@
 54.79.3.18$network
 54.90.232.69$network
 54.162.248.245$network
-54.165.255.18$network
+54.166.85.119$network
 54.169.113.231$network
 54.172.110.180$network
 54.187.149.240$network
@@ -442,16 +448,17 @@
 54.243.117.197$network
 57.128.197.194$network
 57.128.237.78$network
+57.129.98.79$network
 57.130.48.7$network
 58.87.96.15$network
 59.124.17.180$network
-59.125.124.83$network
 59.127.0.184$network
 59.127.175.174$network
 60.205.247.82$network
 61.100.13.50$network
 61.216.168.145$network
 61.220.23.186$network
+62.46.40.142$network
 62.58.48.20$network
 62.105.17.234$network
 62.133.35.15$network
@@ -474,20 +481,20 @@
 64.110.98.11$network
 64.118.135.26$network
 64.120.5.251$network
+64.120.31.120$network
 64.120.95.36$network
 64.132.94.251$network
 64.176.188.144$network
 64.215.98.148$network
 64.215.98.149$network
-64.235.41.14$network
+64.233.206.99$network
 64.238.96.12$network
 65.21.252.201$network
 65.21.253.73$network
+65.108.54.17$network
 66.18.4.251$network
 66.23.198.252$network
-66.33.60.35$network
 66.33.60.66$network
-66.33.60.129$network
 66.55.159.186$network
 66.93.87.2$network
 66.109.229.4$network
@@ -533,8 +540,9 @@
 75.119.137.239$network
 76.76.2.11$network
 76.76.2.22$network
-76.76.21.123$network
 76.76.21.142$network
+76.76.21.164$network
+76.76.21.241$network
 76.223.54.146$network
 77.68.29.63$network
 77.68.50.239$network
@@ -574,6 +582,7 @@
 79.143.240.77$network
 79.143.240.79$network
 79.143.240.81$network
+79.184.70.120$network
 80.67.98.226$network
 80.67.169.12$network
 80.67.169.40$network
@@ -618,8 +627,7 @@
 82.204.180.66$network
 82.221.134.26$network
 82.223.203.19$network
-83.5.212.134$network
-83.33.136.36$network
+83.32.177.105$network
 83.68.101.5$network
 83.108.180.138$network
 83.110.6.204$network
@@ -639,7 +647,6 @@
 84.183.57.251$network
 84.204.192.70$network
 85.11.124.186$network
-85.11.167.8$network
 85.90.207.199$network
 85.195.238.15$network
 85.195.238.32$network
@@ -754,7 +761,7 @@
 93.183.105.109$network
 93.189.61.195$network
 93.190.126.69$network
-93.200.23.146$network
+93.200.24.8$network
 93.221.50.114$network
 94.16.111.86$network
 94.16.117.107$network
@@ -816,16 +823,18 @@
 96.45.83.36$network
 96.45.83.189$network
 96.106.7.232$network
+96.106.7.234$network
 96.113.151.145$network
-98.88.146.102$network
-98.88.198.49$network
-98.90.125.41$network
+98.80.92.189$network
+98.85.57.95$network
+98.91.83.131$network
+98.94.231.20$network
 98.95.69.155$network
 98.100.232.5$network
 99.79.182.170$network
 99.80.192.194$network
 100.25.251.112$network
-100.26.178.175$network
+100.56.54.249$network
 100.57.141.215$network
 100.60.211.25$network
 101.6.6.6$network
@@ -835,7 +844,7 @@
 101.198.192.33$network
 101.198.193.29$network
 101.236.69.43$network
-102.113.61.178$network
+102.113.153.62$network
 102.202.192.108$network
 102.216.79.237$network
 102.222.106.96$network
@@ -952,6 +961,7 @@
 104.21.48.226$network
 104.21.49.143$network
 104.21.49.145$network
+104.21.53.126$network
 104.21.54.170$network
 104.21.55.112$network
 104.21.55.250$network
@@ -1017,7 +1027,7 @@
 109.70.100.134$network
 109.74.205.250$network
 109.123.236.250$network
-109.173.233.237$network
+109.173.160.28$network
 109.205.61.98$network
 109.205.183.11$network
 109.223.193.147$network
@@ -1025,8 +1035,8 @@
 109.234.165.186$network
 109.236.119.2$network
 109.236.120.2$network
-109.250.196.70$network
-109.250.197.34$network
+109.250.196.119$network
+109.250.197.147$network
 109.250.205.188$network
 111.20.254.35$network
 111.89.130.120$network
@@ -1039,7 +1049,7 @@
 113.19.135.142$network
 113.142.83.132$network
 113.208.80.4$network
-114.10.44.86$network
+114.10.44.197$network
 114.33.26.67$network
 114.34.0.56$network
 114.66.33.239$network
@@ -1047,7 +1057,7 @@
 115.190.191.220$network
 115.190.192.208$network
 116.90.211.184$network
-116.102.77.166$network
+116.102.186.199$network
 116.202.53.163$network
 116.202.98.177$network
 116.202.176.26$network
@@ -1057,7 +1067,6 @@
 116.203.72.235$network
 116.203.84.65$network
 116.203.104.203$network
-116.203.112.223$network
 116.203.135.71$network
 116.204.197.27$network
 117.53.152.76$network
@@ -1120,7 +1129,6 @@
 132.145.83.120$network
 132.145.97.178$network
 132.145.98.168$network
-132.226.205.6$network
 132.226.217.133$network
 133.167.212.22$network
 133.167.212.25$network
@@ -1283,14 +1291,6 @@
 154.90.44.84$network
 154.212.206.56$network
 154.212.208.25$network
-155.102.167.193$network
-155.102.167.194$network
-155.102.167.195$network
-155.102.167.196$network
-155.102.167.197$network
-155.102.167.198$network
-155.102.167.199$network
-155.102.167.200$network
 155.138.131.15$network
 155.138.148.63$network
 155.248.176.107$network
@@ -1376,7 +1376,6 @@
 165.227.233.200$network
 165.231.253.163$network
 165.232.32.95$network
-166.88.55.47$network
 167.88.48.18$network
 167.88.51.245$network
 167.99.150.134$network
@@ -1463,6 +1462,7 @@
 172.67.202.50$network
 172.67.202.105$network
 172.67.209.107$network
+172.67.212.214$network
 172.67.214.8$network
 172.67.214.227$network
 172.67.216.77$network
@@ -1495,7 +1495,7 @@
 174.138.21.128$network
 174.138.29.175$network
 175.24.154.66$network
-175.143.237.16$network
+175.143.232.4$network
 176.9.1.117$network
 176.9.25.158$network
 176.9.54.219$network
@@ -1514,7 +1514,7 @@
 176.123.4.231$network
 176.123.10.105$network
 176.123.163.193$network
-176.164.155.131$network
+176.164.185.56$network
 177.54.145.131$network
 177.66.203.10$network
 177.69.18.121$network
@@ -1539,13 +1539,12 @@
 178.162.231.59$network
 178.162.231.69$network
 178.162.231.73$network
-178.191.6.218$network
 178.208.3.9$network
 178.209.51.242$network
 178.216.201.128$network
 178.248.239.174$network
 179.61.223.47$network
-182.8.195.98$network
+182.8.195.253$network
 182.40.70.12$network
 183.91.184.14$network
 183.91.184.18$network
@@ -1618,8 +1617,8 @@
 185.228.168.9$network
 185.228.168.10$network
 185.228.168.168$network
+185.229.190.147$network
 185.229.190.148$network
-185.231.100.108$network
 185.234.52.87$network
 185.234.98.39$network
 185.235.78.2$network
@@ -1876,7 +1875,6 @@
 211.115.194.4$network
 211.115.194.5$network
 212.1.77.170$network
-212.7.209.207$network
 212.18.0.5$network
 212.18.3.5$network
 212.19.108.1$network
@@ -1938,8 +1936,8 @@
 216.245.140.20$network
 216.250.97.148$network
 216.254.95.2$network
-217.0.43.146$network
-217.0.43.162$network
+217.0.43.66$network
+217.0.43.114$network
 217.12.221.61$network
 217.18.206.22$network
 217.69.4.29$network
@@ -1960,7 +1958,7 @@
 217.169.20.23$network
 217.182.137.224$network
 217.197.91.153$network
-217.255.212.4$network
+217.255.215.89$network
 218.75.4.130$network
 218.102.23.228$network
 218.188.217.219$network
@@ -1970,7 +1968,7 @@
 220.77.190.228$network
 220.132.163.223$network
 220.135.223.18$network
-220.143.4.252$network
+220.143.4.215$network
 220.158.234.161$network
 221.131.165.165$network
 222.99.114.172$network
@@ -1999,7 +1997,6 @@
 [2001:470:1f29:204::53]$network
 [2001:470:f829:8593:3::7]$network
 [2001:550:5a00:5eb::db5:face]$network
-[2001:558:fd00:ca::5]$network
 [2001:558:fd00:ca::a]$network
 [2001:558:fe21:6b:96:113:151:145]$network
 [2001:578:3f::30]$network
@@ -2042,7 +2039,7 @@
 [2001:8b0:836:900:978f:88ff:f46c:bd67]$network
 [2001:910:800::12]$network
 [2001:910:800::40]$network
-[2001:9e8:4003:ca50:6b4:feff:fe9b:eb1d]$network
+[2001:9e8:4003:7efc:6b4:feff:fe9b:eb1d]$network
 [2001:9e8:4039:7761:21a:8cff:fe43:9654]$network
 [2001:a18:1::29]$network
 [2001:a60::53:1]$network
@@ -2080,7 +2077,7 @@
 [2001:df5:ac80:1114::54]$network
 [2001:df5:ac80:1114::62]$network
 [2001:e68:5040:a7da:d8e7:f548:508b:6346]$network
-[2001:e68:5414:1ce4::10]$network
+[2001:e68:5414:2a0::10]$network
 [2001:1398:1:0:200:1:123:46]$network
 [2001:148f:fffe::1]$network
 [2001:148f:ffff::1]$network
@@ -2118,7 +2115,7 @@
 [2001:41d0:701:1100::4a92]$network
 [2001:41d0:801:2000::6543]$network
 [2001:41d0:1004:3919::1]$network
-[2001:41d0:a900:700:be24:11ff:fe71:9174]$network
+[2001:41d0:a900:700::211]$network
 [2001:41d0:ab02:0:f816:3eff:fed0:d1d7]$network
 [2001:4610:a:1ef::8d22]$network
 [2001:4860:4860::64]$network
@@ -2136,7 +2133,7 @@
 [2001:4ca0:200:3:200:5efe:8d54:451d]$network
 [2001:b000:168::1]$network
 [2001:b000:168::2]$network
-[2001:b011:d000:f16a:211:32ff:fe79:26cd]$network
+[2001:b011:d000:1385:211:32ff:fe79:26cd]$network
 [2001:b030:1416:ff01::bb]$network
 [2003:4:e0b0:102:0:4:0:53]$network
 [2003:a:36f:4f00::1]$network
@@ -2149,7 +2146,6 @@
 [2400:39a0::57:57]$network
 [2400:4052:3a00:d900:be24:11ff:fe2b:c18b]$network
 [2400:52e0:1e01::1444:1]$network
-[2400:52e0:1e01::1445:1]$network
 [2400:6180:0:d0::f7:1001]$network
 [2400:6180:0:d0::5f73:4001]$network
 [2400:6180:100:d0::4e0:6001]$network
@@ -2163,7 +2159,6 @@
 [2400:8902::f03c:93ff:feb8:2f31]$network
 [2400:8902::f03c:95ff:fe59:27bc]$network
 [2400:8904::f03c:92ff:fe29:cb19]$network
-[2400:8d60:6::70c4:7fb1]$network
 [2400:c401::5054:ff:fe1b:b036]$network
 [2400:c401:1002:11:bee:cee:958c:873b]$network
 [2400:c800:5010:1::22]$network
@@ -2203,7 +2198,6 @@
 [2403:3a00:201:1e:49:212:207:51]$network
 [2403:cfc0:1004::b5b:47ff]$network
 [2403:cfc0:1004::1924:b4ef]$network
-[2404:c0:b302:5118:215:18ff:fe01:8131]$network
 [2404:2280:275:0:3::10]$network
 [2404:2280:275:0:3::11]$network
 [2404:9400:1:0:216:3eff:fef0:180a]$network
@@ -2222,8 +2216,10 @@
 [2406:7540:2500:0:103:155:191:225]$network
 [2406:da12:6cb:df00:7a77:c387:2bed:613c]$network
 [2406:da14:16ca:be00:596f:3a82:90e5:3d2e]$network
+[2406:da18:1eac:201:3404:7a35:28af:fd77]$network
 [2406:da1a:1b5:d610:c66d:4ace:e191:b3b1]$network
 [2406:ef80:1:2173::b5f]$network
+[2407:0:3006:36af::1]$network
 [2407:24c0:2::154:3]$network
 [2407:3640:2205:1668::1]$network
 [2407:3640:2238:5447::1]$network
@@ -2256,16 +2252,16 @@
 [2600:1f28:60:800:1863:6fb9:4613:3e55]$network
 [2600:1f28:60:800:1976:5d77:e671:4658]$network
 [2600:1f28:60:800:2bef:4c1b:4a86:1693]$network
-[2600:1f28:60:800:8313:6256:205a:9a4f]$network
 [2600:1f28:60:800:c291:c87:949d:2d9f]$network
+[2600:1f28:60:800:d7bf:2d0a:eddc:ef56]$network
 [2600:1f28:60:801:2052:d5c5:c079:20bc]$network
-[2600:1f28:60:801:9a91:7c5b:9d82:b6bf]$network
-[2600:1f28:60:801:a610:bd7c:4e65:d65f]$network
-[2600:1f28:60:801:d06d:428a:15cf:4ffa]$network
+[2600:1f28:60:801:2372:4795:9ff9:272c]$network
+[2600:1f28:60:801:a07c:aa9:523:e975]$network
 [2600:1f28:60:801:e5ed:db1b:24e8:d720]$network
+[2600:1f28:60:801:ea0b:ed9d:3b55:4bf0]$network
 [2600:1f28:60:802:2c54:def4:78c4:ebc6]$network
 [2600:1f28:60:802:465b:2a7:7cfb:a384]$network
-[2600:1f28:60:802:9152:9ffe:3452:174c]$network
+[2600:1f28:60:802:bf83:47bc:83a4:9c80]$network
 [2600:1f28:60:802:f03f:87ad:fb93:564b]$network
 [2600:1f28:60:802:fd60:9d48:2991:e8af]$network
 [2600:3400:4:1::1]$network
@@ -2287,14 +2283,14 @@
 [2600:5c01:e320:fd01::5]$network
 [2600:6c7f:f000:202::7]$network
 [2600:6c7f:f000:202::8]$network
-[2600:9000:28dc:400:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:1000:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:5200:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:5800:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:7000:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:7a00:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:ae00:f:5c7a:55c0:93a1]$network
-[2600:9000:28dc:e200:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:200:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:c00:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:3800:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:4200:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:5a00:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:6000:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:9e00:f:5c7a:55c0:93a1]$network
+[2600:9000:28dc:ea00:f:5c7a:55c0:93a1]$network
 [2602:2b7:d01:c295::b:18]$network
 [2602:f7f8:2:c::a]$network
 [2602:f7f8:6:a::a]$network
@@ -2333,7 +2329,8 @@
 [2603:c020:800b:ac01:848b:d155:8652:cd03]$network
 [2603:c020:800f:c5af:9fd:880f:6224:4cd4]$network
 [2603:c020:c00d:6401:575a:1ed9:5ce9:7cb1]$network
-[2603:c021:4004:5500:9546:45a2:2238:fb10]$network
+[2603:c021:4004:5500::10]$network
+[2603:c021:4004:5500::100]$network
 [2603:c021:8005:4100:0:6762:42b7:67a3]$network
 [2603:c021:c001:31fa:780:b000:0:415]$network
 [2603:c021:c005:5d7e:1ab:22b8:9164:cf53]$network
@@ -2409,6 +2406,7 @@
 [2606:4700:80:0:e544:736e:8939:512c]$network
 [2606:4700:101::a29f:c242]$network
 [2606:4700:10f::a29f:c442]$network
+[2606:4700:cf1:1000::45]$network
 [2606:4700:3030::6815:250f]$network
 [2606:4700:3030::6815:3191]$network
 [2606:4700:3030::6815:36aa]$network
@@ -2437,6 +2435,7 @@
 [2606:4700:3031::ac43:af34]$network
 [2606:4700:3031::ac43:c6b9]$network
 [2606:4700:3031::ac43:c8fe]$network
+[2606:4700:3031::ac43:d4d6]$network
 [2606:4700:3031::ac43:d6e3]$network
 [2606:4700:3031::ac43:d84d]$network
 [2606:4700:3032::6815:2f7]$network
@@ -2461,6 +2460,7 @@
 [2606:4700:3034::6815:2bbc]$network
 [2606:4700:3034::6815:2c68]$network
 [2606:4700:3034::6815:2e98]$network
+[2606:4700:3034::6815:357e]$network
 [2606:4700:3034::6815:39ea]$network
 [2606:4700:3034::6815:413c]$network
 [2606:4700:3034::6815:4663]$network
@@ -2758,7 +2758,7 @@
 [2a01:b740:a41:e80::14]$network
 [2a01:b740:a41:e80::1c]$network
 [2a01:b740:a41:e80::2:1]$network
-[2a01:b740:a41:e80::2:2]$network
+[2a01:b740:a41:e80::2:3]$network
 [2a01:b740:a41:e80::2:4]$network
 [2a01:b740:a41:e80::2:5]$network
 [2a01:b740:a41:e80::2:6]$network
@@ -2819,7 +2819,6 @@
 [2a03:4000:32:16a::1]$network
 [2a03:4000:38:20e::853]$network
 [2a03:4000:42:6c5::1]$network
-[2a03:4000:47:8b::1]$network
 [2a03:4000:4d:c92:88c0:96ff:fec6:b9d]$network
 [2a03:4000:51:be:c458:19ff:fe28:b481]$network
 [2a03:4000:52:be:38fd:75ff:fef8:852a]$network

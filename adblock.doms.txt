@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1788229304
+! Version: 1788316517
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -75,7 +75,6 @@
 ||adguard.marto.si^
 ||adguard.meddy94.de^
 ||adguard.mrmartian.co^
-||adguard.neon0404.space^
 ||adguard.oms-ctr.ru^
 ||adguard.onlyfriends.info^
 ||adguard.pangerl.it^
@@ -167,7 +166,6 @@
 ||basic.rethinkdns.com^
 ||bazooki-infra.dev^
 ||bestwon203.com^
-||biying.flymlc.com^
 ||blackhole.myon.lu^
 ||blitz-setup.ahadns.com^
 ||block.abstergo.it^
@@ -252,7 +250,6 @@
 ||de-fra.doh.sb^
 ||de-fsn-w-p-1.nashkan.net^
 ||de.dns.privex.io^
-||de.mc.ihatemy.live^
 ||de01.dns4me.net^
 ||deep-henchman-excuse.cfd^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -311,7 +308,6 @@
 ||dns.adnull.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
-||dns.alekberg.net^
 ||dns.alidns.com^
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
@@ -400,6 +396,7 @@
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
 ||dns.csswg.org^
+||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
@@ -676,7 +673,6 @@
 ||dns.sev.monster^
 ||dns.shareworx.net^
 ||dns.shecan.ir^
-||dns.sheggi.ch^
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||dns.simplylinux.ch^
@@ -776,8 +772,8 @@
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
+||dns1.evv.wideopenwest.com^
 ||dns1.giga.net.tw^
-||dns1.grca.com.tw^
 ||dns1.in-berlin.de^
 ||dns1.irumatech.com^
 ||dns1.klcd.eu^
@@ -806,7 +802,6 @@
 ||dns13.quad9.net^
 ||dns2.77globalservices.com^
 ||dns2.aciertadns.es^
-||dns2.alekberg.net^
 ||dns2.cbio.top^
 ||dns2.cfbisd.edu^
 ||dns2.concera.org^
@@ -852,11 +847,8 @@
 ||dnsguard.pub^
 ||dnslow.me^
 ||dnsnl-noads.alekberg.net^
-||dnsnl.alekberg.net^
 ||dnsotls.lab.nic.cl^
 ||dnspub.restena.lu^
-||dnsse-noads.alekberg.net^
-||dnsse.alekberg.net^
 ||dnstls.mobik.com^
 ||dnsvps.familiamv.net^
 ||dnsvps.porteii.com^
@@ -1045,8 +1037,11 @@
 ||eth.link^
 ||eu-central.mc.ihatemy.live^
 ||eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com^
+||eu.doh.sb^
 ||eu.tri-dns.net^
 ||eu1.dns.lavate.ch^
+||eu1.netbird.services^
+||europe.doh.sb^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
@@ -1334,7 +1329,6 @@
 ||meganerd.nl^
 ||megumin.is.my.waifu.cz^
 ||mendozasdelivery.com^
-||metis.sheggi.ch^
 ||mia01.dnscry.pt^
 ||mickedi.isgood.host^
 ||mikezhang.xyz^
@@ -1455,7 +1449,6 @@
 ||ns1.mig.ru^
 ||ns1.mildmedia.se^
 ||ns1.mobifoneglobal.vn^
-||ns1.mtlonline.mw^
 ||ns1.neocom.net.ua^
 ||ns1.nettally.com^
 ||ns1.ns-strongsystems.com.ar^
@@ -1632,9 +1625,6 @@
 ||o.rsaikat.com^
 ||o1.lt^
 ||ocph05.cornes.me^
-||odoh-target-noads-se.alekberg.net^
-||odoh-target-noads.alekberg.net^
-||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
@@ -1859,6 +1849,7 @@
 ||tiar.app^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
+||timedns.net^
 ||timmes.nl^
 ||tj.jamesxue.xyz^
 ||tk31z.com^
