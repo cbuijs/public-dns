@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP uBlock Origin List
-! Version: 1788574898
+! Version: 1788661595
 !
 ! NOTE: This relies on the "$ipaddress" modifier of uBlock Origin!
 !
@@ -162,6 +162,8 @@
 *$ipaddress=23.184.48.19
 *$ipaddress=23.191.80.43
 *$ipaddress=23.191.80.72
+*$ipaddress=23.224.132.190
+*$ipaddress=23.225.197.51
 *$ipaddress=23.230.253.98
 *$ipaddress=23.239.3.190
 *$ipaddress=23.239.10.192
@@ -451,6 +453,7 @@
 *$ipaddress=57.130.48.7
 *$ipaddress=58.87.96.15
 *$ipaddress=59.124.17.180
+*$ipaddress=59.125.124.83
 *$ipaddress=59.127.0.184
 *$ipaddress=59.127.175.174
 *$ipaddress=60.205.247.82
@@ -604,7 +607,6 @@
 *$ipaddress=81.177.141.15
 *$ipaddress=81.187.201.92
 *$ipaddress=81.187.221.24
-*$ipaddress=81.196.104.182
 *$ipaddress=81.243.96.113
 *$ipaddress=82.33.251.194
 *$ipaddress=82.64.29.93
@@ -650,7 +652,6 @@
 *$ipaddress=85.195.238.15
 *$ipaddress=85.195.238.32
 *$ipaddress=85.214.236.96
-*$ipaddress=85.215.153.54
 *$ipaddress=85.215.156.33
 *$ipaddress=85.215.167.100
 *$ipaddress=85.215.251.174
@@ -669,7 +670,6 @@
 *$ipaddress=86.81.125.145
 *$ipaddress=86.106.74.219
 *$ipaddress=87.98.218.207
-*$ipaddress=87.106.35.241
 *$ipaddress=87.106.86.48
 *$ipaddress=87.106.161.126
 *$ipaddress=87.106.240.124
@@ -761,7 +761,7 @@
 *$ipaddress=93.189.61.195
 *$ipaddress=93.190.126.69
 *$ipaddress=93.200.24.8
-*$ipaddress=93.221.50.114
+*$ipaddress=93.234.193.27
 *$ipaddress=94.16.111.86
 *$ipaddress=94.16.117.107
 *$ipaddress=94.23.71.64
@@ -1358,7 +1358,6 @@
 *$ipaddress=162.250.6.163
 *$ipaddress=162.254.86.13
 *$ipaddress=162.254.214.11
-*$ipaddress=162.255.119.104
 *$ipaddress=163.22.188.3
 *$ipaddress=163.44.124.204
 *$ipaddress=163.47.117.176
@@ -1479,7 +1478,10 @@
 *$ipaddress=172.233.147.42
 *$ipaddress=172.233.221.243
 *$ipaddress=172.234.27.233
+*$ipaddress=172.238.172.228
+*$ipaddress=172.238.176.31
 *$ipaddress=172.239.49.232
+*$ipaddress=172.239.57.230
 *$ipaddress=172.239.193.67
 *$ipaddress=173.20.169.71
 *$ipaddress=173.73.159.164
@@ -1558,6 +1560,7 @@
 *$ipaddress=185.37.252.150
 *$ipaddress=185.38.27.139
 *$ipaddress=185.43.135.1
+*$ipaddress=185.44.82.158
 *$ipaddress=185.47.221.200
 *$ipaddress=185.49.141.38
 *$ipaddress=185.51.200.1
@@ -1579,6 +1582,7 @@
 *$ipaddress=185.109.168.44
 *$ipaddress=185.111.159.59
 *$ipaddress=185.111.188.46
+*$ipaddress=185.121.169.47
 *$ipaddress=185.126.255.30
 *$ipaddress=185.130.47.20
 *$ipaddress=185.131.216.30
@@ -1702,6 +1706,7 @@
 *$ipaddress=194.0.5.64
 *$ipaddress=194.9.14.10
 *$ipaddress=194.26.213.15
+*$ipaddress=194.28.99.248
 *$ipaddress=194.32.107.48
 *$ipaddress=194.36.144.87
 *$ipaddress=194.39.205.10
@@ -1768,6 +1773,7 @@
 *$ipaddress=198.46.188.14
 *$ipaddress=198.54.117.10
 *$ipaddress=198.54.117.11
+*$ipaddress=198.54.117.242
 *$ipaddress=198.58.111.139
 *$ipaddress=198.100.146.31
 *$ipaddress=198.140.141.46
@@ -2628,7 +2634,6 @@
 *$ipaddress=[2a00:7142:1:1::53]
 *$ipaddress=[2a00:7c83:0:12:14d0:f5b6:4ec:a]
 *$ipaddress=[2a00:da00:1800:8302::1]
-*$ipaddress=[2a00:da00:f425:5800::1]
 *$ipaddress=[2a00:da00:f465:6600::1]
 *$ipaddress=[2a00:da00:f465:6600::2]
 *$ipaddress=[2a00:e200:0:52::2]
@@ -2639,7 +2644,6 @@
 *$ipaddress=[2a01:238:20a:202:1160::]
 *$ipaddress=[2a01:238:4231:5200::1]
 *$ipaddress=[2a01:239:22f:800::1]
-*$ipaddress=[2a01:239:251:a800::1]
 *$ipaddress=[2a01:239:2ae:5800::1]
 *$ipaddress=[2a01:239:2f3:de00::1]
 *$ipaddress=[2a01:239:2fd:b700::1]
@@ -2951,6 +2955,8 @@
 *$ipaddress=[2a0c:8fc0:1749:66:18::16]
 *$ipaddress=[2a0c:8fc1:6441::412:ab34]
 *$ipaddress=[2a0c:9a40:1080::466]
+*$ipaddress=[2a0c:9a40:e100::53]
+*$ipaddress=[2a0c:9a40:e101::53]
 *$ipaddress=[2a0c:9a46:1e00:9::a]
 *$ipaddress=[2a0c:9f00:2:d928:6f0a:b4e2::]
 *$ipaddress=[2a0c:c580:0:1::2:1]

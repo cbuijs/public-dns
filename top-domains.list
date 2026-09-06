@@ -230,12 +230,12 @@ dns.ha-dvin.pp.ua
 dns.haka.se
 dns.hakim.one
 dns.hinet.net
+dns.home.daniil.it
 dns.hostux.net
 dns.islandnet.com
 dns.kamilszczepanski.com
 dns.kastner-online.de
 dns.kebree.fr
-dns.kernel-error.de
 dns.kescher.at
 dns.koala.us.to
 dns.korzhyk.pp.ua
@@ -339,7 +339,6 @@ dns1.lon.gblx.net
 dns1.nextdns.io
 dns1.nonexiste.net
 dns1.nordvpn.com
-dns1.norlight.net
 dns1.omdc.pl
 dns1.philcom.com.ph
 dns1.phx.gblx.net
@@ -380,10 +379,8 @@ dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
-dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsvps.porteii.com
@@ -413,6 +410,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cox.net
 doh.crypto.sx
@@ -424,6 +422,9 @@ doh.dns.sb
 doh.dns4all.eu
 doh.dnswarden.com
 doh.domreg.lt
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.ersei.net
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
@@ -444,8 +445,10 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.onedns.net
 doh.opendns.com
+doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.quickline.ch
@@ -463,6 +466,8 @@ doh.totoro.pub.eo.dnse5.com
 doh.umbrella.com
 doh.us.dnswarden.com
 doh.viatech.com.tw
+doh.westeu.pi-dns.com
+doh.westus.pi-dns.com
 doh.xfinity.com
 doh.zknt.org
 doh1.b-cdn.net
@@ -476,22 +481,29 @@ doq.ffmuc.net
 dot-de.blahdns.com
 dot-pure.onedns.net
 dot-sg.blahdns.com
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.onedns.net
 dot.pub
 dot.quickline.ch
 dot.sb
 dot.seby.io
 dot.tiar.app
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dsm.killtw.im
 dtw01.dnscry.pt
+dual.home.daniil.it
 dub01.dnscry.pt
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
@@ -555,7 +567,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geo.hafnova.com
 getdnsapi.net
@@ -581,6 +592,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 home-bitteeinbyte.ddns.net
 home.bitteeinbyte.de
+home.daniil.it
 home.kebree.fr
 home.molinero.dev
 home27.duckdns.org
@@ -671,7 +683,6 @@ isb01.dnscry.pt
 ist01.dnscry.pt
 iterator.lazada.com
 iterator.lazada.com.queniubl.com
-jackyes.ovh
 jhb01.dnscry.pt
 jichi.hopto.org
 jkt01.dnscry.pt
@@ -800,7 +811,6 @@ ns1.kbronet.com.tw
 ns1.kemenkumham.go.id
 ns1.lrhosting.com
 ns1.mildmedia.se
-ns1.mobifoneglobal.vn
 ns1.neocom.net.ua
 ns1.nettally.com
 ns1.omtrdc.net
@@ -829,7 +839,6 @@ ns2.dnshome.de
 ns2.epidc.co.kr
 ns2.erdemnet.mn
 ns2.execulink.com
-ns2.fusilsystem.com
 ns2.gtelmiennam.vn
 ns2.hanastar.net.id
 ns2.hostable.com
@@ -838,7 +847,6 @@ ns2.iccnet.cm
 ns2.kbronet.com.tw
 ns2.metrotvnews.com
 ns2.mhnet.com.br
-ns2.mobifoneglobal.vn
 ns2.nnt.lt
 ns2.novatel.bg
 ns2.opennameserver.org
@@ -878,7 +886,6 @@ nue01.dnscry.pt
 nvi-dns.bitdefender.net
 nyc01.dnscry.pt
 nz01.dns4me.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -908,6 +915,7 @@ pdx01.dnscry.pt
 penta.aeins.at
 per.adfilter.net
 phx01.dnscry.pt
+pi.daniil.it
 piekacz.pl
 pihole.aws.ketan.dev
 pihole1.hoerli.net
@@ -1152,7 +1160,6 @@ vultr-chi-1.edge.nextdns.io
 vultr-ewr-1.edge.nextdns.io
 vultr-lax-1.edge.nextdns.io
 vultr-sao-1.edge.nextdns.io
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com

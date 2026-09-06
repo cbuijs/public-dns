@@ -33,6 +33,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+addns1.m-it.ro
 adfiltro.fun
 adg.rokh.biz
 adg.rueiliu.space
@@ -56,6 +57,7 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
+adguard.mrmartian.co
 adguard.neon0404.space
 adguard.nielsvoorn.nl
 adguard.sparshbajaj.me
@@ -300,7 +302,6 @@ dns1.chevalier.net
 dns1.cl.newpangea.de
 dns1.dns-ga.de
 dns1.epresaenergia.es
-dns1.grca.com.tw
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -331,6 +332,8 @@ dns2.webhotel.net
 dns3.dns-ga.de
 dns4.imkvq.com
 dnscrypt-cert.dns.seby.io
+dnses.alekberg.net
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -350,7 +353,6 @@ doh.au.ahadns.net
 doh.battle.christmas
 doh.blahdns.com
 doh.boje8.me
-doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.cnetwork.cloud
@@ -360,9 +362,6 @@ doh.dns1.lonet.org
 doh.dnslify.com
 doh.doh.my.id
 doh.dscloud.me
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.excdn.eu.org
 doh.gcp.pathofgrace.com
@@ -384,13 +383,11 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.phdns1.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
@@ -399,8 +396,6 @@ doh.securedns.eu
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.westeu.pi-dns.com
-doh.westus.pi-dns.com
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -411,23 +406,17 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.asecdns.com
 dot.au.ahadns.net
-dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.dns-ga.de
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.securedns.eu
-dot.westus.pi-dns.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
@@ -447,6 +436,7 @@ fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -586,7 +576,6 @@ ns3.cx
 ns3.kemenkumham.go.id
 ns3.link
 ns3.weebox.com
-ns31246114.ip-151-106-32.eu
 ns4.anonymizer.com
 ns4.seolizer.de
 ns8.maharashtra.gov.in.bhc.gov.in
@@ -597,6 +586,7 @@ obscuro.top
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 okado.online
 onic-doh.lista.my.id
 open.dns0.eu
@@ -673,11 +663,13 @@ v.qdev.cc
 v6.rubyfish.cn
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt

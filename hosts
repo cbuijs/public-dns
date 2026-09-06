@@ -9,7 +9,7 @@
 1.34.46.92 doh.killtw.im dsm.killtw.im
 1.230.209.26 agh.kyusang.win
 2.45.195.237 abstergo.it block.abstergo.it
-2.59.170.20 adguard.mrmartian.co easyhandshake.com ko-18948-tr.xyz
+2.59.170.20 doh.centraleu.pi-dns.com doh.eastas.pi-dns.com doh.eastau.pi-dns.com doh.eastus.pi-dns.com doh.northeu.pi-dns.com doh.pi-dns.com doh.westeu.pi-dns.com doh.westus.pi-dns.com dot.centraleu.pi-dns.com dot.eastas.pi-dns.com dot.eastau.pi-dns.com dot.eastus.pi-dns.com dot.northeu.pi-dns.com dot.westus.pi-dns.com easyhandshake.com ko-18948-tr.xyz
 2.135.147.99 kz-pav-w-p-1.nashkan.net
 3.9.180.22 qual.cuprum.ru
 3.10.65.124 uk01.dns4me.net
@@ -142,6 +142,8 @@
 23.154.81.92 vps404.brueggus.de yvr01.dnscry.pt
 23.184.48.19 llk01.dnscry.pt vps300.brueggus.de
 23.191.80.43 vps410.brueggus.de yhz01.dnscry.pt
+23.224.132.190 tk31z.com
+23.225.197.51 tk31z.com
 23.230.253.98 dfw02.dnscry.pt vps362.brueggus.de
 23.239.3.190 dns.efficientdocuments.com
 23.239.10.192 dns.fizz.studio
@@ -406,6 +408,7 @@
 57.130.48.7 dns2.saferbfc.org
 58.87.96.15 cn1-v1.dxng.net cn1.dxng.net dns.beardic.cn tx224-9449-bj-v0.0.dxng.net
 59.124.17.180 ns1.amobile.com.tw
+59.125.124.83 dns1.grca.com.tw
 59.127.0.184 dns.chunghwamc.com
 59.127.175.174 dns.jhangy.us
 60.205.247.82 dns.imaicool.com
@@ -548,7 +551,6 @@
 81.177.141.15 dns.nas-server.ru
 81.187.201.92 dns.neilzone.co.uk
 81.187.221.24 dns-tls.bitwiseshift.net
-81.196.104.182 addns1.m-it.ro
 81.243.96.113 dns.jichi.io jichi.hopto.org
 82.33.251.194 dns.numerus.com
 82.64.29.93 cloud.tezoi.com
@@ -589,7 +591,6 @@
 85.195.238.15 dns.momou.ch
 85.195.238.32 dns.momou.ch
 85.214.236.96 dns.colorfreedom.org
-85.215.153.54 dns.dremaxx.de
 85.215.156.33 dns.schlagheck.berlin
 85.215.167.100 pihole3.hoerli.net
 85.215.251.174 typaza.com
@@ -607,7 +608,6 @@
 86.54.11.213 noads.joindns4.eu
 86.81.125.145 dns.huizegunsing.nl
 87.98.218.207 ns3111247.ip-87-98-218.eu
-87.106.35.241 dns.dremaxx.de
 87.106.86.48 vps.robotboard.de
 87.106.161.126 doh.valscosmos.com
 87.106.240.124 cloudns.bosco.ovh
@@ -686,7 +686,7 @@
 93.189.61.195 ipv4-zepto-ams-2.edge.nextdns.io zepto-ams-2.edge.nextdns.io
 93.190.126.69 doh.immerda.ch
 93.200.24.8 ueni.dyndns.org
-93.221.50.114 dnsblock.grisumedia.de
+93.234.193.27 dnsblock.grisumedia.de
 94.16.111.86 dns.immanuelschaffer.de
 94.16.117.107 ns2.4netguides.org
 94.23.71.64 dns.clanto.cloud dns.scuola.org
@@ -909,7 +909,7 @@
 104.198.12.197 ore-dns.bitdefender.net
 104.200.18.74 dns.bobstrecansky.com
 104.200.67.194 lax02.dnscry.pt vps304.brueggus.de
-104.219.250.37 adguard.mrmartian.co easyhandshake.com ko-18948-tr.xyz
+104.219.250.37 doh.centraleu.pi-dns.com doh.eastas.pi-dns.com doh.eastau.pi-dns.com doh.eastus.pi-dns.com doh.northeu.pi-dns.com doh.pi-dns.com doh.westeu.pi-dns.com doh.westus.pi-dns.com dot.centraleu.pi-dns.com dot.eastas.pi-dns.com dot.eastau.pi-dns.com dot.eastus.pi-dns.com dot.northeu.pi-dns.com dot.westus.pi-dns.com easyhandshake.com ko-18948-tr.xyz
 104.234.167.66 sg-w-p-1.nashkan.net
 104.236.116.148 ns.00dani.me
 104.238.165.18 dns.f4a.fun
@@ -1206,7 +1206,7 @@
 160.119.253.209 sa01.dns4me.net
 160.250.95.28 dac-1.hakim.one dns.hakim.one
 160.250.227.196 dns.bebasid.com unfiltered.dns.bebasid.com
-160.251.64.80 dns.aaytorr.com dns.comeonjames.club dns.edgeburnmedia.com dns.guardmydns.com dns.zfsystem.tech doh.thio.me tlz.asia yuvelirtut.website
+160.251.64.80 dns.edgeburnmedia.com dns.guardmydns.com dns.zfsystem.tech doh.thio.me tlz.asia
 161.35.136.3 doh-primary-pool.goodbyegambling.com
 161.118.145.178 adguard.haneulo.com
 161.129.34.134 5g.o0o.re
@@ -1227,7 +1227,6 @@
 162.250.6.163 anexia-chi-1.edge.nextdns.io ipv4-anexia-chi-1.edge.nextdns.io
 162.254.86.13 vno01.dnscry.pt vps363.brueggus.de
 162.254.214.11 ns1.serverwholesale.com
-162.255.119.104 xmr.land
 163.22.188.3 dns.iktcds.edu.tw
 163.172.70.43 dns-fr-psv1.cloudsides.com postalsv1.mkid.top
 163.172.131.116 stratus.bugz.fr
@@ -1338,9 +1337,12 @@
 172.233.59.98 dns.pccoach.nl
 172.233.147.42 adguard.hartley.cloud
 172.233.221.243 doh.archuser.org
-172.234.27.233 dnses.alekberg.net dnsnl-noads.alekberg.net gclouddns.com odoh-target.alekberg.net sdns22.gkonuralp.com tk31z.com wantaquddin.com xorbiadns.com
-172.239.49.232 dnses.alekberg.net dnsnl-noads.alekberg.net gclouddns.com odoh-target.alekberg.net sdns22.gkonuralp.com tk31z.com wantaquddin.com xorbiadns.com
-172.239.193.67 dnses.alekberg.net dnsnl-noads.alekberg.net gclouddns.com odoh-target.alekberg.net sdns22.gkonuralp.com tk31z.com wantaquddin.com xorbiadns.com
+172.234.27.233 dns.comeonjames.club sdns22.gkonuralp.com yuvelirtut.website
+172.238.172.228 dns.aaytorr.com
+172.238.176.31 dns.aaytorr.com
+172.239.49.232 dns.comeonjames.club sdns22.gkonuralp.com yuvelirtut.website
+172.239.57.230 dns.aaytorr.com
+172.239.193.67 dns.comeonjames.club sdns22.gkonuralp.com yuvelirtut.website
 173.20.169.71 cahlen.com dns.cahlen.com
 173.73.159.164 dns.chilimac.net home.chilimac.net
 173.208.212.205 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net
@@ -1406,6 +1408,7 @@
 185.37.252.150 ee-tll.doh.sb
 185.38.27.139 kracon.anycast.uncensoreddns.org
 185.43.135.1 odvr.nic.cz
+185.44.82.158 dns.dremaxx.de
 185.47.221.200 dns.kukal.cz
 185.49.141.38 getdnsapi.net
 185.51.200.1 pro.shecan.ir
@@ -1423,6 +1426,7 @@
 185.109.168.44 gb-cov-w-p-1.nashkan.net
 185.111.159.59 asia.tri-dns.net
 185.111.188.46 dns1.dnscrypt.ca
+185.121.169.47 dns.dremaxx.de
 185.130.47.20 nl.dns.privex.io
 185.131.216.30 ns.trcnet.fi
 185.131.216.152 ns.trcnet.fi
@@ -1527,6 +1531,7 @@
 194.0.5.3 doh.dns4all.eu
 194.9.14.10 ns.neocom.net.ua ns1.neocom.net.ua
 194.26.213.15 dub01.dnscry.pt vps366.brueggus.de
+194.28.99.248 dns.dremaxx.de
 194.32.107.48 trf01.dnscry.pt vps284.brueggus.de
 194.36.144.87 morbitzer.de www.morbitzer.de
 194.39.205.10 muc01.dnscry.pt vps214.brueggus.de
@@ -1575,6 +1580,7 @@
 198.46.188.14 dns.foxyfy.net
 198.54.117.10 safeservedns.com
 198.54.117.11 safeservedns.com
+198.54.117.242 xmr.land
 198.58.111.139 us.doh.cloudveil.org
 198.100.146.31 ns503600.ip-198-100-146.net
 198.140.141.46 ams01.dnscry.pt gw-nl02.brueggus.de
@@ -2057,7 +2063,7 @@
 2602:fed2:fe0:283::1 vps405.brueggus.de yyc01.dnscry.pt
 2602:ff65:0:99::8410:2ce0 axcelx-bos-1.edge.nextdns.io ipv6-axcelx-bos-1.edge.nextdns.io
 2602:ff75:7:b79::b4b4 lax02.dnscry.pt vps304.brueggus.de
-2602:ffbb:100:4::2 doh.dns.sb na.doh.sb us-chi.doh.sb
+2602:ffbb:100:4::2 na.doh.sb us-chi.doh.sb
 2603:1040:a03:3::90 doh.technochat.in
 2603:c020:5:3566:beef:beef:beef:beef dns.ofdoom.net
 2603:c020:4000:3d34:6160:20db:353b:24d3 o.rsaikat.com
@@ -2341,7 +2347,6 @@
 2a00:6d40:2:2082::f:1 dns.technorail.com
 2a00:7c83:0:12:14d0:f5b6:4ec:a naw01.dnscry.pt vps474.brueggus.de
 2a00:da00:1800:8302::1 dns.kuuhaku.moe
-2a00:da00:f425:5800::1 dns.dremaxx.de
 2a00:da00:f465:6600::1 ahoj.email
 2a00:da00:f465:6600::2 ahoj.email zakaria.website
 2a00:e200:0:52::2 ns2.novatel.bg
@@ -2352,7 +2357,6 @@
 2a01:238:20a:202:1160:: project-evoex.de
 2a01:238:4231:5200::1 ns3.opennameserver.org
 2a01:239:22f:800::1 pihole3.hoerli.net
-2a01:239:251:a800::1 dns.dremaxx.de
 2a01:239:2ae:5800::1 dns2.stefanux.net
 2a01:239:2f3:de00::1 vps.robotboard.de
 2a01:239:2fd:b700::1 ns1.opennameserver.org
@@ -2616,6 +2620,8 @@
 2a0c:8902::53 ns2.dnshome.de
 2a0c:8fc0:1749:66:18::16 muc01.dnscry.pt vps214.brueggus.de
 2a0c:8fc1:6441::412:ab34 tyo01.dnscry.pt vps226.brueggus.de
+2a0c:9a40:e100::53 dns.dremaxx.de
+2a0c:9a40:e101::53 dns.dremaxx.de
 2a0c:9a46:1e00:9::a dns.practicallyunhackable.com practicallyunhackable.com
 2a0c:e300::1337 dns.aquilenet.fr
 2a0d:1a43:c010:135:: us1.dns.lavate.ch

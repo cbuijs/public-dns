@@ -34,7 +34,6 @@ adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
-addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
@@ -70,7 +69,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.mrmartian.co
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -770,6 +768,7 @@ dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.evv.wideopenwest.com
 dns1.giga.net.tw
+dns1.grca.com.tw
 dns1.in-berlin.de
 dns1.irumatech.com
 dns1.klcd.eu
@@ -837,12 +836,10 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnstls.mobik.com
@@ -889,6 +886,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cornes.me
 doh.cox.net
@@ -904,6 +902,9 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnswarden.com
 doh.domreg.lt
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -935,10 +936,12 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
+doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -967,6 +970,8 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westeu.pi-dns.com
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -985,11 +990,16 @@ doq.ffmuc.net
 dot-de.blahdns.com
 dot-pure.onedns.net
 dot-sg.blahdns.com
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.onedns.net
 dot.pub
 dot.quickline.ch
@@ -997,6 +1007,7 @@ dot.sb
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -1088,7 +1099,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geo.hafnova.com
 geshido.vpn.geshido.ru
@@ -1621,7 +1631,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 ocph05.cornes.me
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -2004,7 +2013,6 @@ vultr-chi-1.edge.nextdns.io
 vultr-ewr-1.edge.nextdns.io
 vultr-lax-1.edge.nextdns.io
 vultr-sao-1.edge.nextdns.io
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -2028,7 +2036,6 @@ xbcpb668.com
 xenergy.cc
 xholgm.top
 xmr.land
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt

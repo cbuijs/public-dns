@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1788574898
+! Version: 1788661595
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -163,6 +163,8 @@
 23.184.48.19$network
 23.191.80.43$network
 23.191.80.72$network
+23.224.132.190$network
+23.225.197.51$network
 23.230.253.98$network
 23.239.3.190$network
 23.239.10.192$network
@@ -452,6 +454,7 @@
 57.130.48.7$network
 58.87.96.15$network
 59.124.17.180$network
+59.125.124.83$network
 59.127.0.184$network
 59.127.175.174$network
 60.205.247.82$network
@@ -605,7 +608,6 @@
 81.177.141.15$network
 81.187.201.92$network
 81.187.221.24$network
-81.196.104.182$network
 81.243.96.113$network
 82.33.251.194$network
 82.64.29.93$network
@@ -651,7 +653,6 @@
 85.195.238.15$network
 85.195.238.32$network
 85.214.236.96$network
-85.215.153.54$network
 85.215.156.33$network
 85.215.167.100$network
 85.215.251.174$network
@@ -670,7 +671,6 @@
 86.81.125.145$network
 86.106.74.219$network
 87.98.218.207$network
-87.106.35.241$network
 87.106.86.48$network
 87.106.161.126$network
 87.106.240.124$network
@@ -762,7 +762,7 @@
 93.189.61.195$network
 93.190.126.69$network
 93.200.24.8$network
-93.221.50.114$network
+93.234.193.27$network
 94.16.111.86$network
 94.16.117.107$network
 94.23.71.64$network
@@ -1359,7 +1359,6 @@
 162.250.6.163$network
 162.254.86.13$network
 162.254.214.11$network
-162.255.119.104$network
 163.22.188.3$network
 163.44.124.204$network
 163.47.117.176$network
@@ -1480,7 +1479,10 @@
 172.233.147.42$network
 172.233.221.243$network
 172.234.27.233$network
+172.238.172.228$network
+172.238.176.31$network
 172.239.49.232$network
+172.239.57.230$network
 172.239.193.67$network
 173.20.169.71$network
 173.73.159.164$network
@@ -1559,6 +1561,7 @@
 185.37.252.150$network
 185.38.27.139$network
 185.43.135.1$network
+185.44.82.158$network
 185.47.221.200$network
 185.49.141.38$network
 185.51.200.1$network
@@ -1580,6 +1583,7 @@
 185.109.168.44$network
 185.111.159.59$network
 185.111.188.46$network
+185.121.169.47$network
 185.126.255.30$network
 185.130.47.20$network
 185.131.216.30$network
@@ -1703,6 +1707,7 @@
 194.0.5.64$network
 194.9.14.10$network
 194.26.213.15$network
+194.28.99.248$network
 194.32.107.48$network
 194.36.144.87$network
 194.39.205.10$network
@@ -1769,6 +1774,7 @@
 198.46.188.14$network
 198.54.117.10$network
 198.54.117.11$network
+198.54.117.242$network
 198.58.111.139$network
 198.100.146.31$network
 198.140.141.46$network
@@ -2629,7 +2635,6 @@
 [2a00:7142:1:1::53]$network
 [2a00:7c83:0:12:14d0:f5b6:4ec:a]$network
 [2a00:da00:1800:8302::1]$network
-[2a00:da00:f425:5800::1]$network
 [2a00:da00:f465:6600::1]$network
 [2a00:da00:f465:6600::2]$network
 [2a00:e200:0:52::2]$network
@@ -2640,7 +2645,6 @@
 [2a01:238:20a:202:1160::]$network
 [2a01:238:4231:5200::1]$network
 [2a01:239:22f:800::1]$network
-[2a01:239:251:a800::1]$network
 [2a01:239:2ae:5800::1]$network
 [2a01:239:2f3:de00::1]$network
 [2a01:239:2fd:b700::1]$network
@@ -2952,6 +2956,8 @@
 [2a0c:8fc0:1749:66:18::16]$network
 [2a0c:8fc1:6441::412:ab34]$network
 [2a0c:9a40:1080::466]$network
+[2a0c:9a40:e100::53]$network
+[2a0c:9a40:e101::53]$network
 [2a0c:9a46:1e00:9::a]$network
 [2a0c:9f00:2:d928:6f0a:b4e2::]$network
 [2a0c:c580:0:1::2:1]$network
