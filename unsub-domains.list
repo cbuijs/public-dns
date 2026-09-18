@@ -70,7 +70,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -749,6 +748,7 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
+dns.yunzheng.space
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
@@ -851,8 +851,6 @@ do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
-doh-01.spectrum.com
-doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
@@ -879,7 +877,6 @@ doh.archuser.org
 doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
-doh.azoris.ovh
 doh.beauty
 doh.blockerdns.com
 doh.boje8.me
@@ -1025,7 +1022,6 @@ dus01.dnscry.pt
 dyn.velyn.my.id
 dynamic.melvin2204.nl
 ea-dns.rubyfish.cn
-easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgeuno-bsb-1.edge.nextdns.io
 edgeuno-cwb-1.edge.nextdns.io
@@ -1073,6 +1069,7 @@ fdns2.dismail.de
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
 fidelius.top
+filter.dns.yunzheng.space
 firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
@@ -1260,7 +1257,6 @@ jp-tyo-w-p-1.nashkan.net
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
-jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
@@ -1314,7 +1310,6 @@ luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
@@ -1358,6 +1353,7 @@ najiakeji.top
 nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
+nb-proxy.host.arcadeus.net
 nc.aaaab3n.moe
 ndns.233py.com
 ned-dns.bitdefender.net
@@ -1412,10 +1408,12 @@ ns01.csloxinfo.com
 ns01.kcs.edu.hk
 ns01.netventure.de
 ns01.scmginc.com
+ns01.supercom.com.ph
 ns02.ash01.latisys.net
 ns02.icore.com
 ns02.sac-it.dk
 ns02.scmginc.com
+ns02.supercom.com.ph
 ns03.nextraworld.com
 ns04.sung.info
 ns1.amobile.com.tw
@@ -1506,6 +1504,7 @@ ns2.epidc.co.kr
 ns2.erdemnet.mn
 ns2.execulink.com
 ns2.ezy.net.id
+ns2.fivestardns.com
 ns2.flodns.net
 ns2.foodline.ru
 ns2.fusilsystem.com
@@ -1522,7 +1521,6 @@ ns2.lsv.ru
 ns2.metrotvnews.com
 ns2.mhnet.com.br
 ns2.mobifoneglobal.vn
-ns2.nnt.lt
 ns2.novatel.bg
 ns2.opennameserver.org
 ns2.phillipcapital.in
@@ -1535,7 +1533,6 @@ ns2.s.net.pl
 ns2.sedronar.gov.ar
 ns2.siteprotect.co.kr
 ns2.skuld.jp
-ns2.solwaycomms.net
 ns2.strongarm.io
 ns2.sumselprov.go.id
 ns2.teentelecom.net
@@ -1824,7 +1821,6 @@ splat-api.eu-frankfurt-1.oci.oraclecloud.com
 splat-api.uk-london-1.oci.oraclecloud.com
 splat-api.us-ashburn-1.oci.oraclecloud.com
 splat-api.us-phoenix-1.oci.oraclecloud.com
-squidmall.vip
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
 staging.dnsteam.globuscs.info

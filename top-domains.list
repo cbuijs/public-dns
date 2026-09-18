@@ -29,6 +29,7 @@ adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.lege.despagne.net
+adguard.maison.gifino.fr
 adguard.piekacz.pl
 adguard1.jsanagustin.net
 adguard1.leadmon.net
@@ -217,6 +218,7 @@ dns.cretaforce.gr
 dns.crystalyx.net
 dns.csaonline.de
 dns.csswg.org
+dns.cynthialabs.net
 dns.d365.in
 dns.d94.xyz
 dns.daemon.za.net
@@ -432,8 +434,6 @@ dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsvps.porteii.com
 dog.dns.qwer.pw
-doh-01.spectrum.com
-doh-02.spectrum.com
 doh-2.seby.io
 doh-de.blahdns.com
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
@@ -452,7 +452,6 @@ doh.apad.pro
 doh.apad.pro.cdn.cloudflare.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
-doh.archuser.org
 doh.asia.dnswarden.com
 doh.beauty
 doh.bt.com
@@ -783,6 +782,7 @@ llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
 mail.data.haus
+maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
 map-custom-dns.bebasid.com
@@ -845,9 +845,11 @@ ns0.fdn.fr
 ns01.ash01.latisys.net
 ns01.bt.gob.ve
 ns01.csloxinfo.com
+ns01.supercom.com.ph
 ns02.ash01.latisys.net
 ns02.icore.com
 ns02.sac-it.dk
+ns02.supercom.com.ph
 ns03.nextraworld.com
 ns1.az-ix.net
 ns1.binhdinh.gov.vn
@@ -910,7 +912,6 @@ ns2.iccnet.cm
 ns2.kbronet.com.tw
 ns2.metrotvnews.com
 ns2.mhnet.com.br
-ns2.nnt.lt
 ns2.novatel.bg
 ns2.opennameserver.org
 ns2.probe-networks.de

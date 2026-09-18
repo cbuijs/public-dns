@@ -59,6 +59,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.neon0404.space
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.taxiora.tn
@@ -338,6 +339,8 @@ dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
+doh-01.spectrum.com
+doh-02.spectrum.com
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -345,6 +348,7 @@ doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 doh.abmb.win
 doh.au.ahadns.net
+doh.azoris.ovh
 doh.battle.christmas
 doh.chi.ahadns.net
 doh.cippapp.com
@@ -410,6 +414,7 @@ dot.occ.top
 dot.pl.ahadns.net
 dot.securedns.eu
 drs.rustsword.com
+easyhandshake.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -453,6 +458,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jp1.f7b6h9.tk
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -482,6 +488,7 @@ mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 mailkyb.co
+mainframe.dewed.de
 mask-t.apple-dns.net
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
@@ -524,9 +531,7 @@ ns.unidathosting.sk
 ns0.ldn-fai.net
 ns001.bisnet.uk.com
 ns002.bisnet.uk.com
-ns01.supercom.com.ph
 ns01.yuasa.co.jp
-ns02.supercom.com.ph
 ns06.mtel.mo
 ns1-doh.iriseden.fr
 ns1.anixe.pl
@@ -555,20 +560,20 @@ ns2.asgroup.es
 ns2.ballerz.gg
 ns2.cityonlines.com
 ns2.dnsprivacy.at
-ns2.fivestardns.com
 ns2.interles.net.br
 ns2.jon.bz
 ns2.neofission.com.my
 ns2.netmyne.com
+ns2.nnt.lt
 ns2.ongnet.ru
 ns2.seolizer.de
+ns2.solwaycomms.net
 ns2.venderonline.pt
 ns2.vh35705.vhostingservices.com
 ns3.cx
 ns3.kemenkumham.go.id
 ns3.link
 ns3.weebox.com
-ns31246114.ip-151-106-32.eu
 ns4.anonymizer.com
 ns4.seolizer.de
 ns8.maharashtra.gov.in.bhc.gov.in
@@ -623,6 +628,7 @@ shitblocker.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+squidmall.vip
 sriedmueadguard.casa
 suhaila.dev
 surt.ml
