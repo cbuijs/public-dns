@@ -168,6 +168,7 @@ dns-test-alb-2081756747.us-east-1.elb.amazonaws.com
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.13evl.com
 dns.18bit.cn
 dns.23-4.cn
 dns.233py.com
@@ -210,6 +211,7 @@ dns.circl.lu
 dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
+dns.comff.net
 dns.comss.one
 dns.connect.fail
 dns.connect.net.pk
@@ -232,6 +234,7 @@ dns.dns-53.com
 dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
+dns.doh.best
 dns.dynx.pro
 dns.efficientdocuments.com
 dns.elemental.software
@@ -263,6 +266,7 @@ dns.home.daniil.it
 dns.hostux.net
 dns.islandnet.com
 dns.kamilszczepanski.com
+dns.kapite.in
 dns.kastner-online.de
 dns.kebree.fr
 dns.kernel-error.de
@@ -325,6 +329,7 @@ dns.rubyfish.cn
 dns.sb
 dns.sea1.speakeasy.net
 dns.sellan.fr
+dns.shareworx.net
 dns.shecan.ir
 dns.silentlybren.com
 dns.sindominio.net
@@ -337,6 +342,7 @@ dns.spirio.fr
 dns.startupstack.tech
 dns.stevenz.net
 dns.stormycloud.org
+dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
 dns.switch.ch
@@ -490,6 +496,7 @@ doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.libredns.gr
 doh.luigi.nexific.it
+doh.lv
 doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
@@ -934,6 +941,7 @@ ns3.ntd.ch
 ns3.opennameserver.org
 ns3.uzpak.uz
 ns303371.ovh.net
+ns306038.ip-91-121-223.eu
 ns3311221.ovh.net
 ns4.absatellite.net
 ns4.epidc.co.kr
@@ -1010,6 +1018,7 @@ r1bnc.com
 radia.bortzmeyer.org
 rdd01.dnscry.pt
 rdns.faelix.net
+regiopolis.cloud
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -1105,6 +1114,7 @@ tiar.app
 tiger.dns.qwer.pw
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 toolbox.cloud.zknt.org
 tor.cloudflare-dns.com
 tpa01.dnscry.pt
@@ -1245,6 +1255,7 @@ wurzn.hagezi.org
 www.c-dns.com
 www.muxyuji.ru
 www.rethinkdns.com
+xenergy.cc
 yhz01.dnscry.pt
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
