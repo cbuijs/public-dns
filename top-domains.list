@@ -22,12 +22,14 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adguard-dns.com
+adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.bitteeinbyte.de
 adguard.depieri.net
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.kasbot.net
 adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.piekacz.pl
@@ -89,6 +91,7 @@ balancer.mc.ihatemy.live
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
+bazooki-infra.dev
 blitz-setup.ahadns.com
 block.abstergo.it
 blog.kimiblock.top
@@ -188,16 +191,19 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 dns.aquilenet.fr
+dns.arkbotech.com
 dns.artikel10.org
 dns.aruba.it
 dns.asysec.com
 dns.atl1.speakeasy.net
+dns.b72.com
 dns.bebasid.com
 dns.belnet.be
 dns.beta.gandi.net
 dns.bitdefender.net
 dns.bitdefender.net.akadns.net
 dns.blokada.org
+dns.braene.com
 dns.brahma.world
 dns.brono.cloud
 dns.caliph.dev
@@ -205,6 +211,7 @@ dns.carson-family.com
 dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
+dns.chadeyron.fr
 dns.chromeina.top
 dns.chunghwamc.com
 dns.circl.lu
@@ -225,6 +232,7 @@ dns.d365.in
 dns.d94.xyz
 dns.daemon.za.net
 dns.dallinbryce.com
+dns.datenquark.de
 dns.deadsec.net
 dns.decloudus.com
 dns.dgea.fr
@@ -235,6 +243,7 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
+dns.dyn1.de
 dns.dynx.pro
 dns.efficientdocuments.com
 dns.elemental.software
@@ -261,6 +270,7 @@ dns.guard.io
 dns.ha-dvin.pp.ua
 dns.haka.se
 dns.hakim.one
+dns.haoxuan.xyz
 dns.hinet.net
 dns.home.daniil.it
 dns.hostux.net
@@ -273,6 +283,7 @@ dns.kernel-error.de
 dns.kescher.at
 dns.koala.us.to
 dns.korzhyk.pp.ua
+dns.kosan.moe
 dns.lax1.speakeasy.net
 dns.lepilleur.com
 dns.lermer.nl
@@ -281,6 +292,7 @@ dns.lgprk.com
 dns.liberador.net
 dns.lista.my.id
 dns.lobbygod.com
+dns.luma-medien.com
 dns.maitrekuc.fr
 dns.marasov.id
 dns.marbledfennec.net
@@ -288,6 +300,7 @@ dns.mateo.ovh
 dns.mayx.eu.org
 dns.mbrjun.cn
 dns.meeo.win
+dns.melvin2204.nl
 dns.mnet-online.de
 dns.mnt.it
 dns.molinero.dev
@@ -322,10 +335,13 @@ dns.pub
 dns.quad9.net
 dns.quickline.ch
 dns.rabbitdns.org
+dns.redhosting.com.ar
+dns.retakecs.com
 dns.rhscz.eu
 dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
+dns.sarak.as
 dns.sb
 dns.sea1.speakeasy.net
 dns.sellan.fr
@@ -365,12 +381,14 @@ dns.us-ashburn-1.oci.oraclecloud.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oci.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
+dns.vaioswolke.xyz
 dns.vinnyp.xyz
 dns.vnu.edu.vn
 dns.wang.art
 dns.watch
 dns.weixin.qq.com.cn
 dns.xiumu.org.cdn.cloudflare.net
+dns.xlion.tw
 dns.yandex.ru
 dns.yuu-g.net
 dns.zfsystem.tech
@@ -460,6 +478,7 @@ doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.asia.dnswarden.com
 doh.beauty
+doh.blockerdns.com
 doh.bt.com
 doh.buzz
 doh.captnemo.in
@@ -523,6 +542,7 @@ doh.umbrella.com
 doh.us.dnswarden.com
 doh.viatech.com.tw
 doh.westus.pi-dns.com
+doh.xcom.pro
 doh.xfinity.com
 doh.zknt.org
 doh003.280blocker.net
@@ -562,6 +582,7 @@ dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
 dus01.dnscry.pt
+dynamic.melvin2204.nl
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
 edgeuno-bsb-1.edge.nextdns.io
@@ -628,6 +649,7 @@ gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 geo.hafnova.com
 getdnsapi.net
+glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 gtm-sg-5r538sziu04.go-behind.one
@@ -651,6 +673,7 @@ hkg02.dnscry.pt
 hole.elbschloss.xyz
 home-bitteeinbyte.ddns.net
 home.bitteeinbyte.de
+home.chadeyron.fr
 home.daniil.it
 home.kebree.fr
 home.molinero.dev
@@ -666,6 +689,7 @@ ibksturm.synology.me
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
+imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inf-wan.vip.meituan.com
@@ -822,6 +846,7 @@ naw01.dnscry.pt
 nc.aaaab3n.moe
 ndns.233py.com
 ned-dns.bitdefender.net
+netcup.mismat.ch
 newd.rezyro.com
 nicolas-dorriere.fr
 nicsezcheckfbi.gov
@@ -890,6 +915,7 @@ ns1.powertech.no
 ns1.recursive.dnsbycomodo.com
 ns1.romepc.com
 ns1.rr.ru
+ns1.serverwholesale.com
 ns1.sotelips.net
 ns1.transtelecom.net
 ns1.uzpak.uz
@@ -998,6 +1024,11 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pixie.porkbun.com
 pluton.plan9-dns.com
+pm1239-bd.xyz
+pm7051-br.xyz
+pm9352-bd.xyz
+polisitogel.webcam
+pooblet.co.za
 preview.dnsteam.globuscs.info
 privacy.plumedns.com
 private.canadianshield.cira.ca
@@ -1084,6 +1115,7 @@ sgn01.dnscry.pt
 shield.afixer.app
 sin02.dnscry.pt
 sin03.dnscry.pt
+sink.nolo.ltd
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -1263,6 +1295,7 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
+zdn.ro
 zepto-ams-1.edge.nextdns.io
 zepto-ams-2.edge.nextdns.io
 zepto-bru-1.edge.nextdns.io
