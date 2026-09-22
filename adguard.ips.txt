@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1789957298
+! Version: 1790044051
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -87,6 +87,7 @@
 8.26.56.26$network
 8.129.152.230$network
 8.137.89.115$network
+8.210.55.60$network
 8.224.34.74$network
 9.9.9.9$network
 9.9.9.10$network
@@ -246,6 +247,7 @@
 40.83.97.172$network
 41.211.108.4$network
 41.211.125.242$network
+41.221.96.68$network
 42.51.13.218$network
 42.51.37.18$network
 42.51.37.204$network
@@ -367,7 +369,6 @@
 47.107.121.125$network
 47.108.0.63$network
 47.122.8.11$network
-47.243.86.248$network
 47.243.233.55$network
 49.0.2.184$network
 49.12.43.208$network
@@ -698,7 +699,6 @@
 89.223.88.74$network
 89.233.43.71$network
 90.46.206.248$network
-91.7.43.169$network
 91.98.82.96$network
 91.99.154.175$network
 91.99.208.109$network
@@ -726,6 +726,7 @@
 91.207.154.1$network
 91.207.155.1$network
 91.217.86.4$network
+91.217.197.2$network
 91.219.215.227$network
 91.227.148.37$network
 91.229.48.22$network
@@ -747,6 +748,7 @@
 93.189.61.195$network
 93.190.126.69$network
 93.200.24.8$network
+93.234.203.163$network
 94.16.111.86$network
 94.16.116.146$network
 94.16.117.107$network
@@ -897,7 +899,6 @@
 103.196.38.200$network
 103.196.152.126$network
 103.199.16.93$network
-103.212.98.155$network
 103.219.194.252$network
 103.224.212.217$network
 103.225.36.238$network
@@ -1535,6 +1536,7 @@
 178.248.239.174$network
 179.61.223.47$network
 182.8.212.26$network
+182.16.68.115$network
 182.40.70.12$network
 183.91.184.14$network
 183.91.184.18$network
@@ -1576,9 +1578,9 @@
 185.126.255.30$network
 185.130.47.20$network
 185.131.216.30$network
-185.131.216.152$network
-185.131.217.62$network
-185.131.217.109$network
+185.131.217.108$network
+185.131.217.191$network
+185.131.217.197$network
 185.134.196.52$network
 185.134.196.54$network
 185.134.196.55$network
@@ -1763,7 +1765,6 @@
 198.46.188.14$network
 198.54.117.10$network
 198.54.117.11$network
-198.54.117.242$network
 198.58.111.139$network
 198.100.146.31$network
 198.140.141.46$network

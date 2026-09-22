@@ -17,6 +17,7 @@ abstergo.it
 ada.openbld.net
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
+adblock.indianets.net
 adblock.mydns.network
 adfree.usableprivacy.net
 adfreedns.top
@@ -156,6 +157,7 @@ den01.dnscry.pt
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com
 dfw02.dnscry.pt
 digitale-gesellschaft.ch
+dj.354688.xyz
 dns-53.com
 dns-53.us
 dns-doh-no-safe-search.dnsforfamily.com
@@ -178,8 +180,8 @@ dns.13evl.com
 dns.18bit.cn
 dns.23-4.cn
 dns.233py.com
+dns.354688.xyz
 dns.aa.net.uk
-dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -243,6 +245,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-53.com
 dns.dns-53.us
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
@@ -337,6 +340,7 @@ dns.peb-schmidt.de
 dns.petqa.ru
 dns.porteii.com
 dns.pub
+dns.qrtz.club
 dns.quad9.net
 dns.quickline.ch
 dns.rabbitdns.org
@@ -459,6 +463,7 @@ dnscache.e-utp.net
 dnsenc.com
 dnsforfamily.com
 dnsforge.de
+dnsguard.pub
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsvps.porteii.com
@@ -677,6 +682,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hole.elbschloss.xyz
 home-bitteeinbyte.ddns.net
+home-server.store
 home.bitteeinbyte.de
 home.chadeyron.fr
 home.daniil.it
@@ -912,6 +918,7 @@ ns1.kbronet.com.tw
 ns1.kemenkumham.go.id
 ns1.lrhosting.com
 ns1.mildmedia.se
+ns1.mtlonline.mw
 ns1.neocom.net.ua
 ns1.nettally.com
 ns1.omtrdc.net
@@ -1050,7 +1057,9 @@ public.dns.iij.jp
 public.ns.nwps.fi
 punono.duckdns.org
 q3i6k7j3.stackpathcdn.com
+qdns02.nymterm.com
 qlf-doh.inria.fr
+qrtz.club
 r1bnc.com
 radia.bortzmeyer.org
 rdd01.dnscry.pt

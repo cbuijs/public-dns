@@ -73,6 +73,7 @@
 8.20.247.20 ns2.recursive.dnsbycomodo.com
 8.26.56.26 ns1.recursive.dnsbycomodo.com
 8.137.89.115 shijiu.asia
+8.210.55.60 dns.23-4.cn
 8.224.34.74 ns3.i-evolve.net
 9.9.9.9 dns.quad9.net dns9.quad9.net
 9.9.9.10 dns-nosec.quad9.net dns10.quad9.net
@@ -214,6 +215,7 @@
 40.83.97.172 dns.mzrme.cn
 41.211.108.4 ns2.iccnet.cm
 41.211.125.242 ns1.iccnet.cm
+41.221.96.68 ns1.mtlonline.mw
 42.51.13.218 doh.18bit.cn
 42.51.37.18 doh.18bit.cn
 42.51.37.204 dns.18bit.cn doh.18bit.cn
@@ -323,7 +325,6 @@
 46.253.255.81 dns.hanmey.de
 47.100.62.161 agh.xinfeng16m.top
 47.107.121.125 dns.ikataruto.com
-47.243.86.248 dns.23-4.cn
 47.243.233.55 sunnygyl.com
 49.0.2.184 dns1.irumatech.com
 49.12.43.208 clean.dnsforge.de
@@ -628,7 +629,6 @@
 89.208.251.213 tj.jamesxue.xyz
 89.233.43.71 unicast.censurfridns.dk unicast.uncensoreddns.org
 90.46.206.248 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr nicolas-dorriere.fr
-91.7.43.169 dnsblock.grisumedia.de
 91.98.82.96 doh.technochat.in
 91.99.154.175 dnsforge.de
 91.99.208.109 brono.cloud dns.brono.cloud
@@ -654,6 +654,7 @@
 91.207.154.1 doh.domreg.lt
 91.207.155.1 doh.domreg.lt
 91.217.86.4 dns.tls-data.de
+91.217.197.2 ns.golta.mk.ua
 91.227.148.37 ns1.rr.ru
 91.229.48.22 ns2.v-telecom.ru
 91.239.27.199 testaghome.meshkov.info
@@ -671,6 +672,7 @@
 93.189.61.195 ipv4-zepto-ams-2.edge.nextdns.io zepto-ams-2.edge.nextdns.io
 93.190.126.69 doh.immerda.ch
 93.200.24.8 ueni.dyndns.org
+93.234.203.163 dnsblock.grisumedia.de
 94.16.111.86 dns.immanuelschaffer.de
 94.16.116.146 dns.scarx.net nb-proxy.host.arcadeus.net
 94.16.117.107 ns2.4netguides.org
@@ -810,7 +812,6 @@
 103.196.38.200 query.hdns.io
 103.196.152.126 dns.goldplate.org
 103.199.16.93 han01.dnscry.pt vps369.brueggus.de
-103.212.98.155 tk31z.com
 103.219.194.252 hk2.ooroot.com
 103.224.212.217 solaxy.live
 103.225.36.238 ns1.blackfiberph.com
@@ -882,7 +883,7 @@
 104.26.14.30 basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com www.rethinkdns.com
 104.26.15.30 basic.rethinkdns.com rethinkdns.com sky.rethinkdns.com www.rethinkdns.com
 104.36.86.181 geg01.dnscry.pt vps301.brueggus.de
-104.128.62.173 doh.dns.sb na.doh.sb us-chi.doh.sb
+104.128.62.173 na.doh.sb us-chi.doh.sb
 104.156.154.11 lax01.dnscry.pt vps421.brueggus.de
 104.171.252.111 adguard.easez.net
 104.192.5.133 ns2.atdserver.com
@@ -1192,7 +1193,7 @@
 160.119.253.209 sa01.dns4me.net
 160.250.95.28 dac-1.hakim.one dns.hakim.one
 160.250.227.196 dns.bebasid.com unfiltered.dns.bebasid.com
-160.251.64.80 dns.edgeburnmedia.com doh.thio.me tlz.asia
+160.251.64.80 dns.edgeburnmedia.com tlz.asia
 161.35.136.3 doh-primary-pool.goodbyegambling.com
 161.118.145.178 adguard.haneulo.com
 161.129.34.134 5g.o0o.re
@@ -1323,12 +1324,12 @@
 172.233.59.98 dns.pccoach.nl
 172.233.147.42 adguard.hartley.cloud
 172.233.221.243 doh.archuser.org
-172.234.27.233 dns.aaytorr.com dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
-172.237.129.108 dltuykfgp.top
-172.237.129.236 dltuykfgp.top
-172.237.129.242 dltuykfgp.top
-172.239.49.232 dns.aaytorr.com dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
-172.239.193.67 dns.aaytorr.com dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
+172.234.27.233 dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
+172.237.129.108 dltuykfgp.top www.dltuykfgp.top
+172.237.129.236 dltuykfgp.top www.dltuykfgp.top
+172.237.129.242 dltuykfgp.top www.dltuykfgp.top
+172.239.49.232 dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
+172.239.193.67 dns.guardmydns.com dns.zfsystem.tech sdns22.gkonuralp.com
 173.20.169.71 cahlen.com dns.cahlen.com
 173.208.212.205 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net
 173.230.149.113 dns.scott-smith.us
@@ -1383,6 +1384,7 @@
 178.209.51.242 nsec.arnor.org
 178.248.239.174 comss.ru
 182.8.212.26 dns.velyn.my.id dyn.velyn.my.id
+182.16.68.115 tk31z.com
 183.91.184.14 ns1.gtelmiennam.vn
 183.91.184.18 ns2.gtelmiennam.vn
 183.171.200.162 punono.duckdns.org
@@ -1418,9 +1420,9 @@
 185.121.169.47 dns.dremaxx.de
 185.130.47.20 nl.dns.privex.io
 185.131.216.30 ns.trcnet.fi
-185.131.216.152 ns.trcnet.fi
-185.131.217.62 ns.trcnet.fi
-185.131.217.109 ns.trcnet.fi
+185.131.217.108 ns.trcnet.fi
+185.131.217.191 ns.trcnet.fi
+185.131.217.197 ns.trcnet.fi
 185.134.196.52 pdns.faelix.net
 185.134.196.54 rdns.faelix.net
 185.134.196.55 rdns.faelix.net
@@ -1569,7 +1571,6 @@
 198.46.188.14 dns.foxyfy.net
 198.54.117.10 safeservedns.com
 198.54.117.11 safeservedns.com
-198.54.117.242 xmr.land
 198.58.111.139 us.doh.cloudveil.org
 198.100.146.31 ns503600.ip-198-100-146.net
 198.140.141.46 ams01.dnscry.pt gw-nl02.brueggus.de
