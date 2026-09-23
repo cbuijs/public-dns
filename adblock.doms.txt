@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1790044051
+! Version: 1790130127
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -173,7 +173,6 @@
 ||blog.kimiblock.top^
 ||bluemood.me^
 ||bne01.dnscry.pt^
-||bp.ccas.dev^
 ||bravedns.com^
 ||brono.cloud^
 ||bts01.dnscry.pt^
@@ -1792,7 +1791,6 @@
 ||security.rabbitdns.org^
 ||seoul.dnsovertor.cc^
 ||server.spirio.fr^
-||service.ccas.dev^
 ||servidor01.itwebhost.net^
 ||sexybody.myqnapcloud.com^
 ||sg-dns1.bancuh.com^
