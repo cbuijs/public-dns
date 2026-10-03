@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1790907713
+! Version: 1790994069
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -1062,6 +1062,7 @@
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.dns.doubleangels.com^
+||family.dns.dremaxx.com^
 ||family.dns.mullvad.net^
 ||family.dns.ningkelle.id^
 ||family.dns.yandex.ru^
@@ -1640,6 +1641,7 @@
 ||omr01.dnscry.pt^
 ||one.one.one.one^
 ||onlyfriends.info^
+||open.dns.dremaxx.com^
 ||openbld.net^
 ||opencdn.jomodns.com^
 ||opennic.i2pd.xyz^

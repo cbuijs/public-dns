@@ -404,6 +404,7 @@
 61.100.13.50 ns2.siteprotect.co.kr
 61.216.168.145 ns.chixing.tw
 61.220.23.186 ns2.cifservice.com
+62.3.50.42 family.dns.dremaxx.com
 62.105.17.234 ns.hmrn.ru
 62.133.35.15 de-dus.doh.sb
 62.149.128.4 dns.aruba.it
@@ -1395,7 +1396,8 @@
 185.37.252.150 ee-tll.doh.sb
 185.38.27.139 kracon.anycast.uncensoreddns.org
 185.43.135.1 odvr.nic.cz
-185.44.82.158 dns.dremaxx.de
+185.44.82.150 family.dns.dremaxx.com
+185.44.82.158 dns.dremaxx.de open.dns.dremaxx.com
 185.47.221.200 dns.kukal.cz
 185.49.141.38 getdnsapi.net
 185.51.200.1 pro.shecan.ir
@@ -1413,7 +1415,8 @@
 185.109.168.44 gb-cov-w-p-1.nashkan.net
 185.111.159.59 asia.tri-dns.net
 185.111.188.46 dns1.dnscrypt.ca
-185.121.169.47 dns.dremaxx.de
+185.121.169.45 family.dns.dremaxx.com
+185.121.169.47 dns.dremaxx.de open.dns.dremaxx.com
 185.127.20.35 ns1.telenetiks.pl
 185.130.47.20 nl.dns.privex.io
 185.131.216.30 ns.trcnet.fi
@@ -1519,7 +1522,7 @@
 194.0.5.3 doh.dns4all.eu
 194.9.14.10 ns.neocom.net.ua ns1.neocom.net.ua
 194.26.213.15 dub01.dnscry.pt vps366.brueggus.de
-194.28.99.248 dns.dremaxx.de
+194.28.99.248 dns.dremaxx.de open.dns.dremaxx.com
 194.32.107.48 trf01.dnscry.pt vps284.brueggus.de
 194.36.144.87 morbitzer.de www.morbitzer.de
 194.39.205.10 muc01.dnscry.pt vps214.brueggus.de
@@ -2599,8 +2602,10 @@
 2a0c:8902::53 ns2.dnshome.de
 2a0c:8fc0:1749:66:18::16 muc01.dnscry.pt vps214.brueggus.de
 2a0c:8fc1:6441::412:ab34 tyo01.dnscry.pt vps226.brueggus.de
-2a0c:9a40:e100::53 dns.dremaxx.de
-2a0c:9a40:e101::53 dns.dremaxx.de
+2a0c:9a40:e100::53 dns.dremaxx.de open.dns.dremaxx.com
+2a0c:9a40:e100::f53 family.dns.dremaxx.com
+2a0c:9a40:e101::53 dns.dremaxx.de open.dns.dremaxx.com
+2a0c:9a40:e101::f53 family.dns.dremaxx.com
 2a0c:9a46:1e00:9::a dns.practicallyunhackable.com practicallyunhackable.com
 2a0c:e300::1337 dns.aquilenet.fr
 2a0d:1a43:c010:135:: us1.dns.lavate.ch
