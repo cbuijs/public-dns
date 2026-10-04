@@ -31,7 +31,6 @@ adguard.bitteeinbyte.de
 adguard.depieri.net
 adguard.haneulo.com
 adguard.ihatemy.live
-adguard.jfchenier.ca
 adguard.kasbot.net
 adguard.lege.despagne.net
 adguard.maison.gifino.fr
@@ -272,7 +271,6 @@ dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.google
 dns.google.com
@@ -314,7 +312,6 @@ dns.melvin2204.nl
 dns.mnet-online.de
 dns.mnt.it
 dns.molinero.dev
-dns.momou.ch
 dns.moonssif.com
 dns.mullvad.net
 dns.murgi.de
@@ -440,7 +437,6 @@ dns2.aciertadns.es
 dns2.cbio.top
 dns2.cfbisd.edu
 dns2.digitale-gesellschaft.ch
-dns2.eglobalreach.net
 dns2.in-berlin.de
 dns2.kpnqwest.it
 dns2.leonet.it
@@ -502,6 +498,7 @@ doh.datahata.by
 doh.disconnect.app
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
+doh.dns.sb
 doh.dns4all.eu
 doh.dnswarden.com
 doh.domreg.lt
@@ -632,7 +629,6 @@ fdns2.dismail.de
 fi-hel-w-f-2.nashkan.net
 fidelius.top
 firefox.dns.nextdns.io
-fly.io
 fnt01.dnscry.pt
 forum.ginovs.nl
 fr1.dnswarden.com
@@ -675,7 +671,6 @@ helios.plan9-dns.com
 hetzner-iad-1.edge.nextdns.io
 hk-hkg.doh.sb
 hk.mbrjun.cn
-hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hole.elbschloss.xyz
@@ -837,7 +832,6 @@ mask-h2.icloud.com
 mask.apple-dns.net
 mask.icloud.com
 max.rethinkdns.com
-meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
@@ -852,6 +846,7 @@ multi.dns.marbledfennec.net
 muxyuji.ru
 n2.panszelescik.pl
 n5.lsasss.com
+na.doh.sb
 nat64.tuxis.nl
 naw01.dnscry.pt
 nc.aaaab3n.moe
@@ -900,16 +895,13 @@ ns1.blackfiberph.com
 ns1.cnba.uba.ar
 ns1.ctl.one
 ns1.dsl.net
-ns1.dts.com.vn
 ns1.ednet.imsbiz.com
 ns1.epidc.co.kr
 ns1.esinc.net
-ns1.exsbs.net
 ns1.fdn.fr
 ns1.fdn.org
 ns1.flowtrinidad.com
 ns1.fortesys.ro
-ns1.glorydns.com
 ns1.gtelmiennam.vn
 ns1.helpdesk.cm-uj.krakow.pl
 ns1.i-evolve.net
@@ -927,8 +919,6 @@ ns1.powertech.no
 ns1.recursive.dnsbycomodo.com
 ns1.romepc.com
 ns1.rr.ru
-ns1.sedronar.gov.ar
-ns1.serverwholesale.com
 ns1.sotelips.net
 ns1.transtelecom.net
 ns1.uzpak.uz
@@ -947,7 +937,6 @@ ns2.cck.rnu.tn
 ns2.comsats.net.pk
 ns2.design-b2b.com
 ns2.dnshome.de
-ns2.dts.com.vn
 ns2.epidc.co.kr
 ns2.erdemnet.mn
 ns2.execulink.com
@@ -964,7 +953,6 @@ ns2.opennameserver.org
 ns2.probe-networks.de
 ns2.pubnetplus.ne.kr
 ns2.recursive.dnsbycomodo.com
-ns2.sedronar.gov.ar
 ns2.strongarm.io
 ns2.sumselprov.go.id
 ns2.teentelecom.net
@@ -1192,6 +1180,7 @@ unicast.censurfridns.dk
 unicast.uncensoreddns.org
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
+us-chi.doh.sb
 us-hil-w-f-1.nashkan.net
 us-hil-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net

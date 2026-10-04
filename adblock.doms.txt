@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1790994069
+! Version: 1791081279
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -87,7 +87,6 @@
 ||adguard.shoupperuser.com^
 ||adguard.shutgaming.net^
 ||adguard.shuting.idv.tw^
-||adguard.sparshbajaj.me^
 ||adguard.twotigers.xyz^
 ||adguard.zachitect.com^
 ||adguard1.jsanagustin.net^
@@ -425,7 +424,6 @@
 ||dns.dns-53.us^
 ||dns.dnsguard.pub^
 ||dns.dnshome.de^
-||dns.dnssilo.top^
 ||dns.dnswarden.com^
 ||dns.doh.best^
 ||dns.dotnet.win^
@@ -477,7 +475,6 @@
 ||dns.ginovs.nl^
 ||dns.girino.org^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
 ||dns.google^
@@ -499,6 +496,8 @@
 ||dns.horcrux.vip^
 ||dns.hostux.net^
 ||dns.hotta.page^
+||dns.hqdns.sarl^
+||dns.hshoe.cn^
 ||dns.huginn.ru^
 ||dns.huizegunsing.nl^
 ||dns.hujiayucc.cn^
@@ -507,7 +506,6 @@
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
-||dns.iktcds.edu.tw^
 ||dns.imaicool.com^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
@@ -811,7 +809,6 @@
 ||dns2.cfbisd.edu^
 ||dns2.concera.org^
 ||dns2.digitale-gesellschaft.ch^
-||dns2.eglobalreach.net^
 ||dns2.guidocioni.it^
 ||dns2.in-berlin.de^
 ||dns2.klcd.eu^
@@ -895,6 +892,7 @@
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
+||doh.cippapp.com^
 ||doh.cleanbrowsing.org^
 ||doh.cnetwork.cloud^
 ||doh.cornes.me^
@@ -906,6 +904,7 @@
 ||doh.disconnect.app^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
+||doh.dns.sb^
 ||doh.dns4all.eu^
 ||doh.dnscrypt.uk^
 ||doh.dnswarden.com^
@@ -1079,7 +1078,6 @@
 ||fidelius.top^
 ||filter.dns.yunzheng.space^
 ||firefox.dns.nextdns.io^
-||fly.io^
 ||fnt01.dnscry.pt^
 ||forum.ginovs.nl^
 ||fr-dns1.bancuh.com^
@@ -1137,7 +1135,6 @@
 ||hitian.me^
 ||hk-hkg.doh.sb^
 ||hk.mbrjun.cn^
-||hk2.ooroot.com^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
 ||hkname.freecdn.one^
@@ -1278,7 +1275,6 @@
 ||kimiblock.top^
 ||kiri.nonexiste.net^
 ||kiv01.dnscry.pt^
-||ko-18948-tr.xyz^
 ||kr-sel.doh.sb^
 ||kr1.ooroot.com^
 ||kr2.ooroot.com^
@@ -1355,6 +1351,7 @@
 ||myip.pyry.me^
 ||n2.panszelescik.pl^
 ||n5.lsasss.com^
+||na.doh.sb^
 ||naganohara-yoimiya.momokko.moe^
 ||najiakeji.top^
 ||nanopi.cybergroove.net^
@@ -1444,7 +1441,6 @@
 ||ns1.flodns.net^
 ||ns1.flowtrinidad.com^
 ||ns1.fortesys.ro^
-||ns1.glorydns.com^
 ||ns1.gtelmiennam.vn^
 ||ns1.helpdesk.cm-uj.krakow.pl^
 ||ns1.i-evolve.net^
@@ -1638,6 +1634,7 @@
 ||odoh.crypto.sx^
 ||odvr.nic.cz^
 ||oisd.dns.bebasid.com^
+||old.gottliebtfreitag.de^
 ||omr01.dnscry.pt^
 ||one.one.one.one^
 ||onlyfriends.info^
@@ -1897,6 +1894,7 @@
 ||urology.wiki^
 ||us-chi-w-f-1.nashkan.net^
 ||us-chi-w-p-1.nashkan.net^
+||us-chi.doh.sb^
 ||us-hil-w-f-1.nashkan.net^
 ||us-hil-w-p-1.nashkan.net^
 ||us-jac-w-f-1.nashkan.net^
@@ -2036,8 +2034,6 @@
 ||xbcpb668.com^
 ||xenergy.cc^
 ||xholgm.top^
-||ychen.cf^
-||ychen.gq^
 ||yhz01.dnscry.pt^
 ||your-dns.run^
 ||yovbak.com^
