@@ -71,7 +71,7 @@
 8.20.247.20 ns2.recursive.dnsbycomodo.com
 8.26.56.26 ns1.recursive.dnsbycomodo.com
 8.137.89.115 shijiu.asia
-8.210.55.60 dns.23-4.cn
+8.160.173.68 dns.23-4.cn
 8.224.34.74 ns3.i-evolve.net
 9.9.9.9 dns.quad9.net dns9.quad9.net
 9.9.9.10 dns-nosec.quad9.net dns10.quad9.net
@@ -516,6 +516,7 @@
 79.143.240.79 resolver1.absolight.net
 79.143.240.81 resolver3.absolight.net
 79.184.9.36 adguard.piekacz.pl piekacz.pl
+79.250.72.76 dnsblock.grisumedia.de
 80.67.98.226 ns1.infoselva.net ns2.infoselva.net
 80.67.169.12 ns0.fdn.fr
 80.67.169.40 ns1.fdn.fr ns1.fdn.org
@@ -675,7 +676,6 @@
 93.189.61.195 ipv4-zepto-ams-2.edge.nextdns.io zepto-ams-2.edge.nextdns.io
 93.190.126.69 doh.immerda.ch
 93.200.20.92 ueni.dyndns.org
-93.221.57.89 dnsblock.grisumedia.de
 94.16.111.86 dns.immanuelschaffer.de
 94.16.116.146 dns.scarx.net nb-proxy.host.arcadeus.net
 94.16.117.107 ns2.4netguides.org
@@ -1187,7 +1187,7 @@
 160.119.253.209 sa01.dns4me.net
 160.250.95.28 dac-1.hakim.one dns.hakim.one
 160.250.227.196 dns.bebasid.com unfiltered.dns.bebasid.com
-160.251.64.80 tlz.asia
+160.251.64.80 dns.wahr.top tlz.asia
 161.35.136.3 doh-primary-pool.goodbyegambling.com
 161.118.145.178 adguard.haneulo.com
 161.129.34.134 5g.o0o.re
@@ -1208,7 +1208,6 @@
 162.250.6.163 anexia-chi-1.edge.nextdns.io ipv4-anexia-chi-1.edge.nextdns.io
 162.254.86.13 vno01.dnscry.pt vps363.brueggus.de
 162.254.212.11 ns1.serverwholesale.com
-163.172.70.43 dns-fr-psv1.cloudsides.com postalsv1.mkid.top
 163.172.131.116 stratus.bugz.fr
 164.90.207.7 adblockersite.com
 164.132.7.242 dns.christerwaren.fi
@@ -1315,9 +1314,9 @@
 172.234.27.233 sdns22.gkonuralp.com
 172.236.104.43 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
 172.236.104.157 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
-172.237.129.108 dltuykfgp.top www.dltuykfgp.top
-172.237.129.236 dltuykfgp.top www.dltuykfgp.top
-172.237.129.242 dltuykfgp.top www.dltuykfgp.top
+172.237.129.108 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
+172.237.129.236 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
+172.237.129.242 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
 172.238.172.122 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
 172.238.172.228 dns.edgeburnmedia.com
 172.238.176.31 dns.edgeburnmedia.com
@@ -1416,6 +1415,8 @@
 185.130.47.20 nl.dns.privex.io
 185.131.216.30 ns.trcnet.fi
 185.131.217.108 ns.trcnet.fi
+185.131.217.191 ns.trcnet.fi
+185.131.217.197 ns.trcnet.fi
 185.134.196.52 pdns.faelix.net
 185.134.196.54 rdns.faelix.net
 185.134.196.55 rdns.faelix.net
@@ -1438,7 +1439,7 @@
 185.207.125.100 omr01.dnscry.pt vps359.brueggus.de
 185.215.166.168 dns.hqdns.sarl
 185.222.153.70 n5.lsasss.com
-185.222.222.222 dns.sb doh.sb dot.sb eu.doh.sb europe.doh.sb public-dns-a.dns.sb
+185.222.222.222 dns.sb doh.sb dot.sb public-dns-a.dns.sb
 185.226.181.19 opennic2.i2pd.xyz
 185.228.136.191 dns1.techniverse.net
 185.228.168.9 security-filter-dns.cleanbrowsing.org
@@ -1598,6 +1599,7 @@
 202.62.222.220 dns02.etnet.com.hk
 202.62.222.222 dns01.etnet.com.hk
 202.70.133.124 dns.gnb09.id
+202.124.128.3 dns2.eglobalreach.net
 202.131.73.38 ns2.dragonform.com.hk
 202.134.52.105 ns2.phillipcapital.in
 202.136.162.12 dns03.ntts-idc.net.sg
@@ -1767,6 +1769,7 @@
 2001:470:27:287::2 ns.trcnet.fi
 2001:470:28:286:1:: ns.trcnet.fi
 2001:470:28:287:1:: ns.trcnet.fi
+2001:470:28:aa2:1:: ns.trcnet.fi
 2001:470:36:3fc:0:feed:dad:b055 dns.repinger.com
 2001:470:71:6dc::53 opennic2.i2pd.xyz
 2001:470:1f15:b80::53 opennic.i2pd.xyz
@@ -1969,6 +1972,7 @@
 2407:6ac0:3:5:1234:4321:89:1 jkt01.dnscry.pt vps356.brueggus.de
 2408:4003:10b8:9ae9:5ef8:7292:9141:6f67 dns.ikataruto.com
 2408:400a:779:a00::aaaa dns.imaicool.com
+2408:400b:1093:df00:b974:e332:29fa:d7a7 dns.23-4.cn
 2409:: dns.nic.in
 2409::1 dns.nic.in
 240d:c000:2010:1e00:6:52dc:f6a:9874 dns.weixin.qq.com.cn
@@ -2566,7 +2570,7 @@
 2a07:e340::6 family.dns.mullvad.net
 2a07:e340::9 all.dns.mullvad.net
 2a07:efc0:1001:a5ce::b4b4 ams02.dnscry.pt vps303.brueggus.de
-2a09:: dns.sb doh.sb dot.sb eu.doh.sb public-dns-a.dns.sb
+2a09:: dns.sb doh.sb dot.sb public-dns-a.dns.sb
 2a09:0:1:a::a de-fra.doh.sb
 2a09:0:8::15 de-dus.doh.sb
 2a09:0:11::5 uk-lon.doh.sb

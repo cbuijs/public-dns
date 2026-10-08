@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1791339727
+! Version: 1791426467
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -85,7 +85,7 @@
 8.26.56.26$network
 8.129.152.230$network
 8.137.89.115$network
-8.210.55.60$network
+8.160.173.68$network
 8.224.34.74$network
 9.9.9.9$network
 9.9.9.10$network
@@ -573,6 +573,7 @@
 79.143.240.79$network
 79.143.240.81$network
 79.184.9.36$network
+79.250.72.76$network
 80.67.98.226$network
 80.67.169.12$network
 80.67.169.40$network
@@ -751,7 +752,6 @@
 93.189.61.195$network
 93.190.126.69$network
 93.200.20.92$network
-93.221.57.89$network
 94.16.111.86$network
 94.16.116.146$network
 94.16.117.107$network
@@ -1344,7 +1344,6 @@
 163.47.117.176$network
 163.47.119.182$network
 163.172.34.56$network
-163.172.70.43$network
 163.172.131.116$network
 163.172.180.125$network
 164.90.207.7$network
@@ -1574,6 +1573,8 @@
 185.130.47.20$network
 185.131.216.30$network
 185.131.217.108$network
+185.131.217.191$network
+185.131.217.197$network
 185.134.196.52$network
 185.134.196.54$network
 185.134.196.55$network
@@ -1792,6 +1793,7 @@
 202.62.222.220$network
 202.62.222.222$network
 202.70.133.124$network
+202.124.128.3$network
 202.131.73.38$network
 202.134.52.105$network
 202.136.162.12$network
@@ -1978,6 +1980,7 @@
 [2001:470:27:287::2]$network
 [2001:470:28:286:1::]$network
 [2001:470:28:287:1::]$network
+[2001:470:28:aa2:1::]$network
 [2001:470:36:3fc:0:feed:dad:b055]$network
 [2001:470:71:6dc::53]$network
 [2001:470:1f11:2bb::b23]$network
@@ -2220,6 +2223,7 @@
 [2407:6ac0:3:5:1234:e34e:72e4:1]$network
 [2408:4003:10b8:9ae9:5ef8:7292:9141:6f67]$network
 [2408:400a:779:a00::aaaa]$network
+[2408:400b:1093:df00:b974:e332:29fa:d7a7]$network
 [2409::]$network
 [2409::1]$network
 [240d:c000:2010:1e00:6:52dc:f6a:9874]$network

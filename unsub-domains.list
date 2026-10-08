@@ -271,7 +271,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
 dns-malwaresec.nordthreatprotection.com
@@ -482,6 +481,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
+dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.haoxuan.xyz
@@ -736,6 +736,7 @@ dns.vmath.my.id
 dns.vnu.edu.vn
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -805,6 +806,7 @@ dns2.cbio.top
 dns2.cfbisd.edu
 dns2.concera.org
 dns2.digitale-gesellschaft.ch
+dns2.eglobalreach.net
 dns2.guidocioni.it
 dns2.in-berlin.de
 dns2.klcd.eu
@@ -1043,10 +1045,8 @@ esel.stusta.mhn.de
 eth.link
 eu-central.mc.ihatemy.live
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
-eu.doh.sb
 eu.tri-dns.net
 eu1.dns.lavate.ch
-europe.doh.sb
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
@@ -1121,6 +1121,7 @@ haf01.dnscry.pt
 hagezi.dns.bebasid.com
 hahnjo.de
 haka.se
+hakutakucn.com
 han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
@@ -1686,7 +1687,6 @@ polisitogel.contractors
 polisitogel.hair
 polisitogel.webcam
 pooblet.co.za
-postalsv1.mkid.top
 practicallyunhackable.com
 preview.dnsteam.globuscs.info
 privacy.plumedns.com

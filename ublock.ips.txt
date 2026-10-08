@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP uBlock Origin List
-! Version: 1791339727
+! Version: 1791426467
 !
 ! NOTE: This relies on the "$ipaddress" modifier of uBlock Origin!
 !
@@ -84,7 +84,7 @@
 *$ipaddress=8.26.56.26
 *$ipaddress=8.129.152.230
 *$ipaddress=8.137.89.115
-*$ipaddress=8.210.55.60
+*$ipaddress=8.160.173.68
 *$ipaddress=8.224.34.74
 *$ipaddress=9.9.9.9
 *$ipaddress=9.9.9.10
@@ -572,6 +572,7 @@
 *$ipaddress=79.143.240.79
 *$ipaddress=79.143.240.81
 *$ipaddress=79.184.9.36
+*$ipaddress=79.250.72.76
 *$ipaddress=80.67.98.226
 *$ipaddress=80.67.169.12
 *$ipaddress=80.67.169.40
@@ -750,7 +751,6 @@
 *$ipaddress=93.189.61.195
 *$ipaddress=93.190.126.69
 *$ipaddress=93.200.20.92
-*$ipaddress=93.221.57.89
 *$ipaddress=94.16.111.86
 *$ipaddress=94.16.116.146
 *$ipaddress=94.16.117.107
@@ -1343,7 +1343,6 @@
 *$ipaddress=163.47.117.176
 *$ipaddress=163.47.119.182
 *$ipaddress=163.172.34.56
-*$ipaddress=163.172.70.43
 *$ipaddress=163.172.131.116
 *$ipaddress=163.172.180.125
 *$ipaddress=164.90.207.7
@@ -1573,6 +1572,8 @@
 *$ipaddress=185.130.47.20
 *$ipaddress=185.131.216.30
 *$ipaddress=185.131.217.108
+*$ipaddress=185.131.217.191
+*$ipaddress=185.131.217.197
 *$ipaddress=185.134.196.52
 *$ipaddress=185.134.196.54
 *$ipaddress=185.134.196.55
@@ -1791,6 +1792,7 @@
 *$ipaddress=202.62.222.220
 *$ipaddress=202.62.222.222
 *$ipaddress=202.70.133.124
+*$ipaddress=202.124.128.3
 *$ipaddress=202.131.73.38
 *$ipaddress=202.134.52.105
 *$ipaddress=202.136.162.12
@@ -1977,6 +1979,7 @@
 *$ipaddress=[2001:470:27:287::2]
 *$ipaddress=[2001:470:28:286:1::]
 *$ipaddress=[2001:470:28:287:1::]
+*$ipaddress=[2001:470:28:aa2:1::]
 *$ipaddress=[2001:470:36:3fc:0:feed:dad:b055]
 *$ipaddress=[2001:470:71:6dc::53]
 *$ipaddress=[2001:470:1f11:2bb::b23]
@@ -2219,6 +2222,7 @@
 *$ipaddress=[2407:6ac0:3:5:1234:e34e:72e4:1]
 *$ipaddress=[2408:4003:10b8:9ae9:5ef8:7292:9141:6f67]
 *$ipaddress=[2408:400a:779:a00::aaaa]
+*$ipaddress=[2408:400b:1093:df00:b974:e332:29fa:d7a7]
 *$ipaddress=[2409::]
 *$ipaddress=[2409::1]
 *$ipaddress=[240d:c000:2010:1e00:6:52dc:f6a:9874]
