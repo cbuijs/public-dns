@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1791426467
+! Version: 1791512492
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -1037,6 +1037,7 @@
 ||edgeuno-rio-1.edge.nextdns.io^
 ||edgeuno-sao-1.edge.nextdns.io^
 ||edgy-dns.com^
+||edgy.network^
 ||edns.233py.com^
 ||ee-tll.doh.sb^
 ||eliatofani.ovh^

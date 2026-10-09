@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP uBlock Origin List
-! Version: 1791426467
+! Version: 1791512492
 !
 ! NOTE: This relies on the "$ipaddress" modifier of uBlock Origin!
 !
@@ -1450,14 +1450,17 @@
 *$ipaddress=172.232.251.244
 *$ipaddress=172.233.59.98
 *$ipaddress=172.233.147.42
+*$ipaddress=172.233.221.184
 *$ipaddress=172.233.221.243
 *$ipaddress=172.234.27.233
+*$ipaddress=172.234.195.206
 *$ipaddress=172.236.104.43
 *$ipaddress=172.236.104.157
 *$ipaddress=172.237.129.108
 *$ipaddress=172.237.129.236
 *$ipaddress=172.237.129.242
 *$ipaddress=172.238.172.122
+*$ipaddress=172.238.172.149
 *$ipaddress=172.238.172.228
 *$ipaddress=172.238.176.31
 *$ipaddress=172.239.49.232
