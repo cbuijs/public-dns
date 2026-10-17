@@ -190,7 +190,6 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 dns.aquilenet.fr
-dns.arkbotech.com
 dns.artikel10.org
 dns.aruba.it
 dns.asysec.com
@@ -248,7 +247,6 @@ dns.eliv.kr
 dns.envs.net
 dns.eu-frankfurt-1.oci.oraclecloud.com
 dns.eu-frankfurt-1.oraclecloud.com
-dns.extrawdw.net
 dns.ffnw.de
 dns.flatuslifir.is
 dns.flymc.cc
@@ -293,8 +291,6 @@ dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
-dns.mbrjun.cn
-dns.meeo.win
 dns.mnet-online.de
 dns.mnt.it
 dns.molinero.dev
@@ -315,7 +311,6 @@ dns.nyc1.speakeasy.net
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.omada.cafe
 dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
@@ -332,7 +327,6 @@ dns.redhosting.com.ar
 dns.retakecs.com
 dns.rhscz.eu
 dns.ronc.ru
-dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
 dns.sb
@@ -608,7 +602,6 @@ frog.dns.qwer.pw
 fusa-bru-1.edge.nextdns.io
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
-gateway.fomichev.cloud
 gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
@@ -635,7 +628,6 @@ hel01.dnscry.pt
 helios.plan9-dns.com
 hetzner-iad-1.edge.nextdns.io
 hk-hkg.doh.sb
-hk.mbrjun.cn
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hole.elbschloss.xyz
@@ -809,7 +801,6 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
-n2.panszelescik.pl
 n5.lsasss.com
 na.doh.sb
 nat64.tuxis.nl
@@ -885,7 +876,6 @@ ns1.powertech.no
 ns1.recursive.dnsbycomodo.com
 ns1.romepc.com
 ns1.rr.ru
-ns1.sedronar.gov.ar
 ns1.sotelips.net
 ns1.transtelecom.net
 ns1.uzpak.uz
@@ -921,7 +911,6 @@ ns2.probe-networks.de
 ns2.pubnetplus.ne.kr
 ns2.recursive.dnsbycomodo.com
 ns2.rgprovider.com.br
-ns2.sedronar.gov.ar
 ns2.strongarm.io
 ns2.sumselprov.go.id
 ns2.teentelecom.net
@@ -1161,7 +1150,6 @@ us.doh.cloudveil.org
 us.novali.date
 us01.dns4me.net
 us02.dns4me.net
-us1.blissdns.net
 us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
