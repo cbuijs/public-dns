@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1792290103
+! Version: 1792376524
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
