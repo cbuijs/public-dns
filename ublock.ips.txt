@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP uBlock Origin List
-! Version: 1792463839
+! Version: 1792549305
 !
 ! NOTE: This relies on the "$ipaddress" modifier of uBlock Origin!
 !
