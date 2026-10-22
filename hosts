@@ -350,6 +350,7 @@
 50.16.152.252 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com dns.api.staging.globuscs.info staging.dnsteam.globuscs.info
 50.17.24.231 dns.watch
 50.116.59.251 adguard.shoupperuser.com
+51.15.69.11 dltuykfgp.top
 51.24.7.1 dns.easyhns.com
 51.38.125.60 ns1.mildmedia.se
 51.68.166.153 ab.mc.ihatemy.live balancer.mc.ihatemy.live eu-central.mc.ihatemy.live
@@ -816,7 +817,6 @@
 103.179.44.73 sin02.dnscry.pt vps350.brueggus.de
 103.179.45.6 tyo02.dnscry.pt vps351.brueggus.de
 103.181.143.111 d.apemlegit.my.id
-103.193.179.121 doh.zephyrus.id
 103.196.38.200 query.hdns.io
 103.196.152.126 dns.goldplate.org
 103.199.16.93 han01.dnscry.pt vps369.brueggus.de
@@ -1314,9 +1314,9 @@
 172.234.195.206 dns.edgy.network edgy.network
 172.236.104.43 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
 172.236.104.157 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
-172.237.129.108 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
-172.237.129.236 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
-172.237.129.242 dltuykfgp.top dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
+172.237.129.108 dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
+172.237.129.236 dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
+172.237.129.242 dns.hakutakucn.com hakutakucn.com www.dltuykfgp.top
 172.238.172.122 fidelius.top gibblets.top glacius.top imperio.top obscuro.top revelio.top
 172.238.172.149 dns.edgy.network edgy.network
 172.239.49.232 sdns22.gkonuralp.com
@@ -1589,7 +1589,6 @@
 202.5.192.9 ns2.erdemnet.mn
 202.5.222.2 jp-kix.doh.sb jp-kix2.doh.sb
 202.43.108.1 ns1.dts.com.vn
-202.46.144.12 ns2.ezy.net.id
 202.57.32.1 dns1.philcom.com.ph
 202.61.236.67 nue01.dnscry.pt vps314.brueggus.de
 202.61.240.61 adguard.pangerl.it
@@ -1862,7 +1861,7 @@
 2001:41d0:e:84c::1 dns.mh4ckt3mh4ckt1c4s.xyz
 2001:41d0:302:2200::180 doh.bortzmeyer.fr radia.bortzmeyer.org
 2001:41d0:303:13b3:164:132:7:242 dns.christerwaren.fi
-2001:41d0:305:2100::b5fa dns.spirio.fr server.spirio.fr
+2001:41d0:305:2100::b5fa dns.spirio.fr
 2001:41d0:404:200::976 dns.kawa.tf
 2001:41d0:404:200::22ac dns.crystalyx.net ender.crystalyx.net
 2001:41d0:601:1100::2e6 dns.panszelescik.pl n2.panszelescik.pl
@@ -1974,8 +1973,8 @@
 240d:c000:2010:1e00:6:52dc:f6a:9874 dns.weixin.qq.com.cn
 240d:c000:2010:1e00:6:52dc:fa7:17a4 dns.weixin.qq.com.cn
 240d:c000:f000:9300:ad0:a594:4272:0 cloud.198.games
-240d:c000:f000:9500:8234:d91e:8082:2 blog.kimiblock.top kimiblock.top
-240d:c000:f000:9500:8234:d91e:8082:3 blog.kimiblock.top kimiblock.top
+240d:c000:f000:9500:8234:d91e:8082:2 blog.kimiblock.top
+240d:c000:f000:9500:8234:d91e:8082:3 blog.kimiblock.top
 240d:c000:f000:ea00:70d8:5996:f8e4:0 dns.flymc.cc
 240d:c010:77:2::d9 doh.totoro.pub doh.totoro.pub.eo.dnse5.com
 240d:c010:132:1::c8 3gcywmluf3zy.233py.com.eo.dnse5.com dns.233py.com doh.233py.com edns.233py.com i.233py.com ndns.233py.com sdns.233py.com wdns.233py.com
@@ -2055,7 +2054,7 @@
 2603:c020:5:3566:beef:beef:beef:beef dns.ofdoom.net
 2603:c020:4000:3d34:6160:20db:353b:24d3 o.rsaikat.com
 2603:c020:4002:be00:780d:ac99:b43f:299a dns-server-geo.sz-dns.com dns.stevenz.net doh.sz-dns.com
-2603:c020:4023:6701:0:bd8:1e0b:6001 dns.listo.click listo.click
+2603:c020:4023:6701:0:bd8:1e0b:6001 dns.listo.click
 2603:c020:800b:ac01:848b:d155:8652:cd03 dns.almir1904.eu
 2603:c020:800f:c5af:9fd:880f:6224:4cd4 ad.tzockt.beer
 2603:c020:c00d:6401:575a:1ed9:5ce9:7cb1 newd.rezyro.com
