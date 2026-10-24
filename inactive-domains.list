@@ -15,7 +15,6 @@
 2.dnscrypt.default.ns1.adguard.com
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
-3dcosas.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
@@ -50,7 +49,6 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.gbrossi.com.br
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -76,7 +74,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 apple-dns.net
-arashi.net.eu.org
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
@@ -88,7 +85,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -139,10 +135,10 @@ dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
 dns.alekberg.net
-dns.anonymous.pw
 dns.apigw.online
 dns.apple.com
 dns.arapurayil.com
+dns.ashishbhoi.com
 dns.azsopro.net
 dns.bayas.dev
 dns.benpro.fr
@@ -186,7 +182,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.go715.com.tw
 dns.green-ping.lol
 dns.guardmydns.com
@@ -340,7 +335,6 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
-doh-01.spectrum.com
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -430,15 +424,12 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
-europe.doh.sb
 everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -448,7 +439,6 @@ filter.das.sch.id
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
-fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 gru01.dnscry.pt
@@ -456,11 +446,9 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
-hsv.uplenk.com
 hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -580,7 +568,6 @@ ns2.asgroup.es
 ns2.ballerz.gg
 ns2.cityonlines.com
 ns2.dnsprivacy.at
-ns2.fusilsystem.com
 ns2.interles.net.br
 ns2.jon.bz
 ns2.neofission.com.my
@@ -588,7 +575,6 @@ ns2.netmyne.com
 ns2.nnt.lt
 ns2.ongnet.ru
 ns2.seolizer.de
-ns2.siteprotect.co.kr
 ns2.solwaycomms.net
 ns2.venderonline.pt
 ns2.vh35705.vhostingservices.com
@@ -664,9 +650,7 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tokyodns.songnguyen.name.vn
-tower.gbrossi.com.br
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -703,5 +687,4 @@ ychen.ga
 ychen.gq
 ymjx.shimmerl.top
 yussy-is.so-gorgeo.us.kg
-yuvelirtut.website
 zero.dns0.eu

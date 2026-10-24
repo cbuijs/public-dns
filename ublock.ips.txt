@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP uBlock Origin List
-! Version: 1792722071
+! Version: 1792808767
 !
 ! NOTE: This relies on the "$ipaddress" modifier of uBlock Origin!
 !
@@ -171,6 +171,8 @@
 *$ipaddress=24.56.102.20
 *$ipaddress=24.199.70.134
 *$ipaddress=24.203.89.71
+*$ipaddress=24.240.146.7
+*$ipaddress=24.240.146.8
 *$ipaddress=31.13.248.149
 *$ipaddress=31.70.73.6
 *$ipaddress=31.97.249.178
@@ -332,6 +334,7 @@
 *$ipaddress=45.151.30.16
 *$ipaddress=45.154.109.53
 *$ipaddress=45.155.37.165
+*$ipaddress=45.181.68.65
 *$ipaddress=45.224.140.7
 *$ipaddress=45.235.92.21
 *$ipaddress=45.249.91.150
@@ -452,6 +455,7 @@
 *$ipaddress=59.127.0.184
 *$ipaddress=59.127.175.174
 *$ipaddress=60.205.247.82
+*$ipaddress=61.100.13.50
 *$ipaddress=61.216.168.145
 *$ipaddress=61.220.23.186
 *$ipaddress=62.3.50.42
@@ -537,6 +541,7 @@
 *$ipaddress=75.119.137.239
 *$ipaddress=76.76.2.11
 *$ipaddress=76.76.2.22
+*$ipaddress=76.76.21.61
 *$ipaddress=76.76.21.93
 *$ipaddress=76.76.21.241
 *$ipaddress=76.223.54.146
@@ -756,8 +761,8 @@
 *$ipaddress=93.183.105.109
 *$ipaddress=93.189.61.195
 *$ipaddress=93.190.126.69
+*$ipaddress=93.221.58.36
 *$ipaddress=93.231.30.131
-*$ipaddress=93.234.205.122
 *$ipaddress=94.16.111.86
 *$ipaddress=94.16.116.146
 *$ipaddress=94.16.117.107
@@ -1035,7 +1040,7 @@
 *$ipaddress=113.179.20.238
 *$ipaddress=113.208.80.4
 *$ipaddress=113.210.64.250
-*$ipaddress=114.12.15.103
+*$ipaddress=114.12.13.7
 *$ipaddress=114.33.26.67
 *$ipaddress=114.34.0.56
 *$ipaddress=114.66.33.239
@@ -1317,6 +1322,8 @@
 *$ipaddress=161.97.219.84
 *$ipaddress=161.118.145.178
 *$ipaddress=161.129.34.134
+*$ipaddress=162.4.84.247
+*$ipaddress=162.4.84.255
 *$ipaddress=162.14.21.56
 *$ipaddress=162.14.21.178
 *$ipaddress=162.19.227.251
@@ -1450,17 +1457,11 @@
 *$ipaddress=172.233.147.42
 *$ipaddress=172.233.221.184
 *$ipaddress=172.233.221.243
-*$ipaddress=172.234.27.233
 *$ipaddress=172.234.195.206
 *$ipaddress=172.236.104.43
 *$ipaddress=172.236.104.157
-*$ipaddress=172.237.129.108
-*$ipaddress=172.237.129.236
-*$ipaddress=172.237.129.242
 *$ipaddress=172.238.172.122
 *$ipaddress=172.238.172.149
-*$ipaddress=172.239.49.232
-*$ipaddress=172.239.193.67
 *$ipaddress=173.20.169.71
 *$ipaddress=173.208.212.205
 *$ipaddress=173.230.149.113
@@ -1974,10 +1975,6 @@
 *$ipaddress=[2001:470:1c:76d::53]
 *$ipaddress=[2001:470:20::2]
 *$ipaddress=[2001:470:25:7c::195]
-*$ipaddress=[2001:470:27:287::2]
-*$ipaddress=[2001:470:28:286:1::]
-*$ipaddress=[2001:470:28:287:1::]
-*$ipaddress=[2001:470:28:aa2:1::]
 *$ipaddress=[2001:470:36:3fc:0:feed:dad:b055]
 *$ipaddress=[2001:470:1f11:2bb::b23]
 *$ipaddress=[2001:470:1f15:b80::53]
@@ -2083,7 +2080,6 @@
 *$ipaddress=[2001:19f0:9002:de4:5400:4ff:fe08:7de3]
 *$ipaddress=[2001:19f0:b001:322:5400:2ff:fe2b:4238]
 *$ipaddress=[2001:19f0:b001:8fa:5400:3ff:fe8b:d05c]
-*$ipaddress=[2001:19f0:b002:537:5400:5ff:fe7b:226e]
 *$ipaddress=[2001:19f0:b400:1d8c:5400:4ff:fe11:b15a]
 *$ipaddress=[2001:19f0:b800:1ddf:5400:4ff:fe4e:2aad]
 *$ipaddress=[2001:1a88:10:ffff::1]
@@ -2178,8 +2174,6 @@
 *$ipaddress=[2402:f000:1:416:101:6:6:6]
 *$ipaddress=[2403:2c80::26]
 *$ipaddress=[2403:3a00:101:21:49:212:235:34]
-*$ipaddress=[2403:3a00:101:21:49:212:235:44]
-*$ipaddress=[2403:3a00:107:29:133:167:212:21]
 *$ipaddress=[2403:3a00:107:29:133:167:212:22]
 *$ipaddress=[2403:3a00:201:17:112:78:125:221]
 *$ipaddress=[2403:3a00:201:1c:49:212:198:36]
@@ -2209,7 +2203,6 @@
 *$ipaddress=[2406:da18:1eac:201:3404:7a35:28af:fd77]
 *$ipaddress=[2406:da1a:1b5:d610:c66d:4ace:e191:b3b1]
 *$ipaddress=[2406:ef80:1:2173::b5f]
-*$ipaddress=[2407:0:3f68:5d16::1]
 *$ipaddress=[2407:24c0:2::154:3]
 *$ipaddress=[2407:3640:2205:1668::1]
 *$ipaddress=[2407:3640:2238:5447::1]
@@ -2229,7 +2222,6 @@
 *$ipaddress=[240d:c000:f000:ea00:70d8:5996:f8e4:0]
 *$ipaddress=[240d:c010:77:2::d9]
 *$ipaddress=[240d:c010:132:1::c8]
-*$ipaddress=[240e:95d:3020:43::4006]
 *$ipaddress=[2600:1702:74fc:809f::157]
 *$ipaddress=[2600:1702:74fc:809f::158]
 *$ipaddress=[2600:1901:0:618c::]
@@ -2272,7 +2264,6 @@
 *$ipaddress=[2600:3c0e:e001:101::53]
 *$ipaddress=[2600:4c00:80:8::a]
 *$ipaddress=[2600:5c01:e320:fd01::5]
-*$ipaddress=[2600:6c7f:f000:202::8]
 *$ipaddress=[2600:9000:28dc:200:f:5c7a:55c0:93a1]
 *$ipaddress=[2600:9000:28dc:800:f:5c7a:55c0:93a1]
 *$ipaddress=[2600:9000:28dc:3a00:f:5c7a:55c0:93a1]
@@ -2462,8 +2453,6 @@
 *$ipaddress=[2606:4700:3035::ac43:9b84]
 *$ipaddress=[2606:4700:3035::ac43:b84c]
 *$ipaddress=[2606:4700:3035::ac43:bc3e]
-*$ipaddress=[2606:4700:3035::ac43:c15a]
-*$ipaddress=[2606:4700:3036::6815:10f9]
 *$ipaddress=[2606:4700:3036::6815:161f]
 *$ipaddress=[2606:4700:3036::6815:210e]
 *$ipaddress=[2606:4700:3036::6815:590f]
@@ -2477,12 +2466,10 @@
 *$ipaddress=[2606:4700:3037::6815:64e]
 *$ipaddress=[2606:4700:3037::6815:318f]
 *$ipaddress=[2606:4700:3037::6815:4828]
-*$ipaddress=[2606:4700:3037::6815:49eb]
 *$ipaddress=[2606:4700:3037::ac43:8cab]
 *$ipaddress=[2606:4700:3037::ac43:ad9c]
 *$ipaddress=[2606:4700:3037::ac43:aecb]
 *$ipaddress=[2606:4700:3037::ac43:aed2]
-*$ipaddress=[2606:4700:3037::ac43:d956]
 *$ipaddress=[2606:4700:3055::ac40:4442]
 *$ipaddress=[2606:4700:3056::ac40:4542]
 *$ipaddress=[2606:4700:3108::ac42:2859]
@@ -2686,7 +2673,6 @@
 *$ipaddress=[2a01:4f8:c014:de8c::1]
 *$ipaddress=[2a01:4f8:c015:9975::1]
 *$ipaddress=[2a01:4f8:c015:dd0d::1]
-*$ipaddress=[2a01:4f9:2b:1305::2]
 *$ipaddress=[2a01:4f9:3100:3b2b:0:a:0:21]
 *$ipaddress=[2a01:4f9:c010:2b9f::2]
 *$ipaddress=[2a01:4f9:c010:9863::1]
@@ -2763,8 +2749,6 @@
 *$ipaddress=[2a02:1788:8ff::1]
 *$ipaddress=[2a02:1788:8ff::2]
 *$ipaddress=[2a02:2479:fb:6900::1]
-*$ipaddress=[2a02:24d8:71:f194::9]
-*$ipaddress=[2a02:24d8:71:f213::86:9]
 *$ipaddress=[2a02:25b0:aaaa:ebce::1]
 *$ipaddress=[2a02:27ac::1249]
 *$ipaddress=[2a02:27ad::201]
@@ -2802,13 +2786,11 @@
 *$ipaddress=[2a03:4000:38:20e::853]
 *$ipaddress=[2a03:4000:42:6c5::1]
 *$ipaddress=[2a03:4000:47:8b::1]
-*$ipaddress=[2a03:4000:4d:c92:88c0:96ff:fec6:b9d]
 *$ipaddress=[2a03:4000:51:be:c458:19ff:fe28:b481]
 *$ipaddress=[2a03:4000:52:be:38fd:75ff:fef8:852a]
 *$ipaddress=[2a03:4000:5c:51:24b9:51ff:fe80:f3a7]
 *$ipaddress=[2a03:4000:5d:64:1446:62ff:fe9c:f7a4]
 *$ipaddress=[2a03:4000:6b:191:9825:1cff:fe34:bbe]
-*$ipaddress=[2a03:50a0:14:30::1]
 *$ipaddress=[2a03:5840:123:1::4]
 *$ipaddress=[2a03:7900:2:0:31:3:104:161]
 *$ipaddress=[2a03:90c0:85::102]
