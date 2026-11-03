@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1793589640
+! Version: 1793676047
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -150,6 +150,7 @@
 ||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||bazooki-infra.dev^
+||beatquantum.com^
 ||blackhole.myon.lu^
 ||blank.dnsforge.de^
 ||blitz-setup.ahadns.com^
@@ -917,7 +918,6 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.xyz^
-||doh.zephyrus.id^
 ||doh.zknt.org^
 ||doh003.280blocker.net^
 ||doh1.b-cdn.net^
