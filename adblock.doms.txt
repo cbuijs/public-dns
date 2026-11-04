@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1793676047
+! Version: 1793762454
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -1484,6 +1484,7 @@
 ||performance.gosami.xyz^
 ||phx01.dnscry.pt^
 ||pidoh.mapledns.net^
+||piekacz.pl^
 ||pihole.aws.ketan.dev^
 ||pihole.datamatter.co.za^
 ||pihole1.hoerli.net^
