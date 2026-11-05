@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1793762454
+! Version: 1793849402
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -85,6 +85,7 @@
 ||adguardhome.atakorah.com^
 ||adhome.maige.fun^
 ||adl.adfilter.net^
+||adl01.dnscry.pt^
 ||ads.hunga1k47.com^
 ||adult-filter-dns.cleanbrowsing.org^
 ||ae-fuj-w-p-1.nashkan.net^
@@ -107,11 +108,13 @@
 ||agh.xinfeng16m.top^
 ||ahadns.net^
 ||ahoj.email^
+||akl01.dnscry.pt^
 ||all.dns.mullvad.net^
 ||alleesph.online^
 ||alpha-dns.quad9.net^
 ||ams01.dnscry.pt^
 ||ams02.dnscry.pt^
+||ams03.dnscry.pt^
 ||anexia-ams-1.edge.nextdns.io^
 ||anexia-chi-1.edge.nextdns.io^
 ||anexia-ewr-1.edge.nextdns.io^
@@ -131,6 +134,7 @@
 ||apple.nextdns.io^
 ||applied-privacy.net^
 ||aqua.is.my.waifu.cz^
+||aqx01.dnscry.pt^
 ||arashi.eu.org^
 ||arashi.net.eu.org^
 ||area51.mywire.org^
@@ -151,6 +155,8 @@
 ||basic.rethinkdns.com^
 ||bazooki-infra.dev^
 ||beatquantum.com^
+||bei01.dnscry.pt^
+||bestwon203.com^
 ||blackhole.myon.lu^
 ||blank.dnsforge.de^
 ||blitz-setup.ahadns.com^
@@ -158,10 +164,14 @@
 ||block.coconut.id^
 ||blocker.thethorsens.org^
 ||blog.kimiblock.top^
+||blr01.dnscry.pt^
 ||bluemood.me^
 ||bne01.dnscry.pt^
+||bom02.dnscry.pt^
 ||bravedns.com^
+||bre01.dnscry.pt^
 ||bts01.dnscry.pt^
+||buh01.dnscry.pt^
 ||c.cicitt.ch^
 ||ca-yyc.doh.sb^
 ||ca-yyz.doh.sb^
@@ -196,6 +206,8 @@
 ||comss.one^
 ||comss.ru^
 ||cph01.dnscry.pt^
+||cpt01.dnscry.pt^
+||cpt02.dnscry.pt^
 ||crypto.sx^
 ||cryptostorm.is^
 ||cube.neubsi.at^
@@ -206,6 +218,7 @@
 ||d.apemlegit.my.id^
 ||d.toairs.com^
 ||d2.shabi.icu^
+||dac01.dnscry.pt^
 ||darkness.is.my.waifu.cz^
 ||dart.kpsn.org^
 ||darya.persiannit.net^
@@ -431,6 +444,7 @@
 ||dns.google.com^
 ||dns.grqu.de^
 ||dns.guard.io^
+||dns.guardmydns.com^
 ||dns.gutwe.in^
 ||dns.ha-dvin.pp.ua^
 ||dns.hahnjo.de^
@@ -509,7 +523,6 @@
 ||dns.lista.my.id^
 ||dns.listo.click^
 ||dns.lobbygod.com^
-||dns.lsho.top^
 ||dns.luma-medien.com^
 ||dns.lvolland.fr^
 ||dns.maitrekuc.fr^
@@ -778,7 +791,6 @@
 ||dns3.ubc.ca^
 ||dns3.xspedius.net^
 ||dns4.xspedius.net^
-||dns4eu.online^
 ||dns4me.net^
 ||dns5.nifty.com^
 ||dns6.ai.net^
@@ -860,6 +872,7 @@
 ||doh.familyshield.opendns.com^
 ||doh.ffmuc.net^
 ||doh.flashstart.com^
+||doh.fullhosting.ru^
 ||doh.funil.de^
 ||doh.funtopia.tv^
 ||doh.futa.app^
@@ -880,7 +893,6 @@
 ||doh.maskab.com^
 ||doh.max.net.id^
 ||doh.mmmalia.com^
-||doh.morizt.id^
 ||doh.mullvad.net^
 ||doh.nic.lv^
 ||doh.niyawe.de^
@@ -954,7 +966,10 @@
 ||dub01.dnscry.pt^
 ||dukun.de^
 ||dus01.dnscry.pt^
+||dus02.dnscry.pt^
+||dus03.dnscry.pt^
 ||ea-dns.rubyfish.cn^
+||easyhandshake.com^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||edgeuno-bsb-1.edge.nextdns.io^
 ||edgeuno-cwb-1.edge.nextdns.io^
@@ -988,6 +1003,7 @@
 ||familyshield.opendns.com^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
+||fet02.dnscry.pt^
 ||fezgate.ovh^
 ||fi-hel-w-f-2.nashkan.net^
 ||fidelius.top^
@@ -1010,12 +1026,12 @@
 ||fusa-bru-1.edge.nextdns.io^
 ||fwgw.orangepipc.mywire.org^
 ||galileo.math.unipd.it^
-||gateway.fomichev.cloud^
 ||gb-cov-w-f-1.nashkan.net^
 ||gb-cov-w-p-1.nashkan.net^
 ||gb-lon-w-f-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
 ||gb-lon-w-p-2.nashkan.net^
+||gdn01.dnscry.pt^
 ||geg01.dnscry.pt^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
@@ -1025,6 +1041,7 @@
 ||google-public-dns-b.google.com^
 ||goose.buckyfan.net^
 ||greatideasforlife.lol^
+||grr01.dnscry.pt^
 ||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gztech.me^
@@ -1042,6 +1059,7 @@
 ||hk-hkg.doh.sb^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
+||hkg03.dnscry.pt^
 ||hkname.freecdn.one^
 ||hnsdoh.com^
 ||hole.elbschloss.xyz^
@@ -1052,16 +1070,20 @@
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns.meituan.com^
+||huv01.dnscry.pt^
 ||hydra.plan9-ns1.com^
 ||i.233py.com^
+||iah01.dnscry.pt^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||ie01.dns4me.net^
+||iev02.dnscry.pt^
 ||ihctw.synology.me^
 ||iij.jp^
 ||ikarosalpha.xyz^
 ||imperio.top^
 ||in-blr.doh.sb^
+||ind01.dnscry.pt^
 ||ines.zfn.uni-bremen.de^
 ||inpssh.online^
 ||internetpositif.id^
@@ -1106,11 +1128,13 @@
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||japan.dnsovertor.cc^
+||jax01.dnscry.pt^
 ||jcdns.fun^
 ||jhb01.dnscry.pt^
 ||jkdns.me^
 ||jkt01.dnscry.pt^
 ||jnb01.dnscry.pt^
+||jnb02.dnscry.pt^
 ||johneldenring.lol^
 ||jp-dns1.bancuh.com^
 ||jp-kix.doh.sb^
@@ -1149,11 +1173,13 @@
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
 ||lis01.dnscry.pt^
+||lis02.dnscry.pt^
 ||llk01.dnscry.pt^
 ||loadlow.me^
 ||lon01.dnscry.pt^
-||lukscasino-479-tr.xyz^
+||los02.dnscry.pt^
 ||lukscasino-542-tr.xyz^
+||lukscasino-929-tr.xyz^
 ||luxembourg.privacy-dns.pw^
 ||mad01.dnscry.pt^
 ||mail.data.haus^
@@ -1163,15 +1189,21 @@
 ||masters-of-cloud.de^
 ||max.rethinkdns.com^
 ||maxfong.cc^
+||mci01.dnscry.pt^
 ||meganerd.nl^
 ||megumin.is.my.waifu.cz^
+||mel01.dnscry.pt^
+||mendozasdelivery.com^
 ||mia01.dnscry.pt^
 ||mickedi.isgood.host^
-||mikezhang.xyz^
 ||mil01.dnscry.pt^
 ||moamao.shop^
+||moe01.dnscry.pt^
 ||morbitzer.de^
+||mow01.dnscry.pt^
 ||mozilla.cloudflare-dns.com^
+||mrs01.dnscry.pt^
+||mru02.dnscry.pt^
 ||muc01.dnscry.pt^
 ||muli.stusta.mhn.de^
 ||multi.dns.marbledfennec.net^
@@ -1181,6 +1213,7 @@
 ||naganohara-yoimiya.momokko.moe^
 ||najiakeji.top^
 ||nanopi.cybergroove.net^
+||ncl01.dnscry.pt^
 ||ndns.233py.com^
 ||netcup.mismat.ch^
 ||newd.rezyro.com^
@@ -1247,7 +1280,6 @@
 ||ns1.cnba.uba.ar^
 ||ns1.cnet.hu^
 ||ns1.courriel-diffusion.fr^
-||ns1.csc2ya.co.uk^
 ||ns1.ctl.one^
 ||ns1.downup.net.br^
 ||ns1.dsl.net^
@@ -1452,6 +1484,7 @@
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
 ||odvr.nic.cz^
+||ogd01.dnscry.pt^
 ||oisd.dns.bebasid.com^
 ||omr01.dnscry.pt^
 ||one.one.one.one^
@@ -1467,6 +1500,7 @@
 ||ord01.dnscry.pt^
 ||ordns.he.net^
 ||ore-dns.bitdefender.net^
+||ott01.dnscry.pt^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
@@ -1475,12 +1509,15 @@
 ||paradise-human.shop^
 ||paranoia.mydns.network^
 ||pashagame456.com^
+||pates.services.sfr.fr.casepp.sfr.fr^
 ||paulo.nom.za^
 ||pdns.faelix.net^
 ||pdns.itxe.net^
 ||pdx01.dnscry.pt^
+||ped01.dnscry.pt^
 ||pepetio.xyz^
 ||per.adfilter.net^
+||per01.dnscry.pt^
 ||performance.gosami.xyz^
 ||phx01.dnscry.pt^
 ||pidoh.mapledns.net^
@@ -1490,16 +1527,14 @@
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
-||pihole4.hoerli.net^
 ||pluton.plan9-dns.com^
-||pm1239-bd.xyz^
 ||pm7051-br.xyz^
-||pm9352-bd.xyz^
 ||polisitogel.beauty^
 ||polisitogel.contractors^
 ||polisitogel.hair^
 ||polisitogel.webcam^
 ||pooblet.co.za^
+||prg01.dnscry.pt^
 ||privacy.plumedns.com^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
@@ -1556,6 +1591,7 @@
 ||rgnet-iad.anycast.uncensoreddns.org^
 ||ric.openbld.net^
 ||ricko.is^
+||rix01.dnscry.pt^
 ||ro-bu.foxyfy.net^
 ||ro-buc-w-f-1.nashkan.net^
 ||ro-buc-w-p-1.nashkan.net^
@@ -1572,6 +1608,7 @@
 ||safe.dot.dns.yandex.net^
 ||safeservedns.com^
 ||sandbox.opendns.com^
+||sao01.dnscry.pt^
 ||sbdns.co.in^
 ||sdns.233py.com^
 ||sdns22.gkonuralp.com^
@@ -1587,6 +1624,7 @@
 ||security-filter-dns.cleanbrowsing.org^
 ||security.cloudflare-dns.com^
 ||security.rabbitdns.org^
+||sel02.dnscry.pt^
 ||seoul.dnsovertor.cc^
 ||sg-dns1.bancuh.com^
 ||sg-sin.doh.sb^
@@ -1605,6 +1643,8 @@
 ||sink.nolo.ltd^
 ||sitdns.com^
 ||sjc01.dnscry.pt^
+||sjc02.dnscry.pt^
+||skg01.dnscry.pt^
 ||sky.rethinkdns.com^
 ||skydragoness.com^
 ||slc01.dnscry.pt^
@@ -1615,6 +1655,7 @@
 ||spacedns.org^
 ||steering.nextdns.io^
 ||sto01.dnscry.pt^
+||sto02.dnscry.pt^
 ||stratus.bugz.fr^
 ||sukidayo.eu.org^
 ||sundalandia.pp.ua^
@@ -1625,9 +1666,11 @@
 ||syd02.dnscry.pt^
 ||takhtakh.domyah.net^
 ||tbs01.dnscry.pt^
+||tecdrive.site^
 ||teraswitch-pit-1.edge.nextdns.io^
 ||testaghome.meshkov.info^
 ||testguard.meexx.de^
+||tia01.dnscry.pt^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
 ||timedns.net^
@@ -1645,12 +1688,16 @@
 ||tributh.net^
 ||truta.org^
 ||tsm01.dnscry.pt^
+||tsr01.dnscry.pt^
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
+||tuskythehusky.tech^
+||tuu01.dnscry.pt^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
+||tyo03.dnscry.pt^
 ||typaza.com^
 ||ueni.dyndns.org^
 ||uk-lon.doh.sb^
@@ -1724,6 +1771,7 @@
 ||xenergy.cc^
 ||xholgm.top^
 ||yhz01.dnscry.pt^
+||ymq01.dnscry.pt^
 ||your-dns.run^
 ||yovbak.com^
 ||yul01.dnscry.pt^
@@ -1732,6 +1780,7 @@
 ||yvr01.dnscry.pt^
 ||yyc01.dnscry.pt^
 ||yyz01.dnscry.pt^
+||yyz02.dnscry.pt^
 ||zakaria.website^
 ||zal01.dnscry.pt^
 ||zdn.ro^
@@ -1744,5 +1793,6 @@
 ||zepto-sao-1.edge.nextdns.io^
 ||zepto-xrs-1.edge.nextdns.io^
 ||zougloub.eu^
+||zrh01.dnscry.pt^
 ||zrh1-ns01.monzoon.net^
 ! <EOF>
