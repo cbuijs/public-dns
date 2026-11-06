@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1793849402
+! Version: 1793935234
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -237,7 +237,6 @@
 ||den01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||digitale-gesellschaft.ch^
-||dltuykfgp.top^
 ||dns-1.wil.cloud^
 ||dns-2.wil.cloud^
 ||dns-cybersec.nordthreatprotection.com^

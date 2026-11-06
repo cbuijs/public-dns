@@ -206,7 +206,6 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.ffnw.de
 dns.flatuslifir.is
 dns.flymc.cc
-dns.foxyfy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
@@ -276,7 +275,6 @@ dns.sb
 dns.sea1.speakeasy.net
 dns.sellan.fr
 dns.shecan.ir
-dns.silentlybren.com
 dns.sindominio.net
 dns.slinkyman.net
 dns.smartguard.io
@@ -480,7 +478,6 @@ edgeuno-sao-1.edge.nextdns.io
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
-es-ma.foxyfy.net
 esel.stusta.mhn.de
 eth.link
 eu.tri-dns.net
@@ -707,6 +704,7 @@ ns1.gtelmiennam.vn
 ns1.helpdesk.cm-uj.krakow.pl
 ns1.i-evolve.net
 ns1.iccnet.cm
+ns1.ignet.it
 ns1.kbronet.com.tw
 ns1.kemenkumham.go.id
 ns1.lrhosting.com
@@ -754,7 +752,6 @@ ns2.opennameserver.org
 ns2.probe-networks.de
 ns2.pubnetplus.ne.kr
 ns2.recursive.dnsbycomodo.com
-ns2.rgprovider.com.br
 ns2.strongarm.io
 ns2.sumselprov.go.id
 ns2.teentelecom.net
@@ -867,7 +864,6 @@ rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
 rix01.dnscry.pt
-ro-bu.foxyfy.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 root.hagezi.org
@@ -963,7 +959,6 @@ us-nyc-w-p-1.nashkan.net
 us-nyc.doh.sb
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
-us-sj.foxyfy.net
 us-sjc.doh.sb
 us.doh.cloudveil.org
 us01.dns4me.net
