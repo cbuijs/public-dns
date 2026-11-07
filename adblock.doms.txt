@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1793935234
+! Version: 1794021649
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -648,6 +648,7 @@
 ||dns.skrep.eu^
 ||dns.skrep.in^
 ||dns.skrzypiec.pl^
+||dns.sktr.com.tr^
 ||dns.slavuta.od.ua^
 ||dns.slinkyman.net^
 ||dns.smartguard.io^
