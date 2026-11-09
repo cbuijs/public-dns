@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794108054
+! Version: 1794194697
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -59,7 +59,6 @@
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
 ||adguard.ihatemy.live^
-||adguard.johanliebert.top^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
@@ -86,6 +85,7 @@
 ||adhome.maige.fun^
 ||adl.adfilter.net^
 ||adl01.dnscry.pt^
+||ads-doh.securedns.eu^
 ||ads.hunga1k47.com^
 ||adult-filter-dns.cleanbrowsing.org^
 ||ae-fuj-w-p-1.nashkan.net^
@@ -427,7 +427,6 @@
 ||dns.freyja.pw^
 ||dns.froth.zone^
 ||dns.fullaccesstointernet.jp.eu.org^
-||dns.furrix.zone^
 ||dns.furrydns.de^
 ||dns.futuredns.me^
 ||dns.gamban.com^
@@ -522,12 +521,12 @@
 ||dns.lista.my.id^
 ||dns.listo.click^
 ||dns.lobbygod.com^
+||dns.lsho.top^
 ||dns.luma-medien.com^
 ||dns.lvolland.fr^
 ||dns.maitrekuc.fr^
 ||dns.maolaohei.xyz^
 ||dns.marasov.id^
-||dns.marbledfennec.net^
 ||dns.mateo.ovh^
 ||dns.mathewakhil.online^
 ||dns.maybe.icu^
@@ -591,7 +590,6 @@
 ||dns.paulo.nom.za^
 ||dns.pccoach.nl^
 ||dns.peb-schmidt.de^
-||dns.pernika.net^
 ||dns.pesaventofilippo.com^
 ||dns.petqa.ru^
 ||dns.phillipjberry.net^
@@ -910,6 +908,7 @@
 ||doh.sandbox.opendns.com^
 ||doh.sb^
 ||doh.seby.io^
+||doh.securedns.eu^
 ||doh.serverhost.no^
 ||doh.sidnlabs.nl^
 ||doh.sublime9.xyz^
@@ -953,6 +952,7 @@
 ||dot.quickline.ch^
 ||dot.sb^
 ||dot.seby.io^
+||dot.securedns.eu^
 ||dot.tiar.app^
 ||dot.tooli.ca^
 ||dot.xfinity.com^
@@ -992,6 +992,7 @@
 ||family.adguard-dns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
+||family.dns.doubleangels.com^
 ||family.dns.dremaxx.com^
 ||family.dns.mullvad.net^
 ||family.dns.ningkelle.id^
@@ -1178,6 +1179,7 @@
 ||loadlow.me^
 ||lon01.dnscry.pt^
 ||los02.dnscry.pt^
+||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
 ||luxembourg.privacy-dns.pw^
@@ -1196,6 +1198,7 @@
 ||mendozasdelivery.com^
 ||mia01.dnscry.pt^
 ||mickedi.isgood.host^
+||mikezhang.xyz^
 ||mil01.dnscry.pt^
 ||moamao.shop^
 ||moe01.dnscry.pt^
@@ -1480,7 +1483,6 @@
 ||nz01.dns4me.net^
 ||o.rsaikat.com^
 ||o1.lt^
-||obscuro.top^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
 ||odvr.nic.cz^

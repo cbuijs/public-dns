@@ -114,6 +114,7 @@
 23.159.160.55 us-nyc.doh.sb
 23.184.48.19 llk01.dnscry.pt
 23.191.80.43 yhz01.dnscry.pt
+23.224.132.186 tk31z.com
 23.230.253.98 dfw02.dnscry.pt
 23.239.3.190 dns.efficientdocuments.com
 23.239.10.192 dns.fizz.studio
@@ -317,9 +318,9 @@
 49.212.198.52 adguard.ajinga.net adguard.londonwebnerd.cloud atris.cyou cynntex.fun deep-henchman-excuse.cfd dns.cybertonic.tech do-39574-tr.xyz hfgx.shop myatris.sbs xholgm.top
 49.212.207.51 adg.yybyy.wiki ads.hunga1k47.com ag.brianlee.fun dns-free.link dns.mathewakhil.online quic.lol
 49.212.235.34 dns.auapi.fun moamao.shop paradise-human.shop v2.xx3210766.live
-49.212.235.44 dns.butterfly87.sbs dns.f97.xyz dns.vod11.xyz doh.sublime9.xyz lifeisa.live pepetio.xyz
+49.212.235.44 dns.butterfly87.sbs dns.f97.xyz dns.lsho.top dns.vod11.xyz doh.sublime9.xyz lifeisa.live pepetio.xyz
 50.116.59.251 adguard.shoupperuser.com
-51.15.69.11 dns.anonymous.pw dns.brono.cloud dns.fullaccesstointernet.jp.eu.org dns.mipauns.com dns.vietdns.vn dns.zzuhacker.cn dns01.flm9.net doh.233py.com doh.abraservice.xyz doh1.b-cdn.net fidelius.top fra1.eyecay.xyz gibblets.top jpdns.cola16.app las-vegas.privacy-dns.pw ns1.iccnet.cm ns1.opennameserver.org ns1327.ztomy.com solaxy.live
+51.15.69.11 dns.anonymous.pw dns.brono.cloud dns.fullaccesstointernet.jp.eu.org dns.mipauns.com dns.vietdns.vn dns.wahr.top dns.zzuhacker.cn dns01.flm9.net doh.233py.com doh.abraservice.xyz doh1.b-cdn.net fidelius.top fra1.eyecay.xyz gibblets.top jpdns.cola16.app las-vegas.privacy-dns.pw ns1.iccnet.cm ns1.opennameserver.org ns1327.ztomy.com solaxy.live
 51.24.7.1 dns.easyhns.com
 51.38.125.60 ns1.mildmedia.se
 51.45.18.181 httpdns-push.heytapmobile.com
@@ -413,6 +414,7 @@
 65.21.253.73 fi-hel-w-f-2.nashkan.net
 66.18.4.251 ns01.ash01.latisys.net
 66.23.198.252 dns.omada.cafe
+66.33.60.129 arashi.net.eu.org
 66.33.60.194 apple.nextdns.io
 66.55.159.186 dnswebvsn.com
 66.93.87.2 dns.sea1.speakeasy.net
@@ -460,8 +462,8 @@
 75.119.137.239 dns.christian.moe dns.imchristian.de
 76.76.2.11 family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
 76.76.2.22 dns.controld.com
-76.76.21.93 apple.nextdns.io arashi.net.eu.org
-76.76.21.98 arashi.net.eu.org
+76.76.21.93 apple.nextdns.io
+76.76.21.241 arashi.net.eu.org
 76.223.54.146 2.dnscrypt-cert.pumplex.com dns.faze.dev dns.pumplex.com ikarosalpha.xyz ns2.fivestardns.com
 77.68.29.63 ahoj.email
 77.68.50.239 dns.connect.fail
@@ -497,7 +499,7 @@
 79.143.240.79 resolver1.absolight.net
 79.143.240.81 resolver3.absolight.net
 79.184.31.132 adguard.piekacz.pl piekacz.pl
-79.250.64.97 dnsblock.grisumedia.de
+79.250.75.49 dnsblock.grisumedia.de
 80.67.98.226 ns1.infoselva.net ns2.infoselva.net
 80.67.169.12 ns0.fdn.fr
 80.67.169.40 ns1.fdn.fr ns1.fdn.org
@@ -635,6 +637,7 @@
 91.121.223.220 ns306038.ip-91-121-223.eu
 91.150.92.232 dns2.sutoplana.rs
 91.190.185.43 opennic.i2pd.xyz
+91.195.241.232 ads-doh.securedns.eu doh.securedns.eu dot.securedns.eu
 91.197.1.176 mickedi.isgood.host
 91.198.156.20 doh.lv doh.nic.lv
 91.204.45.202 dns.warpnine.de
@@ -914,7 +917,7 @@
 113.179.20.238 tungdnsne.duckdns.org
 113.208.80.4 ns4.absatellite.net
 113.210.64.250 fwgw.orangepipc.mywire.org
-114.12.13.239 gustamadh.dynv6.net
+114.12.15.145 gustamadh.dynv6.net
 114.33.26.67 dns.jundev.org
 114.34.0.56 adguard.shuting.idv.tw
 114.66.33.239 dns.hujiayucc.cn
@@ -1179,12 +1182,12 @@
 160.191.182.216 blr01.dnscry.pt
 160.202.238.204 dns.23-4.cn
 160.250.95.28 dns.hakim.one
-160.251.64.80 3dcosas.xyz adguard.johanliebert.top bestwon203.com dns.pernika.net dns.vip-kingstore.xyz dns.wahr.top edgy-dns.com hkname.freecdn.one lukscasino-929-tr.xyz mendozasdelivery.com pashagame456.com tecdrive.site tuskythehusky.tech
+160.251.64.80 bestwon203.com dns.vip-kingstore.xyz family.dns.doubleangels.com hkname.freecdn.one lukscasino-479-tr.xyz lukscasino-929-tr.xyz mendozasdelivery.com mikezhang.xyz pashagame456.com tecdrive.site tuskythehusky.tech
 161.35.136.3 doh-primary-pool.goodbyegambling.com
 161.118.145.178 adguard.haneulo.com
 161.129.34.134 5g.o0o.re
 162.4.84.247 dns.hakutakucn.com
-162.4.84.255 sdns22.gkonuralp.com
+162.4.84.255 3dcosas.xyz edgy-dns.com sdns22.gkonuralp.com
 162.19.227.251 fezgate.ovh
 162.159.36.5 frd4wvnobp.cloudflare-gateway.com
 162.159.36.20 frd4wvnobp.cloudflare-gateway.com
@@ -1301,11 +1304,11 @@
 172.233.59.98 dns.pccoach.nl
 172.233.147.42 adguard.hartley.cloud
 172.233.221.243 doh.archuser.org
-172.236.104.43 glacius.top imperio.top obscuro.top revelio.top
-172.236.104.157 glacius.top imperio.top obscuro.top revelio.top
-172.238.172.122 glacius.top imperio.top obscuro.top revelio.top
+172.236.104.43 glacius.top imperio.top revelio.top
+172.236.104.157 glacius.top imperio.top revelio.top
+172.238.172.122 glacius.top imperio.top revelio.top
 173.20.169.71 dns.cahlen.com
-173.208.212.205 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net
+173.208.212.205 multi.dns.marbledfennec.net
 173.230.149.113 dns.scott-smith.us
 173.241.228.10 ns3.onecommunity.org
 173.249.205.198 phx01.dnscry.pt
@@ -1362,7 +1365,6 @@
 178.209.51.242 nsec.arnor.org
 178.248.239.174 comss.ru
 182.8.195.209 dns.velyn.my.id
-182.16.68.115 tk31z.com
 183.91.184.14 ns1.gtelmiennam.vn
 183.91.184.18 ns2.gtelmiennam.vn
 183.171.200.162 punono.duckdns.org
@@ -1620,7 +1622,7 @@
 203.198.7.66 ns4.netvigator.com
 204.9.92.87 adguard1.leadmon.net
 204.10.79.38 doh.sunoaki.net
-204.12.237.197 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net
+204.12.237.197 multi.dns.marbledfennec.net
 204.152.252.250 ns2.hostable.com
 204.216.154.80 dns.asterimoon.com
 205.134.177.138 dns6.ai.net
