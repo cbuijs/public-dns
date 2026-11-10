@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794194697
+! Version: 1794280845
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -210,6 +210,7 @@
 ||cpt02.dnscry.pt^
 ||crypto.sx^
 ||cryptostorm.is^
+||ctif.hagezi.org^
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cvt01.dnscry.pt^
@@ -1760,6 +1761,7 @@
 ||wurzn.hagezi.org^
 ||www.c-dns.com^
 ||www.chungocoai.name.vn^
+||www.cloudflare-gateway.com^
 ||www.inpssh.online^
 ||www.jabber-germany.de^
 ||www.masters-of-cloud.de^
