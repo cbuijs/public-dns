@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794453655
+! Version: 1794540563
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -59,11 +59,11 @@
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
 ||adguard.ihatemy.live^
+||adguard.johanliebert.top^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.lege.despagne.net^
-||adguard.londonwebnerd.cloud^
 ||adguard.maison.gifino.fr^
 ||adguard.meddy94.de^
 ||adguard.neon0404.space^
@@ -360,6 +360,7 @@
 ||dns.cretaforce.gr^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
+||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cybertonic.tech^
@@ -428,6 +429,7 @@
 ||dns.freyja.pw^
 ||dns.froth.zone^
 ||dns.fullaccesstointernet.jp.eu.org^
+||dns.furrix.zone^
 ||dns.furrydns.de^
 ||dns.futuredns.me^
 ||dns.gamban.com^
@@ -486,6 +488,7 @@
 ||dns.jiyi.eu^
 ||dns.joey01245.nl^
 ||dns.jstockley.com^
+||dns.jucker.engineering^
 ||dns.jundev.org^
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
@@ -528,6 +531,7 @@
 ||dns.maitrekuc.fr^
 ||dns.maolaohei.xyz^
 ||dns.marasov.id^
+||dns.marbledfennec.net^
 ||dns.mateo.ovh^
 ||dns.mathewakhil.online^
 ||dns.maybe.icu^
@@ -591,6 +595,7 @@
 ||dns.paulo.nom.za^
 ||dns.pccoach.nl^
 ||dns.peb-schmidt.de^
+||dns.pernika.net^
 ||dns.pesaventofilippo.com^
 ||dns.petqa.ru^
 ||dns.phillipjberry.net^
@@ -892,6 +897,7 @@
 ||doh.maskab.com^
 ||doh.max.net.id^
 ||doh.mmmalia.com^
+||doh.morizt.id^
 ||doh.mullvad.net^
 ||doh.nic.lv^
 ||doh.niyawe.de^
@@ -1008,7 +1014,6 @@
 ||fet02.dnscry.pt^
 ||fezgate.ovh^
 ||fi-hel-w-f-2.nashkan.net^
-||fidelius.top^
 ||filter.dns.yunzheng.space^
 ||firefox.dns.nextdns.io^
 ||fnt01.dnscry.pt^
@@ -1037,8 +1042,6 @@
 ||geg01.dnscry.pt^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
-||gibblets.top^
-||glacius.top^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||goose.buckyfan.net^
@@ -1083,7 +1086,6 @@
 ||ihctw.synology.me^
 ||iij.jp^
 ||ikarosalpha.xyz^
-||imperio.top^
 ||in-blr.doh.sb^
 ||ind01.dnscry.pt^
 ||ines.zfn.uni-bremen.de^
@@ -1167,6 +1169,7 @@
 ||lastentarvike.fi^
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
+||ledns.eu^
 ||lelux.fi^
 ||lesuo.top^
 ||lewsha.lol^
@@ -1182,8 +1185,9 @@
 ||los02.dnscry.pt^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
-||lukscasino-929-tr.xyz^
 ||luxembourg.privacy-dns.pw^
+||mabuktogel.business^
+||mabuktogel.properties^
 ||mad01.dnscry.pt^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -1328,7 +1332,6 @@
 ||ns1.serverwholesale.com^
 ||ns1.sotelips.net^
 ||ns1.syvab.se^
-||ns1.telcove.com^
 ||ns1.telenetiks.pl^
 ||ns1.transtelecom.net^
 ||ns1.uzpak.uz^
@@ -1399,7 +1402,6 @@
 ||ns2.sumselprov.go.id^
 ||ns2.teentelecom.net^
 ||ns2.tekanet.pl^
-||ns2.telcove.com^
 ||ns2.thegioididong.com^
 ||ns2.tverline.ru^
 ||ns2.uzpak.uz^
@@ -1489,6 +1491,7 @@
 ||odvr.nic.cz^
 ||ogd01.dnscry.pt^
 ||oisd.dns.bebasid.com^
+||okado.online^
 ||omr01.dnscry.pt^
 ||one.one.one.one^
 ||open.dns.dremaxx.com^
@@ -1503,6 +1506,7 @@
 ||ord01.dnscry.pt^
 ||ordns.he.net^
 ||ore-dns.bitdefender.net^
+||osefcorp.duckdns.org^
 ||ott01.dnscry.pt^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
@@ -1562,7 +1566,6 @@
 ||rdd01.dnscry.pt^
 ||rdns.faelix.net^
 ||regiopolis.cloud^
-||renardbleu.dev^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
@@ -1586,7 +1589,6 @@
 ||resolver4.dns.openinternet.io^
 ||resov.wehao.net^
 ||rethinkdns.com^
-||revelio.top^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
 ||rgnet-iad.anycast.censurfridns.dk^
@@ -1734,6 +1736,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||use-application-dns.net^
 ||uw-dns.rubyfish.cn^
 ||v.dnscrypt.uk^
 ||v.recipes^
