@@ -14,6 +14,7 @@ adblock.mydns.network
 adfree.usableprivacy.net
 adfreedns.top
 adguard-dns.com
+adguard.aa4.co.uk
 adguard.bitteeinbyte.de
 adguard.depieri.net
 adguard.ihatemy.live
@@ -179,11 +180,11 @@ dns.comff.net
 dns.comss.one
 dns.connect.net.pk
 dns.controld.com
-dns.cretaforce.gr
 dns.crystalyx.net
 dns.csaonline.de
 dns.csswg.org
 dns.daemon.za.net
+dns.deadsec.net
 dns.decloudus.com
 dns.dev-umbrellagov.com
 dns.dfw1.speakeasy.net
@@ -196,7 +197,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.easynet.dev
 dns.elemental.software
@@ -205,6 +205,7 @@ dns.envs.net
 dns.eu-frankfurt-1.oraclecloud.com
 dns.ffnw.de
 dns.flatuslifir.is
+dns.flymc.cc
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
@@ -240,6 +241,7 @@ dns.mnt.it
 dns.molinero.dev
 dns.mullvad.net
 dns.murgi.de
+dns.nas-server.ru
 dns.neilzone.co.uk
 dns.nextdns.io
 dns.nick-slowinski.de
@@ -258,6 +260,7 @@ dns.porteii.com
 dns.pub
 dns.quad9.net
 dns.rabbitdns.org
+dns.rhscz.eu
 dns.ronc.ru
 dns.rubyfish.cn
 dns.sarak.as
@@ -300,14 +303,12 @@ dns01.etnet.com.hk
 dns02.etnet.com.hk
 dns02.ntts-idc.net.sg
 dns03.ntts-idc.net.sg
-dns1.amlc.gov.ph
 dns1.bluewin.ch
 dns1.butovonet.ru
 dns1.cfbisd.edu
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.evv.wideopenwest.com
-dns1.giga.net.tw
 dns1.in-berlin.de
 dns1.lon.gblx.net
 dns1.nemox.net
@@ -323,6 +324,7 @@ dns1.snv.gblx.net
 dns1.techniverse.net
 dns1.van.radiant.net
 dns1.vtelecom.am
+dns1.wideopenwest.com
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -332,7 +334,6 @@ dns2.aciertadns.es
 dns2.bluewin.ch
 dns2.cfbisd.edu
 dns2.digitale-gesellschaft.ch
-dns2.eglobalreach.net
 dns2.futuro.pl
 dns2.in-berlin.de
 dns2.kpnqwest.it
@@ -634,6 +635,7 @@ llk01.dnscry.pt
 lon01.dnscry.pt
 los02.dnscry.pt
 lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 mad01.dnscry.pt
 mail.data.haus
 man01.dnscry.pt
@@ -662,17 +664,17 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 noads.joindns4.eu
+ns.00dani.me
 ns.basnetbd.com
 ns.cesnet.cz
 ns.data.haus
 ns.disc.co.kr
 ns.execulink.com
-ns.hmrn.ru
 ns.hsc.gov.ua
-ns.kaluga.net
 ns.maxnet.ru
 ns.mixnet.ua
 ns.mtsoln.com
+ns.neterra.net
 ns.nwps.fi
 ns.obrnadzor.gov.ru
 ns.tevia.ru
@@ -690,8 +692,6 @@ ns02.supercom.com.ph
 ns03.nextraworld.com
 ns1.az-ix.net
 ns1.binhdinh.gov.vn
-ns1.blackfiberph.com
-ns1.cnba.uba.ar
 ns1.ctl.one
 ns1.dsl.net
 ns1.ednet.imsbiz.com
@@ -700,13 +700,11 @@ ns1.exsbs.net
 ns1.fdn.fr
 ns1.fdn.org
 ns1.flowtrinidad.com
-ns1.glorydns.com
 ns1.gtelmiennam.vn
 ns1.helpdesk.cm-uj.krakow.pl
 ns1.i-evolve.net
 ns1.iccnet.cm
 ns1.iranet.ir
-ns1.kbronet.com.tw
 ns1.kemenkumham.go.id
 ns1.lrhosting.com
 ns1.mildmedia.se
@@ -750,7 +748,6 @@ ns2.gtelmiennam.vn
 ns2.hanastar.net.id
 ns2.i-evolve.net
 ns2.iccnet.cm
-ns2.kbronet.com.tw
 ns2.metrotvnews.com
 ns2.mhnet.com.br
 ns2.nnt.lt
@@ -819,7 +816,6 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 pdx01.dnscry.pt

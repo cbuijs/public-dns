@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794799244
+! Version: 1794885973
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -64,6 +64,7 @@
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.lege.despagne.net^
+||adguard.londonwebnerd.cloud^
 ||adguard.maison.gifino.fr^
 ||adguard.meddy94.de^
 ||adguard.neon0404.space^
@@ -358,7 +359,6 @@
 ||dns.connect.fail^
 ||dns.connect.net.pk^
 ||dns.controld.com^
-||dns.cretaforce.gr^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csa-rz.de^
@@ -395,7 +395,6 @@
 ||dns.dotnet.win^
 ||dns.dremaxx.de^
 ||dns.dva.re^
-||dns.dyn1.de^
 ||dns.dynx.pro^
 ||dns.easyhns.com^
 ||dns.easynet.dev^
@@ -485,7 +484,6 @@
 ||dns.is0mino.com^
 ||dns.islandnet.com^
 ||dns.izzy.net^
-||dns.jekyo.com^
 ||dns.jhangy.us^
 ||dns.jichi.io^
 ||dns.jinwoo.dev^
@@ -529,7 +527,6 @@
 ||dns.lista.my.id^
 ||dns.listo.click^
 ||dns.lobbygod.com^
-||dns.lsho.top^
 ||dns.luma-medien.com^
 ||dns.lvolland.fr^
 ||dns.maitrekuc.fr^
@@ -549,7 +546,6 @@
 ||dns.mihanentalpo.me^
 ||dns.mikeliu.org^
 ||dns.mikrotikrumahan.my.id^
-||dns.mipauns.com^
 ||dns.mnet-online.de^
 ||dns.mnt.it^
 ||dns.molinero.dev^
@@ -713,7 +709,6 @@
 ||dns.vnu.edu.vn^
 ||dns.vod11.xyz^
 ||dns.w3ctag.org^
-||dns.wahr.top^
 ||dns.wargan.io^
 ||dns.warma.me^
 ||dns.warpnine.de^
@@ -740,7 +735,6 @@
 ||dns02.ntts-idc.net.sg^
 ||dns03.ntts-idc.net.sg^
 ||dns1.8sdc.de^
-||dns1.amlc.gov.ph^
 ||dns1.bluewin.ch^
 ||dns1.butovonet.ru^
 ||dns1.cfbisd.edu^
@@ -749,8 +743,6 @@
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
 ||dns1.evv.wideopenwest.com^
-||dns1.giga.net.tw^
-||dns1.grca.com.tw^
 ||dns1.in-berlin.de^
 ||dns1.irumatech.com^
 ||dns1.klcd.eu^
@@ -773,6 +765,7 @@
 ||dns1.techniverse.net^
 ||dns1.van.radiant.net^
 ||dns1.vtelecom.am^
+||dns1.wideopenwest.com^
 ||dns1.xspedius.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
@@ -786,7 +779,6 @@
 ||dns2.cfbisd.edu^
 ||dns2.concera.org^
 ||dns2.digitale-gesellschaft.ch^
-||dns2.eglobalreach.net^
 ||dns2.futuro.pl^
 ||dns2.guidocioni.it^
 ||dns2.in-berlin.de^
@@ -1086,7 +1078,6 @@
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
 ||hkg03.dnscry.pt^
-||hkname.freecdn.one^
 ||hnsdoh.com^
 ||hole.elbschloss.xyz^
 ||home-server.store^
@@ -1206,9 +1197,13 @@
 ||los02.dnscry.pt^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
+||lukscasino-929-tr.xyz^
 ||luxembourg.privacy-dns.pw^
 ||mabuktogel.business^
+||mabuktogel.cards^
+||mabuktogel.marketing^
 ||mabuktogel.properties^
+||mabuktogel.solutions^
 ||mad01.dnscry.pt^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -1224,7 +1219,6 @@
 ||mendozasdelivery.com^
 ||mia01.dnscry.pt^
 ||mickedi.isgood.host^
-||mikezhang.xyz^
 ||mil01.dnscry.pt^
 ||moamao.shop^
 ||moe01.dnscry.pt^
@@ -1264,14 +1258,13 @@
 ||ns.disc.co.kr^
 ||ns.execulink.com^
 ||ns.golta.mk.ua^
-||ns.hmrn.ru^
 ||ns.hsc.gov.ua^
-||ns.kaluga.net^
 ||ns.mamto.cz^
 ||ns.maxnet.ru^
 ||ns.mixnet.ua^
 ||ns.mtsoln.com^
 ||ns.net.kg^
+||ns.neterra.net^
 ||ns.nwps.fi^
 ||ns.obrnadzor.gov.ru^
 ||ns.ral9005.org^
@@ -1290,8 +1283,6 @@
 ||ns01.ash01.latisys.net^
 ||ns01.bt.gob.ve^
 ||ns01.csloxinfo.com^
-||ns01.kcs.edu.hk^
-||ns01.netventure.de^
 ||ns01.scmginc.com^
 ||ns01.supercom.com.ph^
 ||ns02.ash01.latisys.net^
@@ -1304,14 +1295,12 @@
 ||ns1.amobile.com.tw^
 ||ns1.az-ix.net^
 ||ns1.binhdinh.gov.vn^
-||ns1.blackfiberph.com^
 ||ns1.ceinetworks.com^
-||ns1.cnba.uba.ar^
 ||ns1.cnet.hu^
 ||ns1.communitytelephone.net^
 ||ns1.courriel-diffusion.fr^
+||ns1.csc2ya.co.uk^
 ||ns1.ctl.one^
-||ns1.downup.net.br^
 ||ns1.dsl.net^
 ||ns1.dts.com.vn^
 ||ns1.ednet.imsbiz.com^
@@ -1323,7 +1312,6 @@
 ||ns1.flodns.net^
 ||ns1.flowtrinidad.com^
 ||ns1.fortesys.ro^
-||ns1.glorydns.com^
 ||ns1.gtelmiennam.vn^
 ||ns1.helpdesk.cm-uj.krakow.pl^
 ||ns1.i-evolve.net^
@@ -1331,7 +1319,6 @@
 ||ns1.ignet.it^
 ||ns1.infoselva.net^
 ||ns1.iranet.ir^
-||ns1.kbronet.com.tw^
 ||ns1.kemenkumham.go.id^
 ||ns1.longshore.com.hk^
 ||ns1.lrhosting.com^
@@ -1356,7 +1343,6 @@
 ||ns1.rr.ru^
 ||ns1.s.net.pl^
 ||ns1.sedronar.gov.ar^
-||ns1.serverwholesale.com^
 ||ns1.skylinkfibernet.com^
 ||ns1.sotelips.net^
 ||ns1.strongarm.io^
@@ -1404,16 +1390,13 @@
 ||ns2.fivestardns.com^
 ||ns2.flodns.net^
 ||ns2.foodline.ru^
-||ns2.fusilsystem.com^
 ||ns2.gtelmiennam.vn^
 ||ns2.hanastar.net.id^
 ||ns2.hostable.com^
 ||ns2.i-evolve.net^
 ||ns2.iccnet.cm^
 ||ns2.inf-brun.ch^
-||ns2.infoselva.net^
 ||ns2.interredes.com.ar^
-||ns2.kbronet.com.tw^
 ||ns2.lsv.ru^
 ||ns2.metrotvnews.com^
 ||ns2.mhnet.com.br^
@@ -1428,8 +1411,6 @@
 ||ns2.rgprovider.com.br^
 ||ns2.runnet.com^
 ||ns2.s.net.pl^
-||ns2.sedronar.gov.ar^
-||ns2.siteprotect.co.kr^
 ||ns2.skuld.jp^
 ||ns2.strongarm.io^
 ||ns2.sumselprov.go.id^
@@ -1459,7 +1440,6 @@
 ||ns3.opennameserver.org^
 ||ns3.techpro.com^
 ||ns3.uzpak.uz^
-||ns3.watel.cloud^
 ||ns3.wuyouss.com^
 ||ns300322.ip-91-121-30.eu^
 ||ns3022723.ip-176-31-115.eu^
@@ -1553,7 +1533,6 @@
 ||par01.dnscry.pt^
 ||paradise-human.shop^
 ||paranoia.mydns.network^
-||pashagame456.com^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||paulo.nom.za^
 ||pdns.faelix.net^
