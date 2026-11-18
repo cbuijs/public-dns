@@ -377,7 +377,6 @@
 57.128.237.78 dns.panszelescik.pl
 57.130.48.7 dns2.saferbfc.org
 58.87.96.15 dns.beardic.cn
-59.124.17.180 ns1.amobile.com.tw
 59.127.0.184 dns.chunghwamc.com
 60.205.247.82 dns.imaicool.com
 61.216.168.145 ns.chixing.tw
@@ -497,6 +496,7 @@
 79.124.7.43 sof01.dnscry.pt
 79.137.66.87 ns3067831.ip-79-137-66.eu
 79.141.83.250 ns3.ntd.ch
+79.142.50.30 ns1.smartnet.kz
 79.143.240.5 res-acst1.absolight.net
 79.143.240.6 res-acst2.absolight.net
 79.143.240.7 res-acst3.absolight.net
@@ -1536,7 +1536,6 @@
 193.180.80.2 dns.blokada.org
 193.190.182.53 dns.belnet.be
 193.190.198.16 dns.belnet.be
-193.202.111.250 ns1.plugandtel.com
 193.228.1.199 ist01.dnscry.pt
 194.0.5.3 doh.dns4all.eu
 194.0.5.64 doh64.dns4all.eu
@@ -1621,7 +1620,6 @@
 200.25.57.69 edgeuno-sao-1.edge.nextdns.io ipv4-edgeuno-sao-1.edge.nextdns.io
 200.25.70.69 edgeuno-cwb-1.edge.nextdns.io ipv4-edgeuno-cwb-1.edge.nextdns.io
 200.37.71.3 dns.tsi.com.pe
-200.41.227.35 ns1.sedronar.gov.ar
 200.114.96.11 ns2.interredes.com.ar
 201.77.8.10 ns2.rgprovider.com.br
 202.5.192.9 ns2.erdemnet.mn

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794885973
+! Version: 1794972052
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -1292,7 +1292,6 @@
 ||ns02.supercom.com.ph^
 ||ns03.nextraworld.com^
 ||ns04.sung.info^
-||ns1.amobile.com.tw^
 ||ns1.az-ix.net^
 ||ns1.binhdinh.gov.vn^
 ||ns1.ceinetworks.com^
@@ -1334,7 +1333,6 @@
 ||ns1.nsdesk.ru^
 ||ns1.omtrdc.net^
 ||ns1.opennameserver.org^
-||ns1.plugandtel.com^
 ||ns1.powertech.no^
 ||ns1.qquack.org^
 ||ns1.recursive.dnsbycomodo.com^
@@ -1342,8 +1340,8 @@
 ||ns1.romepc.com^
 ||ns1.rr.ru^
 ||ns1.s.net.pl^
-||ns1.sedronar.gov.ar^
 ||ns1.skylinkfibernet.com^
+||ns1.smartnet.kz^
 ||ns1.sotelips.net^
 ||ns1.strongarm.io^
 ||ns1.syvab.se^
