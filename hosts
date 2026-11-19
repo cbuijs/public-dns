@@ -416,7 +416,6 @@
 65.21.252.201 tuu01.dnscry.pt
 65.21.253.73 fi-hel-w-f-2.nashkan.net
 66.18.4.251 ns01.ash01.latisys.net
-66.23.198.252 dns.omada.cafe
 66.33.60.66 apple.nextdns.io
 66.33.60.194 arashi.net.eu.org
 66.55.159.186 dnswebvsn.com
@@ -897,6 +896,7 @@
 104.198.12.197 ore-dns.bitdefender.net
 104.200.18.74 dns.bobstrecansky.com
 104.200.67.194 lax02.dnscry.pt
+104.204.69.84 dns.omada.cafe
 104.225.129.106 jax01.dnscry.pt
 104.234.167.66 sg-w-p-1.nashkan.net
 104.234.231.239 ott01.dnscry.pt
@@ -1235,6 +1235,7 @@
 163.172.131.116 stratus.bugz.fr
 164.70.114.51 dns.ekinao.com
 164.90.207.7 adblockersite.com
+164.124.101.2 ns.lgtelecom.com
 164.132.7.242 dns.christerwaren.fi
 165.1.79.112 hitian.me
 165.99.131.95 sgn01.dnscry.pt
@@ -1559,6 +1560,7 @@
 194.190.174.17 ns2.arktika.ru
 194.191.24.42 dns.jucker.engineering
 194.225.152.10 ns1.iranet.ir
+194.225.152.12 ns2.iranet.ir
 194.242.2.2 dns.mullvad.net doh.mullvad.net
 194.242.2.3 adblock.dns.mullvad.net adblock.doh.mullvad.net
 194.242.2.4 base.dns.mullvad.net
@@ -1652,6 +1654,7 @@
 203.160.160.2 ns02.supercom.com.ph
 203.180.140.77 iij.jp
 203.198.7.66 ns4.netvigator.com
+203.239.130.1 ns.elim.net
 204.9.92.87 adguard1.leadmon.net
 204.10.79.38 doh.sunoaki.net
 204.12.237.197 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net

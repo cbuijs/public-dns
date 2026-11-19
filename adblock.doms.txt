@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" DOMAIN AdBlock List
-! Version: 1794972052
+! Version: 1795058457
 !
 ||0ms.dev^
 ||1.dns.noridev.moe^
@@ -1256,9 +1256,11 @@
 ||ns.data.haus^
 ||ns.delwag.ch^
 ||ns.disc.co.kr^
+||ns.elim.net^
 ||ns.execulink.com^
 ||ns.golta.mk.ua^
 ||ns.hsc.gov.ua^
+||ns.lgtelecom.com^
 ||ns.mamto.cz^
 ||ns.maxnet.ru^
 ||ns.mixnet.ua^
@@ -1395,6 +1397,7 @@
 ||ns2.iccnet.cm^
 ||ns2.inf-brun.ch^
 ||ns2.interredes.com.ar^
+||ns2.iranet.ir^
 ||ns2.lsv.ru^
 ||ns2.metrotvnews.com^
 ||ns2.mhnet.com.br^

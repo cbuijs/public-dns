@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1794972052
+! Version: 1795058457
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -460,7 +460,6 @@
 65.21.252.201$network
 65.21.253.73$network
 66.18.4.251$network
-66.23.198.252$network
 66.33.60.66$network
 66.33.60.194$network
 66.55.159.186$network
@@ -978,6 +977,7 @@
 104.198.12.197$network
 104.200.18.74$network
 104.200.67.194$network
+104.204.69.84$network
 104.225.129.106$network
 104.234.167.66$network
 104.234.231.239$network
@@ -1354,6 +1354,7 @@
 163.172.180.125$network
 164.70.114.51$network
 164.90.207.7$network
+164.124.101.2$network
 164.132.7.242$network
 165.1.79.112$network
 165.99.131.95$network
@@ -1715,6 +1716,7 @@
 194.190.174.17$network
 194.191.24.42$network
 194.225.152.10$network
+194.225.152.12$network
 194.242.2.2$network
 194.242.2.3$network
 194.242.2.4$network
@@ -1818,6 +1820,7 @@
 203.160.160.2$network
 203.180.140.77$network
 203.198.7.66$network
+203.239.130.1$network
 204.9.92.87$network
 204.10.79.38$network
 204.12.237.197$network
