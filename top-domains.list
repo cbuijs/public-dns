@@ -70,6 +70,7 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axcelx-bos-1.edge.nextdns.io
+b-ii.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -232,6 +233,7 @@ dns.levonet.sk
 dns.lgprk.com
 dns.lobbygod.com
 dns.maitrekuc.fr
+dns.marbledfennec.net
 dns.mayx.eu.org
 dns.mnet-online.de
 dns.molinero.dev
@@ -372,7 +374,6 @@ doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.kekew.info
 doh.kidzonet.io
-doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
@@ -615,6 +616,7 @@ mrs01.dnscry.pt
 mru02.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
+multi.dns.marbledfennec.net
 muxyuji.ru
 n5.lsasss.com
 ncl01.dnscry.pt
@@ -630,7 +632,6 @@ ns.data.haus
 ns.elim.net
 ns.execulink.com
 ns.lgdacom.net
-ns.lgtelecom.com
 ns.mtsoln.com
 ns.neterra.net
 ns.nwps.fi
@@ -688,7 +689,9 @@ omr01.dnscry.pt
 one.one.one.one
 openbld.net
 opencdn.jomodns.com
+opennic.i2pd.xyz
 opennic1.eth-services.de
+opennic2.i2pd.xyz
 opera.cloudflare-dns.com
 ord01.dnscry.pt
 ordns.he.net
