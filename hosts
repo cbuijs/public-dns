@@ -35,7 +35,6 @@
 5.11.11.5 africadns1.liquidtelecom.net
 5.11.11.11 africadns2.liquidtelecom.net
 5.15.65.120 noads.imbuffering.com
-5.45.96.220 ns1.new-nations.net
 5.75.228.192 ns.data.haus
 5.78.98.38 us-hil-w-p-1.nashkan.net
 5.78.102.99 us-hil-w-f-1.nashkan.net
@@ -324,7 +323,6 @@
 54.166.34.59 dns.api.integration.globuscs.info
 54.169.113.231 sg01.dns4me.net
 54.172.110.180 us02.dns4me.net
-54.174.40.213 ns1.strongarm.io
 54.187.149.240 us01.dns4me.net
 54.192.138.54 ricko.is
 54.192.138.59 ricko.is
@@ -348,21 +346,17 @@
 62.210.6.110 dns.maybe.icu
 62.210.125.225 dns.k3nny.fr
 62.212.224.222 ns1.az-ix.net
-62.212.244.100 ns2.az-ix.net
 63.32.212.172 dns.bitservices.io
 63.73.11.2 ns1.exsbs.net
 63.133.223.138 tsm01.dnscry.pt
 64.29.149.113 ns1.dsl.net
 64.44.177.34 us-jac-w-p-1.nashkan.net
 64.44.177.36 us-jac-w-f-1.nashkan.net
-64.81.127.2 dns.dfw1.speakeasy.net
-64.81.159.2 dns.chi1.speakeasy.net
 64.110.86.188 dns.haka.se
 64.110.98.11 dns.tryk.app
 64.118.135.26 adg.geili.me
 64.120.95.36 sg-w-f-1.nashkan.net
 64.176.188.144 dns.7vpn.com
-64.233.207.2 dns2.wideopenwest.com
 64.233.207.16 dns1.wideopenwest.com
 65.20.80.92 dns.iamanuragh.in
 65.21.252.201 tuu01.dnscry.pt
@@ -470,7 +464,6 @@
 82.115.4.186 ada.openbld.net
 82.118.16.121 mil01.dnscry.pt
 82.118.21.189 gdn01.dnscry.pt
-82.146.40.201 ns1.nsdesk.ru
 82.149.226.45 doh.funil.de
 82.152.8.101 opennic2.i2pd.xyz
 82.156.200.92 www.c-dns.com
@@ -513,7 +506,6 @@
 87.106.240.124 cloudns.bosco.ovh
 87.128.10.46 dns.b72.com
 87.128.111.190 dns.faked.org
-87.204.28.12 dns2.futuro.pl
 87.250.251.101 dns.yandex.ru
 87.253.131.216 meganerd.nl
 88.87.69.93 adguard.onlyfriends.info
@@ -570,7 +562,6 @@
 92.118.190.116 de-fra-w-p-1.nashkan.net
 92.204.241.140 ns1.csc2ya.co.uk
 92.205.21.178 dns.3wv.de
-92.222.227.224 dns2.omdc.pl
 92.254.21.26 home27.duckdns.org
 93.4.84.37 adguard.maison.gifino.fr
 93.66.239.145 adguard.depieri.net
@@ -612,7 +603,6 @@
 95.179.152.253 dns.joey01245.nl
 95.179.161.138 dns.smartguard.io
 95.179.200.247 cleanbrowsing.org
-95.182.123.125 ns1.retail-ug.ru
 95.211.63.68 ada.openbld.net
 95.215.19.53 dns.njal.la
 95.216.74.89 dns.neubsi.at
@@ -657,7 +647,6 @@
 103.70.12.129 rx.techomespace.com
 103.73.65.33 au-syd-w-f-1.nashkan.net
 103.79.78.248 query.mobyds.com
-103.83.33.13 ns1.lspngdns.com
 103.86.96.100 dns1.nordvpn.com
 103.86.96.107 dns-malwaresec.nordthreatprotection.com
 103.86.96.108 dns-cybersec.nordthreatprotection.com
@@ -891,7 +880,6 @@
 136.243.156.176 dns.coderoria.com
 136.244.65.20 v.dnscrypt.uk
 137.66.7.89 max.rethinkdns.com
-137.118.1.28 dns3.infoave.net
 138.2.72.94 tuandns.duckdns.org
 138.2.122.236 dns.eliv.kr
 138.2.123.220 dns.moonssif.com
@@ -988,7 +976,6 @@
 150.230.35.93 adguard.dantynes.cyou
 150.230.197.227 dns.354688.xyz
 150.230.203.199 dns.hotta.page
-151.11.24.15 dns.iamb.it
 151.80.145.143 dns.sstomp.nl
 151.115.80.165 ledns.eu
 151.145.200.30 dns.momou.ch
@@ -1102,7 +1089,6 @@
 168.95.1.1 dns.hinet.net
 168.95.192.1 dns.hinet.net
 168.119.27.54 dns1.8sdc.de
-168.119.61.220 dns2.8sdc.de
 168.138.26.232 orau.lz0724.com
 168.138.28.223 dns.meeo.win
 168.138.32.189 jpdns.cola16.app
@@ -1265,7 +1251,6 @@
 185.70.9.10 dns.kuuhaku.moe
 185.71.138.138 wikimedia-dns.org
 185.75.243.80 tia01.dnscry.pt
-185.91.202.15 ns2.bonet.sk
 185.93.221.167 buh01.dnscry.pt
 185.95.218.42 dns.digitale-gesellschaft.ch dns1.digitale-gesellschaft.ch
 185.95.218.43 dns.digitale-gesellschaft.ch dns2.digitale-gesellschaft.ch
@@ -1435,7 +1420,6 @@
 200.25.53.117 edgeuno-rio-1.edge.nextdns.io ipv4-edgeuno-rio-1.edge.nextdns.io
 200.25.57.69 edgeuno-sao-1.edge.nextdns.io ipv4-edgeuno-sao-1.edge.nextdns.io
 200.25.70.69 edgeuno-cwb-1.edge.nextdns.io ipv4-edgeuno-cwb-1.edge.nextdns.io
-200.37.71.3 dns.tsi.com.pe
 202.5.222.2 jp-kix.doh.sb
 202.43.108.1 ns1.dts.com.vn
 202.61.236.67 nue01.dnscry.pt
@@ -1496,14 +1480,12 @@
 212.227.88.232 dns.fehlsprache.de
 212.227.205.78 dns.atsilva.link
 212.230.255.1 ns2.xtratelecom.es
-212.230.255.129 ns1.xtratelecom.es
 213.32.25.25 dns.szpadel.ovh
 213.136.13.36 doh.kooman.org
 213.142.225.9 dnstls.mobik.com
 213.155.91.68 dns.lars-lehmann.net
 213.166.247.100 dns.csaonline.de
 213.167.231.6 dns.beta.gandi.net
-213.178.54.62 ns3.mkrovlya.ru
 213.183.86.9 adguard.bonis.de
 213.188.209.115 doh.sunoaki.net
 213.196.191.96 ibksturm.synology.me
