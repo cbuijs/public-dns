@@ -229,7 +229,6 @@ dns.levonet.sk
 dns.lgprk.com
 dns.lobbygod.com
 dns.maitrekuc.fr
-dns.marbledfennec.net
 dns.mayx.eu.org
 dns.mnet-online.de
 dns.molinero.dev
@@ -295,7 +294,6 @@ dns1.nordvpn.com
 dns1.techniverse.net
 dns1.van.radiant.net
 dns1.vtelecom.am
-dns1.wideopenwest.com
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -348,6 +346,7 @@ doh.beauty
 doh.bt.com
 doh.buzz
 doh.captnemo.in
+doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cox.net
 doh.crypto.sx
@@ -356,6 +355,9 @@ doh.disconnect.app
 doh.dns4all.eu
 doh.dnswarden.com
 doh.domreg.lt
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.ersei.net
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
@@ -376,8 +378,10 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.onedns.net
 doh.opendns.com
+doh.pi-dns.com
 doh.pub
 doh.quickline.ch
 doh.safesurfer.io
@@ -393,6 +397,7 @@ doh.totoro.pub
 doh.umbrella.com
 doh.us.dnswarden.com
 doh.viatech.com.tw
+doh.westus.pi-dns.com
 doh.xfinity.com
 doh.zknt.org
 doh1.b-cdn.net
@@ -406,17 +411,23 @@ doq.ffmuc.net
 dot-de.blahdns.com
 dot-pure.onedns.net
 dot-sg.blahdns.com
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.onedns.net
 dot.pub
 dot.quickline.ch
 dot.sb
 dot.seby.io
 dot.tiar.app
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -432,7 +443,6 @@ edgeuno-cwb-1.edge.nextdns.io
 edgeuno-for-1.edge.nextdns.io
 edgeuno-rio-1.edge.nextdns.io
 edgeuno-sao-1.edge.nextdns.io
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
@@ -607,7 +617,6 @@ mrs01.dnscry.pt
 mru02.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
-multi.dns.marbledfennec.net
 muxyuji.ru
 n5.lsasss.com
 ncl01.dnscry.pt
@@ -619,12 +628,12 @@ nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 noads.joindns4.eu
 ns.00dani.me
+ns.dacom.co.kr
 ns.data.haus
 ns.elim.net
 ns.execulink.com
 ns.lgdacom.net
 ns.mtsoln.com
-ns.neterra.net
 ns.nwps.fi
 ns0.fdn.fr
 ns1.az-ix.net

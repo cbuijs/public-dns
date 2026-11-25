@@ -15,6 +15,7 @@
 2.dnscrypt.default.ns1.adguard.com
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
+3dcosas.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
@@ -38,7 +39,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -141,6 +141,7 @@ dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
 dns.alekberg.net
+dns.anonymous.pw
 dns.apigw.online
 dns.apple.com
 dns.arapurayil.com
@@ -159,7 +160,6 @@ dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
 dns.comeonjames.club
-dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
@@ -174,7 +174,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.editechstudio.com
 dns.ellichua.com
@@ -187,6 +186,7 @@ dns.frank-ruan.com
 dns.green-ping.lol
 dns.haboy.top
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
@@ -262,7 +262,6 @@ dns.sitdns.com
 dns.ssf-steel.com.tw
 dns.stvsk.ml
 dns.suhaila.dev
-dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
 dns.thiz.top
@@ -328,7 +327,6 @@ doh.abmb.win
 doh.au.ahadns.net
 doh.azoris.ovh
 doh.battle.christmas
-doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.dns-ga.de
@@ -339,9 +337,6 @@ doh.dns1.lonet.org
 doh.dnslify.com
 doh.doh.my.id
 doh.dscloud.me
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.excdn.eu.org
 doh.gcp.pathofgrace.com
@@ -364,13 +359,11 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.phdns1.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
@@ -380,7 +373,6 @@ doh.southam.family
 doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
-doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -391,24 +383,19 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
-dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.dns-ga.de
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
-dot.westus.pi-dns.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
@@ -481,10 +468,8 @@ mabuktogel.builders
 mabuktogel.creditcard
 mabuktogel.degree
 mabuktogel.directory
-mabuktogel.enterprises
 mabuktogel.immobilien
 mabuktogel.limited
-mabuktogel.ltd
 mailkyb.co
 mainframe.dewed.de
 mask-api.fe2.apple-dns.net
@@ -519,7 +504,6 @@ nl-ams2.doh.sb
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
-ns.elim.co.kr
 ns.lov.host
 ns.nerdytechgeeks.co.za
 ns1-doh.iriseden.fr
@@ -618,7 +602,6 @@ us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 use-application-dns.net
-v.qdev.cc
 v6.rubyfish.cn
 vanced.sytes.net
 vm.mytm.cc

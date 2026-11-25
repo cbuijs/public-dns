@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: "PUBLIC-DNS" IP AdGuard List
-! Version: 1795490453
+! Version: 1795577205
 !
 ! NOTE: This relies on the "$network" modifier of AdGuard!
 ! CAUTION: Does NOT work with AdGuardHome!
@@ -348,6 +348,7 @@
 52.80.248.44$network
 52.154.75.179$network
 52.199.8.149$network
+52.213.114.86$network
 52.246.182.50$network
 54.37.137.4$network
 54.38.32.102$network
@@ -401,12 +402,13 @@
 64.120.5.251$network
 64.120.95.36$network
 64.176.188.144$network
-64.233.207.16$network
+64.190.63.222$network
 65.20.80.92$network
 65.21.252.201$network
 65.21.253.73$network
+66.33.60.35$network
 66.33.60.129$network
-66.33.60.194$network
+66.33.60.130$network
 66.55.159.186$network
 66.92.159.2$network
 66.109.229.4$network
@@ -439,7 +441,6 @@
 76.76.2.11$network
 76.76.2.22$network
 76.76.21.22$network
-76.76.21.98$network
 76.223.54.146$network
 77.68.29.63$network
 77.68.50.239$network
@@ -638,8 +639,8 @@
 93.189.61.195$network
 93.190.126.69$network
 93.200.19.253$network
-93.221.41.23$network
 93.231.22.203$network
+93.234.197.82$network
 94.16.111.86$network
 94.16.116.146$network
 94.16.117.107$network
@@ -787,6 +788,7 @@
 104.21.16.249$network
 104.21.21.237$network
 104.21.22.31$network
+104.21.26.124$network
 104.21.27.244$network
 104.21.31.58$network
 104.21.32.168$network
@@ -842,6 +844,7 @@
 104.200.18.74$network
 104.200.67.194$network
 104.204.69.84$network
+104.219.250.37$network
 104.225.129.106$network
 104.234.167.66$network
 104.234.231.239$network
@@ -886,7 +889,7 @@
 113.142.83.132$network
 113.179.20.238$network
 113.210.64.250$network
-114.12.13.250$network
+114.12.15.69$network
 114.33.26.67$network
 114.34.0.56$network
 114.66.33.239$network
@@ -1159,8 +1162,6 @@
 161.97.219.84$network
 161.118.145.178$network
 161.129.34.134$network
-162.4.84.215$network
-162.4.84.247$network
 162.4.84.255$network
 162.14.21.56$network
 162.14.21.178$network
@@ -1243,6 +1244,7 @@
 172.67.133.130$network
 172.67.134.35$network
 172.67.134.157$network
+172.67.136.65$network
 172.67.137.18$network
 172.67.139.164$network
 172.67.140.94$network
@@ -1403,6 +1405,8 @@
 185.130.47.20$network
 185.131.216.30$network
 185.131.217.108$network
+185.131.217.191$network
+185.131.217.197$network
 185.134.196.52$network
 185.134.196.54$network
 185.134.196.55$network
@@ -1448,6 +1452,7 @@
 185.250.38.138$network
 185.250.250.61$network
 185.253.54.62$network
+186.241.42.45$network
 188.34.161.210$network
 188.34.183.35$network
 188.40.154.101$network
@@ -1470,7 +1475,9 @@
 188.245.192.196$network
 190.211.255.227$network
 192.3.4.22$network
+192.64.119.43$network
 192.64.119.49$network
+192.64.119.107$network
 192.64.119.252$network
 192.71.218.121$network
 192.99.125.157$network
@@ -1521,7 +1528,6 @@
 194.109.9.99$network
 194.109.104.104$network
 194.135.119.158$network
-194.158.78.137$network
 194.164.194.216$network
 194.169.169.169$network
 194.180.189.33$network
@@ -1597,6 +1603,7 @@
 203.29.241.76$network
 203.107.1.97$network
 203.107.1.100$network
+203.161.32.252$network
 203.180.140.77$network
 203.239.130.1$network
 204.9.92.87$network
@@ -1646,7 +1653,6 @@
 212.54.44.54$network
 212.60.61.246$network
 212.60.63.246$network
-212.73.140.66$network
 212.132.117.52$network
 212.185.200.25$network
 212.227.88.232$network

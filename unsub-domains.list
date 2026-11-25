@@ -5,7 +5,6 @@
 2.dns.noridev.moe
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.pumplex.com
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -42,6 +41,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -274,7 +274,6 @@ dns.almir1904.eu
 dns.alvosec.com
 dns.andrewnw.xyz
 dns.anon.no
-dns.anonymous.pw
 dns.api.globus.org
 dns.api.integration.globuscs.info
 dns.api.preview.globus.org
@@ -346,6 +345,7 @@ dns.colorfreedom.org
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
@@ -386,6 +386,7 @@ dns.dynx.pro
 dns.easyhns.com
 dns.easynet.dev
 dns.eddi.net
+dns.edgeburnmedia.com
 dns.edison42.dev
 dns.efficientdocuments.com
 dns.ekinao.com
@@ -440,7 +441,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
-dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.haoxuan.xyz
@@ -643,6 +643,7 @@ dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
+dns.swin.pro
 dns.switch.ch
 dns.sy.st
 dns.syaifullah.com
@@ -712,7 +713,6 @@ dns1.server.my.id
 dns1.techniverse.net
 dns1.van.radiant.net
 dns1.vtelecom.am
-dns1.wideopenwest.com
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -792,6 +792,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
@@ -806,6 +807,9 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnswarden.com
 doh.domreg.lt
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -837,10 +841,12 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
+doh.pi-dns.com
 doh.pub
 doh.pyry.me
 doh.quickline.ch
@@ -867,6 +873,7 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -884,11 +891,16 @@ doq.ffmuc.net
 dot-de.blahdns.com
 dot-pure.onedns.net
 dot-sg.blahdns.com
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.onedns.net
 dot.pub
 dot.quickline.ch
@@ -897,6 +909,7 @@ dot.seby.io
 dot.securedns.eu
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -918,7 +931,6 @@ edgeuno-cwb-1.edge.nextdns.io
 edgeuno-for-1.edge.nextdns.io
 edgeuno-rio-1.edge.nextdns.io
 edgeuno-sao-1.edge.nextdns.io
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -1124,6 +1136,8 @@ lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mabuktogel.business
 mabuktogel.cards
+mabuktogel.enterprises
+mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
@@ -1173,6 +1187,7 @@ noads.api.org.pl
 noads.imbuffering.com
 noads.joindns4.eu
 ns.00dani.me
+ns.dacom.co.kr
 ns.data.haus
 ns.elim.net
 ns.execulink.com
@@ -1180,7 +1195,6 @@ ns.lgdacom.net
 ns.lgtelecom.com
 ns.mtsoln.com
 ns.net.kg
-ns.neterra.net
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
@@ -1204,7 +1218,6 @@ ns1.skylinkfibernet.com
 ns1.smartnet.kz
 ns1.sotelips.net
 ns1.transtelecom.net
-ns1.xena.ad
 ns10.pasionporelruido.net
 ns2.4netguides.org
 ns2.arktika.ru
@@ -1495,6 +1508,7 @@ us1.blissdns.net
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
+v.qdev.cc
 v.recipes
 v0dka.ru
 v2.xx3210766.live

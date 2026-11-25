@@ -281,7 +281,7 @@
 49.212.235.44 dns.butterfly87.sbs dns.f97.xyz dns.vod11.xyz doh.sublime9.xyz lifeisa.live pepetio.xyz
 49.235.74.116 dns.zzuhacker.cn
 50.116.59.251 adguard.shoupperuser.com
-51.15.69.11 dns.almir1904.eu dns.anonymous.pw dns.mipauns.com dns.propheci.xyz dns.shecan.ir doh.li fra1.eyecay.xyz
+51.15.69.11 dns.almir1904.eu dns.mipauns.com dns.propheci.xyz dns.shecan.ir doh.li fra1.eyecay.xyz
 51.24.7.1 dns.easyhns.com
 51.75.96.82 ledns.eu
 51.77.106.89 dns-privacy.puregeni.us
@@ -308,6 +308,7 @@
 52.80.248.44 doh.onedns.net dot.onedns.net
 52.154.75.179 dns.sarilouis.com
 52.199.8.149 dns.nodoa.me
+52.213.114.86 dns.containerpi.com
 52.246.182.50 dnslow.me
 54.37.137.4 spacedns.org
 54.38.32.102 dns.charraud.eu
@@ -357,12 +358,13 @@
 64.118.135.26 adg.geili.me
 64.120.95.36 sg-w-f-1.nashkan.net
 64.176.188.144 dns.7vpn.com
-64.233.207.16 dns1.wideopenwest.com
+64.190.63.222 dns.swin.pro
 65.20.80.92 dns.iamanuragh.in
 65.21.252.201 tuu01.dnscry.pt
 65.21.253.73 fi-hel-w-f-2.nashkan.net
+66.33.60.35 arashi.net.eu.org
 66.33.60.129 apple.nextdns.io
-66.33.60.194 arashi.net.eu.org
+66.33.60.130 arashi.net.eu.org
 66.55.159.186 dnswebvsn.com
 66.92.159.2 dns.wdc1.speakeasy.net
 66.109.229.4 dns3.dejazzd.com
@@ -395,7 +397,6 @@
 76.76.2.11 family.freedns.controld.com freedns.controld.com p0.freedns.controld.com p1.freedns.controld.com p2.freedns.controld.com p3.freedns.controld.com uncensored.freedns.controld.com
 76.76.2.22 dns.controld.com
 76.76.21.22 apple.nextdns.io
-76.76.21.98 arashi.net.eu.org
 76.223.54.146 2.dnscrypt-cert.pumplex.com dns.faze.dev dns.pumplex.com ikarosalpha.xyz
 77.68.29.63 ahoj.email
 77.68.50.239 dns.connect.fail
@@ -571,8 +572,8 @@
 93.189.61.195 dns1.nextdns.io firefox.dns.nextdns.io ipv4-zepto-ams-2.edge.nextdns.io zepto-ams-2.edge.nextdns.io
 93.190.126.69 doh.immerda.ch
 93.200.19.253 ueni.dyndns.org
-93.221.41.23 dnsblock.grisumedia.de
 93.231.22.203 dns.reitmeier.me
+93.234.197.82 dnsblock.grisumedia.de
 94.16.111.86 dns.immanuelschaffer.de
 94.16.116.146 dns.scarx.net
 94.16.117.107 ns2.4netguides.org
@@ -708,6 +709,7 @@
 104.21.16.249 dns.xiumu.org
 104.21.21.237 mabuktogel.properties
 104.21.22.31 netcup.mismat.ch
+104.21.26.124 doh.centraleu.pi-dns.com doh.eastas.pi-dns.com doh.eastau.pi-dns.com doh.eastus.pi-dns.com doh.northeu.pi-dns.com doh.pi-dns.com doh.westus.pi-dns.com dot.centraleu.pi-dns.com dot.eastas.pi-dns.com dot.eastau.pi-dns.com dot.eastus.pi-dns.com dot.northeu.pi-dns.com dot.westus.pi-dns.com
 104.21.27.244 mabuktogel.solutions
 104.21.31.58 dns-secondary.cloudnx.cloud
 104.21.32.168 dns.rabbitdns.org family.rabbitdns.org security.rabbitdns.org
@@ -761,6 +763,7 @@
 104.200.18.74 dns.bobstrecansky.com
 104.200.67.194 lax02.dnscry.pt
 104.204.69.84 dns.omada.cafe
+104.219.250.37 v.qdev.cc
 104.225.129.106 jax01.dnscry.pt
 104.234.167.66 sg-w-p-1.nashkan.net
 104.234.231.239 ott01.dnscry.pt
@@ -800,7 +803,7 @@
 112.213.32.219 syd.adfilter.net
 113.179.20.238 tungdnsne.duckdns.org
 113.210.64.250 fwgw.orangepipc.mywire.org
-114.12.13.250 gustamadh.dynv6.net
+114.12.15.69 gustamadh.dynv6.net
 114.33.26.67 dns.jundev.org
 114.34.0.56 adguard.shuting.idv.tw
 114.66.33.239 dns.hujiayucc.cn
@@ -883,7 +886,6 @@
 138.2.72.94 tuandns.duckdns.org
 138.2.122.236 dns.eliv.kr
 138.2.123.220 dns.moonssif.com
-138.199.149.249 blank.dnsforge.de
 138.199.222.186 dns.is0mino.com
 138.236.128.100 cluster-0.gac.edu
 138.236.128.101 cluster-1.gac.edu
@@ -1045,13 +1047,11 @@
 160.191.182.216 blr01.dnscry.pt
 160.202.238.204 dns.23-4.cn
 160.250.95.28 dns.hakim.one
-160.251.64.80 adguard.londonwebnerd.cloud atris.cyou cynntex.fun deep-henchman-excuse.cfd dns.cybertonic.tech dns.vip-kingstore.xyz do-39574-tr.xyz hfgx.shop kx-97795-tr.xyz lesuo.top mikezhang.xyz myatris.sbs xholgm.top
+160.251.64.80 adguard.ajinga.net adguard.londonwebnerd.cloud atris.cyou cynntex.fun deep-henchman-excuse.cfd dns.cybertonic.tech dns.vip-kingstore.xyz do-39574-tr.xyz hfgx.shop kx-97795-tr.xyz lesuo.top mikezhang.xyz myatris.sbs xholgm.top
 161.35.136.3 doh-primary-pool.goodbyegambling.com
 161.118.145.178 adguard.haneulo.com
 161.129.34.134 5g.o0o.re
-162.4.84.215 3dcosas.xyz edgy-dns.com family.dns.doubleangels.com lukscasino-479-tr.xyz lukscasino-929-tr.xyz sdns22.gkonuralp.com
-162.4.84.247 dns.hakutakucn.com
-162.4.84.255 dns.pernika.net hkname.freecdn.one mendozasdelivery.com pashagame456.com
+162.4.84.255 dns.pernika.net family.dns.doubleangels.com hkname.freecdn.one lukscasino-479-tr.xyz lukscasino-929-tr.xyz mendozasdelivery.com pashagame456.com sdns22.gkonuralp.com
 162.19.227.251 fezgate.ovh
 162.55.58.40 ctif.hagezi.org
 162.159.36.5 frd4wvnobp.cloudflare-gateway.com www.cloudflare-gateway.com
@@ -1070,7 +1070,7 @@
 163.172.131.116 stratus.bugz.fr
 164.70.114.51 dns.ekinao.com
 164.90.207.7 adblockersite.com
-164.124.101.2 ns.lgdacom.net ns.lgtelecom.com
+164.124.101.2 ns.dacom.co.kr ns.lgdacom.net ns.lgtelecom.com
 164.132.7.242 dns.christerwaren.fi
 165.1.79.112 hitian.me
 165.99.131.95 sgn01.dnscry.pt
@@ -1122,6 +1122,7 @@
 172.67.129.230 dns.pizzari.me
 172.67.133.130 o1.lt
 172.67.134.35 adguard.quydang.name.vn
+172.67.136.65 doh.centraleu.pi-dns.com doh.eastas.pi-dns.com doh.eastau.pi-dns.com doh.eastus.pi-dns.com doh.northeu.pi-dns.com doh.pi-dns.com doh.westus.pi-dns.com dot.centraleu.pi-dns.com dot.eastas.pi-dns.com dot.eastau.pi-dns.com dot.eastus.pi-dns.com dot.northeu.pi-dns.com dot.westus.pi-dns.com
 172.67.137.18 dns.silen.org
 172.67.139.164 commons.host
 172.67.140.94 crypto.sx doh-ipv6.crypto.sx doh.crypto.sx odoh.crypto.sx
@@ -1268,6 +1269,8 @@
 185.130.47.20 nl.dns.privex.io
 185.131.216.30 ns.trcnet.fi
 185.131.217.108 ns.trcnet.fi
+185.131.217.191 ns.trcnet.fi
+185.131.217.197 ns.trcnet.fi
 185.134.196.52 pdns.faelix.net
 185.134.196.54 rdns.faelix.net
 185.134.196.55 rdns.faelix.net
@@ -1307,6 +1310,7 @@
 185.245.236.4 doh.funtopia.tv
 185.250.38.138 kilabit.info
 185.250.250.61 dnsbunker.org
+186.241.42.45 dns.edgeburnmedia.com
 188.34.161.210 root.hagezi.org
 188.34.183.35 doh.luigi.nexific.it
 188.40.154.101 dns01.flm9.net
@@ -1324,7 +1328,9 @@
 188.245.165.100 dns.deadsec.net
 188.245.192.196 pidoh.mapledns.net
 192.3.4.22 dns.stevenz.net doh.sz-dns.com
+192.64.119.43 mabuktogel.ltd
 192.64.119.49 affsoft.cc
+192.64.119.107 mabuktogel.enterprises
 192.64.119.252 polisitogel.green
 192.71.218.121 haf01.dnscry.pt
 192.99.125.157 mailer.amlegion.org
@@ -1366,7 +1372,6 @@
 194.97.157.22 dns.floriantinney.de
 194.100.93.136 lastentarvike.fi
 194.135.119.158 tbs01.dnscry.pt
-194.158.78.137 ns1.xena.ad
 194.169.169.169 dns.surfsharkdns.com
 194.180.189.33 dnsdoh.art
 194.190.174.17 ns2.arktika.ru
@@ -1431,6 +1436,7 @@
 203.29.241.76 per.adfilter.net
 203.107.1.97 httpdns-sc.aliyuncs.com
 203.107.1.100 httpdns-sc.aliyuncs.com
+203.161.32.252 v.qdev.cc
 203.180.140.77 iij.jp
 203.239.130.1 ns.elim.net
 204.9.92.87 adguard1.leadmon.net
@@ -1474,7 +1480,6 @@
 212.18.3.5 dns.mnet-online.de
 212.60.61.246 doh.quickline.ch dot.quickline.ch
 212.60.63.246 doh.quickline.ch dot.quickline.ch
-212.73.140.66 ns.neterra.net
 212.132.117.52 dns.peb-schmidt.de
 212.185.200.25 dns1.conne.net
 212.227.88.232 dns.fehlsprache.de
