@@ -1070,7 +1070,7 @@
 163.172.131.116 stratus.bugz.fr
 164.70.114.51 dns.ekinao.com
 164.90.207.7 adblockersite.com
-164.124.101.2 ns.dacom.co.kr ns.lgdacom.net ns.lgtelecom.com
+164.124.101.2 ns.dacom.co.kr ns.lgdacom.net
 164.132.7.242 dns.christerwaren.fi
 165.1.79.112 hitian.me
 165.99.131.95 sgn01.dnscry.pt
@@ -1438,7 +1438,6 @@
 203.107.1.100 httpdns-sc.aliyuncs.com
 203.161.32.252 v.qdev.cc
 203.180.140.77 iij.jp
-203.239.130.1 ns.elim.net
 204.9.92.87 adguard1.leadmon.net
 204.10.79.38 doh.sunoaki.net
 204.12.237.197 dns.furrix.zone dns.marbledfennec.net multi.dns.marbledfennec.net
@@ -1480,6 +1479,7 @@
 212.18.3.5 dns.mnet-online.de
 212.60.61.246 doh.quickline.ch dot.quickline.ch
 212.60.63.246 doh.quickline.ch dot.quickline.ch
+212.73.140.66 ns.neterra.net
 212.132.117.52 dns.peb-schmidt.de
 212.185.200.25 dns1.conne.net
 212.227.88.232 dns.fehlsprache.de
