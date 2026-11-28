@@ -252,7 +252,6 @@ dns.quad9.net
 dns.rabbitdns.org
 dns.ronc.ru
 dns.rubyfish.cn
-dns.sarak.as
 dns.sb
 dns.sellan.fr
 dns.shecan.ir
@@ -346,6 +345,7 @@ doh.beauty
 doh.bt.com
 doh.buzz
 doh.captnemo.in
+doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cox.net
@@ -637,6 +637,7 @@ ns.neterra.net
 ns.nwps.fi
 ns0.fdn.fr
 ns1.az-ix.net
+ns1.dnsmatrix.net
 ns1.dsl.net
 ns1.epidc.co.kr
 ns1.exsbs.net
